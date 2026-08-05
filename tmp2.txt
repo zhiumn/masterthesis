@@ -1,0 +1,2 @@
+models\sharp_turn_dynamic | Seeds: 10 | Gates: 23.82 | Jerk: 19.270
+models\sharp_turn_static  | Seeds: 10 | Gates: 24.69 | Jerk: 19.122

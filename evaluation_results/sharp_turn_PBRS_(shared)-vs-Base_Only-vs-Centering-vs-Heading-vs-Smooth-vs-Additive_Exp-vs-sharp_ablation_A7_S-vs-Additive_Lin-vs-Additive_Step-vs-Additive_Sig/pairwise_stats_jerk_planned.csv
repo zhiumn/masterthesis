@@ -1,0 +1,9 @@
+Family,Method_A,Method_B,N_A,N_B,Delta,Hedges_g,p_raw,p_holm,Significance
+Family A,PBRS (shared),sharp_ablation_A7-S,10,10,-1.15,-0.626,0.161168,0.49254,n.s.
+Family A,PBRS (shared),Additive-Step,10,10,-1.42,-0.9391,0.044061,0.22030500000000003,n.s.
+Family A,Base Only,sharp_ablation_A7-S,10,10,-0.86,-0.4478,0.30964,0.61928,n.s.
+Family A,Base Only,Additive-Step,10,10,-1.13,-0.7008,0.123135,0.49254,n.s.
+Family A,sharp_ablation_A7-S,Additive-Step,10,10,-0.27,-0.1722,0.693254,0.693254,n.s.
+Family B,Base Only,+Centering,10,10,-0.79,-0.4242,0.335246,1.0,n.s.
+Family B,Base Only,+Heading,10,10,-0.48,-0.2655,0.543249,1.0,n.s.
+Family B,Base Only,+Smooth,10,10,-0.18,-0.1126,0.796558,1.0,n.s.

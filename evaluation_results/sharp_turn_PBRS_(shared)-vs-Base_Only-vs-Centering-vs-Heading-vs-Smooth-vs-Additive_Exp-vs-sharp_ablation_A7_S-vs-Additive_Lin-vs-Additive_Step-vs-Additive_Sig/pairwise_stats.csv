@@ -1,0 +1,46 @@
+Method_A,Method_B,Delta,Cohen_d,p_value,Significance
+PBRS (shared),Base Only,-3.88,-0.2638,0.000034,***
+PBRS (shared),#NAME?,2.87,0.1657,0.008996,**
+PBRS (shared),#NAME?,5.68,0.3248,0,***
+PBRS (shared),#NAME?,4.96,0.3056,0.000002,***
+PBRS (shared),Additive-Exp,13.07,0.7468,0,***
+PBRS (shared),sharp_ablation_A7-S,9.05,0.4994,0,***
+PBRS (shared),Additive-Lin,12.27,0.6886,0,***
+PBRS (shared),Additive-Step,12.34,0.6925,0,***
+PBRS (shared),Additive-Sig,8.35,0.4661,0,***
+Base Only,#NAME?,6.75,0.4078,0,***
+Base Only,#NAME?,9.56,0.5718,0,***
+Base Only,#NAME?,8.84,0.5739,0,***
+Base Only,Additive-Exp,16.95,1.013,0,***
+Base Only,sharp_ablation_A7-S,12.93,0.7439,0,***
+Base Only,Additive-Lin,16.15,0.9465,0,***
+Base Only,Additive-Step,16.22,0.9505,0,***
+Base Only,Additive-Sig,12.23,0.7126,0,***
+#NAME?,#NAME?,2.81,0.1472,0.020229,*
+#NAME?,#NAME?,2.09,0.1166,0.065886,n.s.
+#NAME?,Additive-Exp,10.2,0.5345,0,***
+#NAME?,sharp_ablation_A7-S,6.18,0.3145,0.000001,***
+#NAME?,Additive-Lin,9.4,0.4852,0,***
+#NAME?,Additive-Step,9.47,0.4888,0,***
+#NAME?,Additive-Sig,5.48,0.2816,0.00001,***
+#NAME?,#NAME?,-0.72,-0.0397,0.530687,n.s.
+#NAME?,Additive-Exp,7.39,0.3845,0,***
+#NAME?,sharp_ablation_A7-S,3.37,0.1704,0.007226,**
+#NAME?,Additive-Lin,6.59,0.3378,0,***
+#NAME?,Additive-Step,6.66,0.3413,0,***
+#NAME?,Additive-Sig,2.67,0.1363,0.031568,*
+#NAME?,Additive-Exp,8.11,0.4482,0,***
+#NAME?,sharp_ablation_A7-S,4.09,0.2188,0.000572,***
+#NAME?,Additive-Lin,7.31,0.3972,0,***
+#NAME?,Additive-Step,7.38,0.401,0,***
+#NAME?,Additive-Sig,3.39,0.1833,0.003877,**
+Additive-Exp,sharp_ablation_A7-S,-4.02,-0.2029,0.001395,**
+Additive-Exp,Additive-Lin,-0.8,-0.0411,0.516753,n.s.
+Additive-Exp,Additive-Step,-0.73,-0.0375,0.554028,n.s.
+Additive-Exp,Additive-Sig,-4.72,-0.2407,0.000152,***
+sharp_ablation_A7-S,Additive-Lin,3.22,0.1602,0.011561,*
+sharp_ablation_A7-S,Additive-Step,3.29,0.1636,0.009884,**
+sharp_ablation_A7-S,Additive-Sig,-0.7,-0.0348,0.582743,n.s.
+Additive-Lin,Additive-Step,0.07,0.0035,0.955511,n.s.
+Additive-Lin,Additive-Sig,-3.92,-0.197,0.001914,**
+Additive-Step,Additive-Sig,-3.99,-0.2005,0.001588,**

@@ -1,0 +1,15 @@
+==================================================
+System Information
+==================================================
+OS: Windows-10-10.0.26200-SP0
+Python: 3.10.20 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:42:35) [MSC v.1942 64 bit (AMD64)]
+PyTorch: 2.12.0.dev20260327+cu128
+CUDA (PyTorch): 12.8
+cuDNN: 92000
+GPU available: True
+GPU name: NVIDIA GeForce RTX 5070 Ti
+PyBullet: installed
+IsaacGym: NOT installed
+Stable-Baselines3: 2.7.1
+Gymnasium: 1.2.3
+==================================================

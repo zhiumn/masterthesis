@@ -1,0 +1,46 @@
+Method_A,Method_B,Delta,Cohen_d,p_value,Significance
+PBRS (shared),Additive-Exp,7.87,0.2488,0.000091,***
+PBRS (shared),Additive-Fixed,9.66,0.2965,0.000003,***
+PBRS (shared),Base Only,7.63,0.2374,0.000187,***
+PBRS (shared),add Centering,12.96,0.3947,0,***
+PBRS (shared),add Heading,4.91,0.162,0.010629,*
+PBRS (shared),add Smooth,4.39,0.1387,0.028738,*
+PBRS (shared),Additive-Lin,11.88,0.3652,0,***
+PBRS (shared),Additive-Step,17.09,0.5034,0,***
+PBRS (shared),Additive-Sig,13.03,0.3798,0,***
+Additive-Exp,Additive-Fixed,1.79,0.0516,0.41544,n.s.
+Additive-Exp,Base Only,-0.24,-0.0071,0.910431,n.s.
+Additive-Exp,add Centering,5.08,0.1457,0.021584,*
+Additive-Exp,add Heading,-2.96,-0.0909,0.15127,n.s.
+Additive-Exp,add Smooth,-3.48,-0.1031,0.103813,n.s.
+Additive-Exp,Additive-Lin,4,0.1157,0.068031,n.s.
+Additive-Exp,Additive-Step,9.21,0.2563,0.000056,***
+Additive-Exp,Additive-Sig,5.15,0.142,0.025128,*
+Additive-Fixed,Base Only,-2.03,-0.0579,0.36086,n.s.
+Additive-Fixed,add Centering,3.3,0.0922,0.145513,n.s.
+Additive-Fixed,add Heading,-4.75,-0.1419,0.025214,*
+Additive-Fixed,add Smooth,-5.27,-0.1521,0.016495,*
+Additive-Fixed,Additive-Lin,2.21,0.0624,0.32419,n.s.
+Additive-Fixed,Additive-Step,7.43,0.202,0.001467,**
+Additive-Fixed,Additive-Sig,3.36,0.0907,0.152338,n.s.
+Base Only,add Centering,5.33,0.1508,0.017427,*
+Base Only,add Heading,-2.72,-0.0822,0.194281,n.s.
+Base Only,add Smooth,-3.24,-0.0946,0.135505,n.s.
+Base Only,Additive-Lin,4.25,0.1211,0.055967,n.s.
+Base Only,Additive-Step,9.46,0.26,0.000043,***
+Base Only,Additive-Sig,5.4,0.147,0.020442,*
+add Centering,add Heading,-8.04,-0.2387,0.000173,***
+add Centering,add Smooth,-8.57,-0.2455,0.000112,***
+add Centering,Additive-Lin,-1.08,-0.0303,0.632036,n.s.
+add Centering,Additive-Step,4.13,0.1117,0.078072,n.s.
+add Centering,Additive-Sig,0.07,0.0018,0.977039,n.s.
+add Heading,add Smooth,-0.52,-0.0161,0.799394,n.s.
+add Heading,Additive-Lin,6.96,0.2085,0.001026,**
+add Heading,Additive-Step,12.17,0.35,0,***
+add Heading,Additive-Sig,8.11,0.2309,0.000279,***
+add Smooth,Additive-Lin,7.49,0.2163,0.00066,***
+add Smooth,Additive-Step,12.7,0.3532,0,***
+add Smooth,Additive-Sig,8.64,0.238,0.000181,***
+Additive-Lin,Additive-Step,5.21,0.142,0.025142,*
+Additive-Lin,Additive-Sig,1.15,0.031,0.623924,n.s.
+Additive-Step,Additive-Sig,-4.06,-0.1061,0.094178,n.s.

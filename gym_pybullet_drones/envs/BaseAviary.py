@@ -147,7 +147,7 @@ class BaseAviary(gym.Env):
         #### Connect to PyBullet ###################################
         if self.GUI:
             #### With debug GUI ########################################
-            self.CLIENT = p.connect(p.GUI) # p.connect(p.GUI, options="--opengl2")
+            self.CLIENT = p.connect(p.GUI, options="--width=1280 --height=720")
             for i in [p.COV_ENABLE_RGB_BUFFER_PREVIEW, p.COV_ENABLE_DEPTH_BUFFER_PREVIEW, p.COV_ENABLE_SEGMENTATION_MARK_PREVIEW]:
                 p.configureDebugVisualizer(i, 0, physicsClientId=self.CLIENT)
             p.resetDebugVisualizerCamera(cameraDistance=3,
@@ -240,7 +240,8 @@ class BaseAviary(gym.Env):
 
         """
 
-        # TODO : initialize random number generator with seed
+        if seed is not None:
+            self._np_random, _ = gym.utils.seeding.np_random(seed)
 
         p.resetSimulation(physicsClientId=self.CLIENT)
         #### Housekeeping ##########################################

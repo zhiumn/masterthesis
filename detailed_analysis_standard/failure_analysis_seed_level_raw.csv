@@ -1,0 +1,2001 @@
+Scene,Method,Train Seed,Episode,Test Seed,Termination Reason,Final Speed,Gates Passed
+standard,Base Only,0,0,150000,Undershoot Turn (轉向不足),4.3781885921678025,41
+standard,Base Only,0,1,150001,Collision (Crash),4.97534671284069,20
+standard,Base Only,0,2,150002,Undershoot Turn (轉向不足),4.5505013131412815,14
+standard,Base Only,0,3,150003,Out of Bounds (Normal Flight),5.176878798900987,67
+standard,Base Only,0,4,150004,Collision (Crash),4.904264818391106,22
+standard,Base Only,0,5,150005,Collision (Crash),5.420403426331797,7
+standard,Base Only,0,6,150006,Collision (Oversteering Spin),1.3737924395298988,76
+standard,Base Only,0,7,150007,Success (Reached Max Time),4.801203406104317,89
+standard,Base Only,0,8,150008,Success (Reached Max Time),5.517359133965815,88
+standard,Base Only,0,9,150009,Collision (Crash),4.542149541170883,33
+standard,Base Only,0,10,150010,Collision (Crash),5.046733085242116,10
+standard,Base Only,0,11,150011,Undershoot Turn (轉向不足),2.6185714420764987,12
+standard,Base Only,0,12,150012,Collision (Crash),4.261018638572543,29
+standard,Base Only,0,13,150013,Collision (Crash),4.230616892516442,16
+standard,Base Only,0,14,150014,Undershoot Turn (轉向不足),4.37831030108131,73
+standard,Base Only,0,15,150015,Success (Reached Max Time),4.080204546663955,88
+standard,Base Only,0,16,150016,Collision (Crash),3.628064264622463,0
+standard,Base Only,0,17,150017,Success (Reached Max Time),4.715536532921964,90
+standard,Base Only,0,18,150018,Collision (Crash),5.042889094466304,82
+standard,Base Only,0,19,150019,Success (Reached Max Time),5.017327255505522,89
+standard,Base Only,0,20,150020,Success (Reached Max Time),4.9415203382295045,89
+standard,Base Only,0,21,150021,Collision (Crash),4.829308147029994,45
+standard,Base Only,0,22,150022,Success (Reached Max Time),4.811215272755323,88
+standard,Base Only,0,23,150023,Collision (Crash),4.846353358009082,47
+standard,Base Only,0,24,150024,Success (Reached Max Time),5.188709165648086,86
+standard,Base Only,0,25,150025,Success (Reached Max Time),5.190852575227166,88
+standard,Base Only,0,26,150026,Success (Reached Max Time),4.528789427034855,88
+standard,Base Only,0,27,150027,Success (Reached Max Time),5.225811139035108,89
+standard,Base Only,0,28,150028,Collision (Crash),4.95506038677099,8
+standard,Base Only,0,29,150029,Collision (Crash),3.8679044127131452,0
+standard,Base Only,0,30,150030,Collision (Crash),5.1029828168342455,61
+standard,Base Only,0,31,150031,Success (Reached Max Time),4.669505385449354,87
+standard,Base Only,0,32,150032,Collision (Crash),4.342856167436366,53
+standard,Base Only,0,33,150033,Collision (Crash),4.998749982867274,12
+standard,Base Only,0,34,150034,Undershoot Turn (轉向不足),3.120234915692513,79
+standard,Base Only,0,35,150035,Collision (Crash),5.011858918097046,7
+standard,Base Only,0,36,150036,Collision (Crash),4.587399498659359,54
+standard,Base Only,0,37,150037,Collision (Crash),5.33426124211929,29
+standard,Base Only,0,38,150038,Collision (Oversteering Spin),3.5610138259773705,79
+standard,Base Only,0,39,150039,Success (Reached Max Time),2.059552570372502,85
+standard,Base Only,0,40,150040,Success (Reached Max Time),4.518702908954284,87
+standard,Base Only,0,41,150041,Collision (Crash),4.8268793975700275,65
+standard,Base Only,0,42,150042,Collision (Crash),3.984977343021794,19
+standard,Base Only,0,43,150043,Collision (Crash),4.028355610146736,1
+standard,Base Only,0,44,150044,Collision (Crash),4.430064175456716,49
+standard,Base Only,0,45,150045,Collision (Crash),5.937318988562184,7
+standard,Base Only,0,46,150046,Collision (Crash),3.0045929184837945,1
+standard,Base Only,0,47,150047,Collision (Crash),4.7249074375777935,75
+standard,Base Only,0,48,150048,Success (Reached Max Time),5.263412659638477,86
+standard,Base Only,0,49,150049,Collision (Crash),4.600723017211801,57
+standard,Base Only,1,0,150000,Success (Reached Max Time),4.308423061070522,84
+standard,Base Only,1,1,150001,Collision (Crash),4.318783152379178,15
+standard,Base Only,1,2,150002,Collision (Crash),4.644827937332468,79
+standard,Base Only,1,3,150003,Success (Reached Max Time),4.439804111897325,83
+standard,Base Only,1,4,150004,Collision (Crash),4.851159497378314,43
+standard,Base Only,1,5,150005,Collision (Crash),4.1746564795278065,34
+standard,Base Only,1,6,150006,Collision (Crash),4.975735046108437,53
+standard,Base Only,1,7,150007,Collision (Crash),4.707724203708738,37
+standard,Base Only,1,8,150008,Out of Bounds (Normal Flight),4.093196314941546,74
+standard,Base Only,1,9,150009,Collision (Crash),4.555191696517714,35
+standard,Base Only,1,10,150010,Collision (Crash),4.620714539552844,25
+standard,Base Only,1,11,150011,Success (Reached Max Time),3.9991989405364774,85
+standard,Base Only,1,12,150012,Collision (Crash),4.796727574454331,37
+standard,Base Only,1,13,150013,Success (Reached Max Time),4.387931897665321,85
+standard,Base Only,1,14,150014,Success (Reached Max Time),4.9946559184705155,84
+standard,Base Only,1,15,150015,Collision (Crash),4.511061196035534,52
+standard,Base Only,1,16,150016,Collision (Crash),4.624330128074328,78
+standard,Base Only,1,17,150017,Collision (Crash),4.682812155426659,12
+standard,Base Only,1,18,150018,Collision (Crash),4.917954825486908,79
+standard,Base Only,1,19,150019,Out of Bounds (Normal Flight),4.841416578891348,68
+standard,Base Only,1,20,150020,Collision (Crash),4.865145265187916,20
+standard,Base Only,1,21,150021,Collision (Crash),4.5503321342756005,31
+standard,Base Only,1,22,150022,Success (Reached Max Time),4.764378450508586,85
+standard,Base Only,1,23,150023,Collision (Crash),4.5871011492483245,28
+standard,Base Only,1,24,150024,Collision (Crash),4.48745703351732,43
+standard,Base Only,1,25,150025,Collision (Crash),4.051963203288775,9
+standard,Base Only,1,26,150026,Collision (Crash),4.737583888599048,48
+standard,Base Only,1,27,150027,Collision (Crash),4.14145371862239,35
+standard,Base Only,1,28,150028,Collision (Crash),4.17178775598732,10
+standard,Base Only,1,29,150029,Collision (Crash),4.938310449652096,17
+standard,Base Only,1,30,150030,Collision (Crash),4.673794327223663,25
+standard,Base Only,1,31,150031,Success (Reached Max Time),4.582564525846954,86
+standard,Base Only,1,32,150032,Collision (Crash),4.479262785306871,9
+standard,Base Only,1,33,150033,Success (Reached Max Time),4.544072887721496,85
+standard,Base Only,1,34,150034,Out of Bounds (Normal Flight),4.745354279389079,78
+standard,Base Only,1,35,150035,Collision (Crash),4.416459433374861,11
+standard,Base Only,1,36,150036,Collision (Crash),4.747489347684951,15
+standard,Base Only,1,37,150037,Collision (Crash),4.895991589072158,40
+standard,Base Only,1,38,150038,Collision (Crash),5.092176639778671,23
+standard,Base Only,1,39,150039,Undershoot Turn (轉向不足),3.971259105925128,67
+standard,Base Only,1,40,150040,Out of Bounds (Normal Flight),3.7581465083986116,0
+standard,Base Only,1,41,150041,Success (Reached Max Time),5.158079876007778,86
+standard,Base Only,1,42,150042,Collision (Crash),4.769224239863336,20
+standard,Base Only,1,43,150043,Collision (Crash),4.648597608065961,80
+standard,Base Only,1,44,150044,Success (Reached Max Time),4.173808139433208,85
+standard,Base Only,1,45,150045,Collision (Crash),4.615884086145719,64
+standard,Base Only,1,46,150046,Collision (Crash),4.761086306717493,57
+standard,Base Only,1,47,150047,Success (Reached Max Time),4.777571221957715,83
+standard,Base Only,1,48,150048,Success (Reached Max Time),4.459661655701516,83
+standard,Base Only,1,49,150049,Collision (Crash),4.470292397739706,68
+standard,Base Only,2,0,150000,Success (Reached Max Time),4.305409557685479,85
+standard,Base Only,2,1,150001,Success (Reached Max Time),5.416141363899272,85
+standard,Base Only,2,2,150002,Collision (Crash),5.033713267809135,1
+standard,Base Only,2,3,150003,Success (Reached Max Time),4.673465730586196,83
+standard,Base Only,2,4,150004,Success (Reached Max Time),3.97130356046051,80
+standard,Base Only,2,5,150005,Success (Reached Max Time),4.569234833540798,83
+standard,Base Only,2,6,150006,Success (Reached Max Time),4.6021402334525785,85
+standard,Base Only,2,7,150007,Collision (Crash),4.026151834112124,69
+standard,Base Only,2,8,150008,Collision (Crash),4.384640674815914,78
+standard,Base Only,2,9,150009,Success (Reached Max Time),4.992396198790256,84
+standard,Base Only,2,10,150010,Collision (Crash),3.8681375247887,22
+standard,Base Only,2,11,150011,Collision (Crash),4.733419031096142,28
+standard,Base Only,2,12,150012,Success (Reached Max Time),4.31949580781833,83
+standard,Base Only,2,13,150013,Collision (Crash),3.958494970465644,16
+standard,Base Only,2,14,150014,Success (Reached Max Time),4.4716404170009225,84
+standard,Base Only,2,15,150015,Collision (Crash),3.67242243856605,0
+standard,Base Only,2,16,150016,Collision (Crash),4.7169924699921095,41
+standard,Base Only,2,17,150017,Success (Reached Max Time),5.250327830664125,86
+standard,Base Only,2,18,150018,Success (Reached Max Time),4.543502937860626,78
+standard,Base Only,2,19,150019,Success (Reached Max Time),4.198339393104649,86
+standard,Base Only,2,20,150020,Collision (Crash),5.418604532386144,15
+standard,Base Only,2,21,150021,Collision (Crash),4.145005082196203,0
+standard,Base Only,2,22,150022,Success (Reached Max Time),4.572054086447657,86
+standard,Base Only,2,23,150023,Collision (Crash),4.022037462386885,44
+standard,Base Only,2,24,150024,Success (Reached Max Time),4.306929902961269,82
+standard,Base Only,2,25,150025,Success (Reached Max Time),5.068055517746196,86
+standard,Base Only,2,26,150026,Collision (Crash),4.14945086836962,0
+standard,Base Only,2,27,150027,Success (Reached Max Time),4.86513027702229,85
+standard,Base Only,2,28,150028,Success (Reached Max Time),4.616217072296219,83
+standard,Base Only,2,29,150029,Collision (Crash),3.8794303820643363,27
+standard,Base Only,2,30,150030,Success (Reached Max Time),4.342090711408376,87
+standard,Base Only,2,31,150031,Success (Reached Max Time),4.384287180100681,82
+standard,Base Only,2,32,150032,Success (Reached Max Time),4.258820521577191,87
+standard,Base Only,2,33,150033,Success (Reached Max Time),4.249628296596003,85
+standard,Base Only,2,34,150034,Collision (Oversteering Spin),3.084017516993588,33
+standard,Base Only,2,35,150035,Success (Reached Max Time),4.796343156702886,82
+standard,Base Only,2,36,150036,Success (Reached Max Time),4.935017708433544,80
+standard,Base Only,2,37,150037,Success (Reached Max Time),5.152041430924426,86
+standard,Base Only,2,38,150038,Success (Reached Max Time),4.307458773253403,86
+standard,Base Only,2,39,150039,Collision (Crash),4.2402113610300445,32
+standard,Base Only,2,40,150040,Success (Reached Max Time),4.196844310761641,86
+standard,Base Only,2,41,150041,Success (Reached Max Time),4.990844418651332,87
+standard,Base Only,2,42,150042,Success (Reached Max Time),4.878917067238649,88
+standard,Base Only,2,43,150043,Success (Reached Max Time),4.05537374421887,87
+standard,Base Only,2,44,150044,Success (Reached Max Time),4.267389359856339,87
+standard,Base Only,2,45,150045,Success (Reached Max Time),4.984981129090044,85
+standard,Base Only,2,46,150046,Success (Reached Max Time),4.355518015680771,80
+standard,Base Only,2,47,150047,Success (Reached Max Time),5.1036039384310845,85
+standard,Base Only,2,48,150048,Success (Reached Max Time),4.6870545796449425,83
+standard,Base Only,2,49,150049,Collision (Crash),4.729948421273059,67
+standard,Base Only,3,0,150000,Success (Reached Max Time),4.43279533951143,80
+standard,Base Only,3,1,150001,Success (Reached Max Time),4.434190291669929,80
+standard,Base Only,3,2,150002,Success (Reached Max Time),4.729922349078358,80
+standard,Base Only,3,3,150003,Success (Reached Max Time),4.349207311056739,78
+standard,Base Only,3,4,150004,Success (Reached Max Time),4.53169862490254,78
+standard,Base Only,3,5,150005,Success (Reached Max Time),4.714820135698827,80
+standard,Base Only,3,6,150006,Success (Reached Max Time),3.5680290398472083,77
+standard,Base Only,3,7,150007,Success (Reached Max Time),4.019703774411329,79
+standard,Base Only,3,8,150008,Success (Reached Max Time),4.500753079704828,80
+standard,Base Only,3,9,150009,Success (Reached Max Time),4.171351812252586,79
+standard,Base Only,3,10,150010,Success (Reached Max Time),3.6151159188043755,75
+standard,Base Only,3,11,150011,Success (Reached Max Time),3.930276155241479,79
+standard,Base Only,3,12,150012,Success (Reached Max Time),3.8387410990097086,78
+standard,Base Only,3,13,150013,Success (Reached Max Time),4.304772035821502,78
+standard,Base Only,3,14,150014,Success (Reached Max Time),4.238572860530706,76
+standard,Base Only,3,15,150015,Success (Reached Max Time),4.4803438917788725,77
+standard,Base Only,3,16,150016,Success (Reached Max Time),4.661352851829669,80
+standard,Base Only,3,17,150017,Success (Reached Max Time),3.7623927566234707,75
+standard,Base Only,3,18,150018,Success (Reached Max Time),4.842213683694072,75
+standard,Base Only,3,19,150019,Success (Reached Max Time),4.528258453837494,80
+standard,Base Only,3,20,150020,Success (Reached Max Time),4.47534080705813,77
+standard,Base Only,3,21,150021,Success (Reached Max Time),4.160755407522392,77
+standard,Base Only,3,22,150022,Success (Reached Max Time),4.7212197303134555,78
+standard,Base Only,3,23,150023,Success (Reached Max Time),4.593251356433373,79
+standard,Base Only,3,24,150024,Success (Reached Max Time),4.495802387846093,80
+standard,Base Only,3,25,150025,Success (Reached Max Time),3.7610382522463435,75
+standard,Base Only,3,26,150026,Success (Reached Max Time),4.472230243723316,77
+standard,Base Only,3,27,150027,Success (Reached Max Time),4.807526902714795,81
+standard,Base Only,3,28,150028,Success (Reached Max Time),3.1164597095181317,75
+standard,Base Only,3,29,150029,Success (Reached Max Time),4.7787393017564295,80
+standard,Base Only,3,30,150030,Success (Reached Max Time),4.391982331079323,76
+standard,Base Only,3,31,150031,Success (Reached Max Time),4.195412304307647,82
+standard,Base Only,3,32,150032,Success (Reached Max Time),4.164519792227174,80
+standard,Base Only,3,33,150033,Success (Reached Max Time),4.841179852840846,79
+standard,Base Only,3,34,150034,Success (Reached Max Time),4.251172770545059,79
+standard,Base Only,3,35,150035,Success (Reached Max Time),3.8645940831607923,78
+standard,Base Only,3,36,150036,Success (Reached Max Time),4.4770856239818135,79
+standard,Base Only,3,37,150037,Success (Reached Max Time),4.5729547382988605,79
+standard,Base Only,3,38,150038,Success (Reached Max Time),3.788099948001281,79
+standard,Base Only,3,39,150039,Success (Reached Max Time),3.9701519978795825,79
+standard,Base Only,3,40,150040,Success (Reached Max Time),4.648546406306551,78
+standard,Base Only,3,41,150041,Success (Reached Max Time),4.602343708396555,79
+standard,Base Only,3,42,150042,Success (Reached Max Time),4.368287106409138,78
+standard,Base Only,3,43,150043,Success (Reached Max Time),3.8550949462914224,75
+standard,Base Only,3,44,150044,Success (Reached Max Time),4.145009200415668,78
+standard,Base Only,3,45,150045,Success (Reached Max Time),3.4785363252123074,80
+standard,Base Only,3,46,150046,Success (Reached Max Time),4.541762537152152,80
+standard,Base Only,3,47,150047,Success (Reached Max Time),4.140279125350041,74
+standard,Base Only,3,48,150048,Success (Reached Max Time),3.4879886744596513,76
+standard,Base Only,3,49,150049,Success (Reached Max Time),4.163817487147939,78
+standard,Base Only,4,0,150000,Success (Reached Max Time),4.766774442231053,85
+standard,Base Only,4,1,150001,Collision (Crash),5.284381178326471,58
+standard,Base Only,4,2,150002,Out of Bounds (Normal Flight),4.219252755735358,75
+standard,Base Only,4,3,150003,Success (Reached Max Time),4.796840626446886,86
+standard,Base Only,4,4,150004,Success (Reached Max Time),4.830686245643415,87
+standard,Base Only,4,5,150005,Collision (Crash),4.681832411456747,22
+standard,Base Only,4,6,150006,Collision (Crash),1.5816037532721925,31
+standard,Base Only,4,7,150007,Out of Bounds (Normal Flight),4.764934152053734,37
+standard,Base Only,4,8,150008,Collision (Crash),4.272660176016152,28
+standard,Base Only,4,9,150009,Collision (Crash),4.9250533881208165,32
+standard,Base Only,4,10,150010,Collision (Crash),5.225376430511108,18
+standard,Base Only,4,11,150011,Success (Reached Max Time),4.967491421807849,86
+standard,Base Only,4,12,150012,Collision (Crash),4.414867844586151,58
+standard,Base Only,4,13,150013,Collision (Crash),5.243542789860246,62
+standard,Base Only,4,14,150014,Collision (Crash),5.161380940398275,27
+standard,Base Only,4,15,150015,Collision (Crash),4.874141538953727,19
+standard,Base Only,4,16,150016,Success (Reached Max Time),4.056349581761092,86
+standard,Base Only,4,17,150017,Success (Reached Max Time),4.125643249745081,86
+standard,Base Only,4,18,150018,Undershoot Turn (轉向不足),4.793462880197572,33
+standard,Base Only,4,19,150019,Success (Reached Max Time),4.819022145528975,86
+standard,Base Only,4,20,150020,Collision (Crash),4.399505507423292,76
+standard,Base Only,4,21,150021,Success (Reached Max Time),5.279719347628026,85
+standard,Base Only,4,22,150022,Success (Reached Max Time),4.892112246132409,85
+standard,Base Only,4,23,150023,Out of Bounds (Normal Flight),4.391942274670201,77
+standard,Base Only,4,24,150024,Collision (Crash),4.630956636198033,70
+standard,Base Only,4,25,150025,Collision (Crash),4.641912295694834,26
+standard,Base Only,4,26,150026,Success (Reached Max Time),4.373819497560771,88
+standard,Base Only,4,27,150027,Success (Reached Max Time),4.63494453099534,86
+standard,Base Only,4,28,150028,Out of Bounds (Normal Flight),3.1473987065518063,1
+standard,Base Only,4,29,150029,Collision (Crash),4.600635434962344,65
+standard,Base Only,4,30,150030,Success (Reached Max Time),4.639436924190211,86
+standard,Base Only,4,31,150031,Collision (Crash),5.045115674735691,42
+standard,Base Only,4,32,150032,Collision (Crash),4.905513305236315,70
+standard,Base Only,4,33,150033,Success (Reached Max Time),3.817818224249593,85
+standard,Base Only,4,34,150034,Collision (Crash),4.48687530742396,35
+standard,Base Only,4,35,150035,Collision (Crash),4.819368254125676,79
+standard,Base Only,4,36,150036,Success (Reached Max Time),5.109370083732814,84
+standard,Base Only,4,37,150037,Collision (Crash),4.621959579790727,70
+standard,Base Only,4,38,150038,Collision (Crash),4.4704089000771585,71
+standard,Base Only,4,39,150039,Success (Reached Max Time),5.331569547795749,85
+standard,Base Only,4,40,150040,Collision (Crash),4.635636073665492,55
+standard,Base Only,4,41,150041,Collision (Crash),5.000540496058907,79
+standard,Base Only,4,42,150042,Success (Reached Max Time),5.052517338296233,85
+standard,Base Only,4,43,150043,Collision (Crash),4.743538316574154,73
+standard,Base Only,4,44,150044,Collision (Oversteering Spin),2.3813424735261237,82
+standard,Base Only,4,45,150045,Success (Reached Max Time),4.982011980698128,86
+standard,Base Only,4,46,150046,Collision (Crash),4.725476919994572,22
+standard,Base Only,4,47,150047,Collision (Crash),4.49158936319801,8
+standard,Base Only,4,48,150048,Collision (Crash),4.626406636544732,54
+standard,Base Only,4,49,150049,Collision (Crash),4.879978856603789,82
+standard,Base Only,5,0,150000,Success (Reached Max Time),4.857388143313519,89
+standard,Base Only,5,1,150001,Success (Reached Max Time),5.445556367333424,87
+standard,Base Only,5,2,150002,Success (Reached Max Time),4.891924707405148,90
+standard,Base Only,5,3,150003,Success (Reached Max Time),4.723530839624282,88
+standard,Base Only,5,4,150004,Success (Reached Max Time),4.395387426790022,89
+standard,Base Only,5,5,150005,Success (Reached Max Time),4.778713122904883,87
+standard,Base Only,5,6,150006,Success (Reached Max Time),4.514460590391977,85
+standard,Base Only,5,7,150007,Collision (Crash),4.502597422650377,87
+standard,Base Only,5,8,150008,Success (Reached Max Time),4.552443169839326,88
+standard,Base Only,5,9,150009,Success (Reached Max Time),5.219429599501919,84
+standard,Base Only,5,10,150010,Success (Reached Max Time),4.84553375423087,85
+standard,Base Only,5,11,150011,Success (Reached Max Time),5.452688808980973,88
+standard,Base Only,5,12,150012,Success (Reached Max Time),4.407190902350411,86
+standard,Base Only,5,13,150013,Success (Reached Max Time),4.623091532432304,88
+standard,Base Only,5,14,150014,Collision (Crash),3.9849035719118646,25
+standard,Base Only,5,15,150015,Success (Reached Max Time),5.24159994617266,89
+standard,Base Only,5,16,150016,Success (Reached Max Time),4.717719227335772,85
+standard,Base Only,5,17,150017,Success (Reached Max Time),4.959946199462215,88
+standard,Base Only,5,18,150018,Success (Reached Max Time),4.915255048257052,87
+standard,Base Only,5,19,150019,Success (Reached Max Time),4.865639122462191,87
+standard,Base Only,5,20,150020,Success (Reached Max Time),4.9356927094418435,88
+standard,Base Only,5,21,150021,Success (Reached Max Time),4.370016781480189,88
+standard,Base Only,5,22,150022,Success (Reached Max Time),5.077888578507076,89
+standard,Base Only,5,23,150023,Success (Reached Max Time),4.7729469342531265,89
+standard,Base Only,5,24,150024,Success (Reached Max Time),5.170071493069185,86
+standard,Base Only,5,25,150025,Success (Reached Max Time),5.4493871857466045,86
+standard,Base Only,5,26,150026,Success (Reached Max Time),4.4912258145496375,88
+standard,Base Only,5,27,150027,Collision (Crash),4.648945326936279,50
+standard,Base Only,5,28,150028,Collision (Crash),4.141049497645019,8
+standard,Base Only,5,29,150029,Success (Reached Max Time),5.4713480603995155,87
+standard,Base Only,5,30,150030,Success (Reached Max Time),4.557384882333002,85
+standard,Base Only,5,31,150031,Collision (Crash),4.235639083487391,48
+standard,Base Only,5,32,150032,Success (Reached Max Time),4.878162846136387,88
+standard,Base Only,5,33,150033,Success (Reached Max Time),4.448355343919893,89
+standard,Base Only,5,34,150034,Success (Reached Max Time),5.202753805908147,89
+standard,Base Only,5,35,150035,Collision (Crash),3.758023356606233,0
+standard,Base Only,5,36,150036,Success (Reached Max Time),4.616664967624437,88
+standard,Base Only,5,37,150037,Success (Reached Max Time),5.107286636377961,89
+standard,Base Only,5,38,150038,Success (Reached Max Time),4.596084499635744,89
+standard,Base Only,5,39,150039,Success (Reached Max Time),5.260438983177218,86
+standard,Base Only,5,40,150040,Success (Reached Max Time),5.294386523361543,89
+standard,Base Only,5,41,150041,Success (Reached Max Time),5.205377993022499,85
+standard,Base Only,5,42,150042,Success (Reached Max Time),4.738244101977062,87
+standard,Base Only,5,43,150043,Success (Reached Max Time),4.552403154961072,87
+standard,Base Only,5,44,150044,Collision (Crash),4.872457498611986,64
+standard,Base Only,5,45,150045,Success (Reached Max Time),5.107358690385009,86
+standard,Base Only,5,46,150046,Success (Reached Max Time),4.465704296019193,86
+standard,Base Only,5,47,150047,Collision (Crash),2.313311697153116,0
+standard,Base Only,5,48,150048,Success (Reached Max Time),4.958406914435667,88
+standard,Base Only,5,49,150049,Success (Reached Max Time),4.722099268837434,88
+standard,Base Only,6,0,150000,Success (Reached Max Time),4.730676802313699,79
+standard,Base Only,6,1,150001,Success (Reached Max Time),4.820100826192171,79
+standard,Base Only,6,2,150002,Success (Reached Max Time),4.535928352082203,81
+standard,Base Only,6,3,150003,Success (Reached Max Time),3.7971762085005825,81
+standard,Base Only,6,4,150004,Success (Reached Max Time),3.991896479309966,80
+standard,Base Only,6,5,150005,Success (Reached Max Time),4.732552983938529,79
+standard,Base Only,6,6,150006,Success (Reached Max Time),4.806922926347173,80
+standard,Base Only,6,7,150007,Success (Reached Max Time),4.080279987900049,78
+standard,Base Only,6,8,150008,Success (Reached Max Time),4.331473807952464,82
+standard,Base Only,6,9,150009,Success (Reached Max Time),3.8026833001026628,77
+standard,Base Only,6,10,150010,Success (Reached Max Time),4.767077211058068,80
+standard,Base Only,6,11,150011,Success (Reached Max Time),5.063461231926173,80
+standard,Base Only,6,12,150012,Out of Bounds (Normal Flight),4.136286839904981,75
+standard,Base Only,6,13,150013,Success (Reached Max Time),3.6199348734586767,80
+standard,Base Only,6,14,150014,Success (Reached Max Time),4.1373057953702315,80
+standard,Base Only,6,15,150015,Success (Reached Max Time),3.8786526795592904,78
+standard,Base Only,6,16,150016,Success (Reached Max Time),4.721325804775375,80
+standard,Base Only,6,17,150017,Success (Reached Max Time),4.105952624415784,80
+standard,Base Only,6,18,150018,Success (Reached Max Time),3.9864011110331337,79
+standard,Base Only,6,19,150019,Success (Reached Max Time),3.9545846606680537,79
+standard,Base Only,6,20,150020,Success (Reached Max Time),4.4557750684798565,80
+standard,Base Only,6,21,150021,Success (Reached Max Time),4.467904410522289,79
+standard,Base Only,6,22,150022,Success (Reached Max Time),4.8099346320542296,81
+standard,Base Only,6,23,150023,Success (Reached Max Time),4.538374502710538,80
+standard,Base Only,6,24,150024,Success (Reached Max Time),3.761757852856058,78
+standard,Base Only,6,25,150025,Success (Reached Max Time),4.374644094694226,80
+standard,Base Only,6,26,150026,Success (Reached Max Time),4.440108495868562,81
+standard,Base Only,6,27,150027,Success (Reached Max Time),4.884092024402048,79
+standard,Base Only,6,28,150028,Collision (Crash),1.3435097411298658,0
+standard,Base Only,6,29,150029,Success (Reached Max Time),4.435379904170941,79
+standard,Base Only,6,30,150030,Success (Reached Max Time),4.783445245266623,79
+standard,Base Only,6,31,150031,Success (Reached Max Time),5.073709695996677,79
+standard,Base Only,6,32,150032,Success (Reached Max Time),4.468075837846119,80
+standard,Base Only,6,33,150033,Success (Reached Max Time),4.118471645055678,80
+standard,Base Only,6,34,150034,Success (Reached Max Time),4.667830723357167,80
+standard,Base Only,6,35,150035,Success (Reached Max Time),3.7332620423556353,80
+standard,Base Only,6,36,150036,Success (Reached Max Time),4.435700537386316,79
+standard,Base Only,6,37,150037,Success (Reached Max Time),4.6786758759700655,80
+standard,Base Only,6,38,150038,Success (Reached Max Time),4.052280710140863,79
+standard,Base Only,6,39,150039,Success (Reached Max Time),5.197394654591301,79
+standard,Base Only,6,40,150040,Success (Reached Max Time),4.028966248164996,80
+standard,Base Only,6,41,150041,Success (Reached Max Time),4.602805187780182,78
+standard,Base Only,6,42,150042,Success (Reached Max Time),5.234910996897603,81
+standard,Base Only,6,43,150043,Success (Reached Max Time),4.567448771282002,80
+standard,Base Only,6,44,150044,Success (Reached Max Time),4.890521413248767,79
+standard,Base Only,6,45,150045,Success (Reached Max Time),4.873199075544371,81
+standard,Base Only,6,46,150046,Success (Reached Max Time),4.710324463880681,79
+standard,Base Only,6,47,150047,Success (Reached Max Time),4.46949009347876,81
+standard,Base Only,6,48,150048,Success (Reached Max Time),4.1543378907491055,81
+standard,Base Only,6,49,150049,Collision (Crash),5.187680830059964,52
+standard,Base Only,7,0,150000,Collision (Oversteering Spin),6.705801076097461,44
+standard,Base Only,7,1,150001,Success (Reached Max Time),4.433819625641874,85
+standard,Base Only,7,2,150002,Collision (Crash),1.5690334465751843,0
+standard,Base Only,7,3,150003,Success (Reached Max Time),4.56499020259531,86
+standard,Base Only,7,4,150004,Success (Reached Max Time),4.433819508955438,83
+standard,Base Only,7,5,150005,Collision (Crash),4.391758329750854,80
+standard,Base Only,7,6,150006,Success (Reached Max Time),5.494838952568137,85
+standard,Base Only,7,7,150007,Success (Reached Max Time),4.5886999281823675,86
+standard,Base Only,7,8,150008,Success (Reached Max Time),4.795834469855975,87
+standard,Base Only,7,9,150009,Success (Reached Max Time),4.725674231662807,86
+standard,Base Only,7,10,150010,Success (Reached Max Time),5.272444640746469,86
+standard,Base Only,7,11,150011,Collision (Crash),3.5809144829363073,33
+standard,Base Only,7,12,150012,Success (Reached Max Time),4.598573801893266,87
+standard,Base Only,7,13,150013,Success (Reached Max Time),4.863106536165136,86
+standard,Base Only,7,14,150014,Success (Reached Max Time),4.718104816088123,82
+standard,Base Only,7,15,150015,Success (Reached Max Time),4.315348875957324,85
+standard,Base Only,7,16,150016,Success (Reached Max Time),4.5157041856192155,84
+standard,Base Only,7,17,150017,Collision (Crash),4.549376880372095,7
+standard,Base Only,7,18,150018,Success (Reached Max Time),4.8285401906741505,84
+standard,Base Only,7,19,150019,Success (Reached Max Time),4.927540574455988,86
+standard,Base Only,7,20,150020,Collision (Crash),4.923156332154212,78
+standard,Base Only,7,21,150021,Collision (Crash),4.753453554230352,70
+standard,Base Only,7,22,150022,Success (Reached Max Time),4.9009678850278995,86
+standard,Base Only,7,23,150023,Collision (Crash),4.889063644631228,59
+standard,Base Only,7,24,150024,Success (Reached Max Time),4.461216604221524,82
+standard,Base Only,7,25,150025,Success (Reached Max Time),3.861900310657563,87
+standard,Base Only,7,26,150026,Success (Reached Max Time),4.020551477292565,86
+standard,Base Only,7,27,150027,Success (Reached Max Time),0.9204992073999714,84
+standard,Base Only,7,28,150028,Collision (Crash),3.906402651000559,81
+standard,Base Only,7,29,150029,Success (Reached Max Time),4.437238248993363,86
+standard,Base Only,7,30,150030,Success (Reached Max Time),4.607820294386454,84
+standard,Base Only,7,31,150031,Success (Reached Max Time),4.239112662902005,85
+standard,Base Only,7,32,150032,Success (Reached Max Time),4.749695438556579,88
+standard,Base Only,7,33,150033,Success (Reached Max Time),4.875871410652011,86
+standard,Base Only,7,34,150034,Success (Reached Max Time),5.334626559123855,87
+standard,Base Only,7,35,150035,Collision (Crash),5.3422937084271185,43
+standard,Base Only,7,36,150036,Success (Reached Max Time),4.876568194505541,87
+standard,Base Only,7,37,150037,Collision (Crash),2.1876763417558047,0
+standard,Base Only,7,38,150038,Success (Reached Max Time),4.89287939119194,87
+standard,Base Only,7,39,150039,Success (Reached Max Time),4.11405795350642,82
+standard,Base Only,7,40,150040,Collision (Crash),1.968391122294689,0
+standard,Base Only,7,41,150041,Success (Reached Max Time),5.127641078290028,87
+standard,Base Only,7,42,150042,Out of Bounds (Normal Flight),3.4296580053373105,58
+standard,Base Only,7,43,150043,Collision (Crash),5.0539654291229805,59
+standard,Base Only,7,44,150044,Success (Reached Max Time),4.568846271156702,85
+standard,Base Only,7,45,150045,Collision (Crash),4.782536154202725,82
+standard,Base Only,7,46,150046,Success (Reached Max Time),4.6204790369677005,87
+standard,Base Only,7,47,150047,Success (Reached Max Time),4.456814028781086,87
+standard,Base Only,7,48,150048,Success (Reached Max Time),4.424690107043297,84
+standard,Base Only,7,49,150049,Success (Reached Max Time),4.8445833304917905,85
+standard,Base Only,8,0,150000,Success (Reached Max Time),4.692803241408791,86
+standard,Base Only,8,1,150001,Collision (Crash),5.030742004768138,23
+standard,Base Only,8,2,150002,Collision (Crash),4.220862091302487,52
+standard,Base Only,8,3,150003,Collision (Crash),7.528226607429675,43
+standard,Base Only,8,4,150004,Collision (Crash),4.8487221282933195,5
+standard,Base Only,8,5,150005,Success (Reached Max Time),4.239246571129486,81
+standard,Base Only,8,6,150006,Success (Reached Max Time),4.593683143166997,87
+standard,Base Only,8,7,150007,Collision (Crash),4.914848022830498,53
+standard,Base Only,8,8,150008,Out of Bounds (Normal Flight),4.906916026415665,38
+standard,Base Only,8,9,150009,Success (Reached Max Time),4.866214617633332,86
+standard,Base Only,8,10,150010,Out of Bounds (Normal Flight),4.9484918483374365,17
+standard,Base Only,8,11,150011,Success (Reached Max Time),4.427456466766628,84
+standard,Base Only,8,12,150012,Collision (Crash),4.33065700032665,5
+standard,Base Only,8,13,150013,Collision (Crash),4.507054752422343,44
+standard,Base Only,8,14,150014,Collision (Crash),3.7270319634738254,73
+standard,Base Only,8,15,150015,Collision (Crash),5.109151158570518,53
+standard,Base Only,8,16,150016,Out of Bounds (Normal Flight),5.797907050714568,82
+standard,Base Only,8,17,150017,Collision (Crash),4.8133978082364415,42
+standard,Base Only,8,18,150018,Success (Reached Max Time),5.273274885683963,84
+standard,Base Only,8,19,150019,Collision (Crash),4.827835558850826,21
+standard,Base Only,8,20,150020,Collision (Crash),4.85239959489756,17
+standard,Base Only,8,21,150021,Collision (Crash),5.080791589184196,26
+standard,Base Only,8,22,150022,Success (Reached Max Time),4.115474691625204,84
+standard,Base Only,8,23,150023,Collision (Crash),4.82965122327838,52
+standard,Base Only,8,24,150024,Collision (Crash),5.0791578691210635,33
+standard,Base Only,8,25,150025,Collision (Crash),4.90766431225972,43
+standard,Base Only,8,26,150026,Collision (Crash),4.773891649429615,13
+standard,Base Only,8,27,150027,Collision (Crash),4.793815845673665,71
+standard,Base Only,8,28,150028,Success (Reached Max Time),5.191135016861245,84
+standard,Base Only,8,29,150029,Success (Reached Max Time),5.195721889750659,84
+standard,Base Only,8,30,150030,Success (Reached Max Time),4.806267552231255,83
+standard,Base Only,8,31,150031,Collision (Crash),4.50379895841239,23
+standard,Base Only,8,32,150032,Collision (Crash),4.026922667374678,78
+standard,Base Only,8,33,150033,Collision (Crash),4.898242061772799,61
+standard,Base Only,8,34,150034,Collision (Crash),4.4014505489952835,18
+standard,Base Only,8,35,150035,Collision (Crash),4.892966262753145,13
+standard,Base Only,8,36,150036,Collision (Crash),4.156261980136359,50
+standard,Base Only,8,37,150037,Collision (Crash),4.812349447869495,78
+standard,Base Only,8,38,150038,Collision (Crash),4.750248736462146,42
+standard,Base Only,8,39,150039,Success (Reached Max Time),4.997672444466057,83
+standard,Base Only,8,40,150040,Collision (Crash),4.008102533733747,34
+standard,Base Only,8,41,150041,Collision (Crash),4.34011099099113,59
+standard,Base Only,8,42,150042,Success (Reached Max Time),4.6250914334941635,89
+standard,Base Only,8,43,150043,Success (Reached Max Time),4.182738179474332,86
+standard,Base Only,8,44,150044,Success (Reached Max Time),4.442104156390134,86
+standard,Base Only,8,45,150045,Collision (Crash),5.207124153507411,14
+standard,Base Only,8,46,150046,Success (Reached Max Time),4.79537547862995,84
+standard,Base Only,8,47,150047,Out of Bounds (Normal Flight),4.455354892461211,48
+standard,Base Only,8,48,150048,Success (Reached Max Time),4.066828108494495,85
+standard,Base Only,8,49,150049,Collision (Crash),4.8438911202143595,15
+standard,Base Only,9,0,150000,Collision (Crash),4.574172943902588,25
+standard,Base Only,9,1,150001,Collision (Crash),4.6909127572954485,76
+standard,Base Only,9,2,150002,Collision (Crash),4.446506985510582,51
+standard,Base Only,9,3,150003,Collision (Crash),4.3707005506267445,28
+standard,Base Only,9,4,150004,Collision (Crash),5.000816896560698,5
+standard,Base Only,9,5,150005,Out of Bounds (Normal Flight),4.395077473773489,10
+standard,Base Only,9,6,150006,Collision (Crash),5.108629554305188,4
+standard,Base Only,9,7,150007,Collision (Crash),4.911072505937541,17
+standard,Base Only,9,8,150008,Collision (Crash),4.899882261687212,13
+standard,Base Only,9,9,150009,Collision (Crash),5.333816077193201,19
+standard,Base Only,9,10,150010,Collision (Crash),5.25832353389447,16
+standard,Base Only,9,11,150011,Collision (Crash),5.174281323972842,14
+standard,Base Only,9,12,150012,Collision (Crash),4.911945261777982,16
+standard,Base Only,9,13,150013,Collision (Crash),5.173255509709966,34
+standard,Base Only,9,14,150014,Collision (Crash),4.605229785138798,59
+standard,Base Only,9,15,150015,Collision (Crash),6.583883137454102,20
+standard,Base Only,9,16,150016,Collision (Crash),5.043436589372372,25
+standard,Base Only,9,17,150017,Collision (Crash),4.641042977948682,35
+standard,Base Only,9,18,150018,Collision (Crash),4.645704814764143,15
+standard,Base Only,9,19,150019,Collision (Crash),4.663638537346965,54
+standard,Base Only,9,20,150020,Collision (Crash),4.829178928733341,28
+standard,Base Only,9,21,150021,Collision (Crash),4.5468780664191675,27
+standard,Base Only,9,22,150022,Out of Bounds (Normal Flight),4.068825970844555,14
+standard,Base Only,9,23,150023,Collision (Crash),5.3783605494473,5
+standard,Base Only,9,24,150024,Collision (Crash),4.620984592202675,56
+standard,Base Only,9,25,150025,Collision (Crash),5.141293658552141,5
+standard,Base Only,9,26,150026,Collision (Crash),5.06948300065065,19
+standard,Base Only,9,27,150027,Collision (Crash),4.182007686304973,12
+standard,Base Only,9,28,150028,Out of Bounds (Normal Flight),4.447085707433681,33
+standard,Base Only,9,29,150029,Collision (Crash),4.367456765011651,42
+standard,Base Only,9,30,150030,Collision (Crash),4.526131220500484,48
+standard,Base Only,9,31,150031,Collision (Crash),5.018239121223917,40
+standard,Base Only,9,32,150032,Collision (Crash),4.207723034045374,30
+standard,Base Only,9,33,150033,Success (Reached Max Time),4.912100145631032,90
+standard,Base Only,9,34,150034,Collision (Crash),4.360728102833825,59
+standard,Base Only,9,35,150035,Collision (Crash),5.366196782757201,12
+standard,Base Only,9,36,150036,Collision (Crash),3.6344782535554896,0
+standard,Base Only,9,37,150037,Collision (Crash),4.701895248555259,18
+standard,Base Only,9,38,150038,Collision (Crash),4.63922306279263,29
+standard,Base Only,9,39,150039,Collision (Crash),4.322213800934753,27
+standard,Base Only,9,40,150040,Collision (Crash),4.467567005307015,14
+standard,Base Only,9,41,150041,Collision (Crash),4.78641845512895,50
+standard,Base Only,9,42,150042,Collision (Crash),4.24988782663608,39
+standard,Base Only,9,43,150043,Out of Bounds (Normal Flight),2.944783612650398,31
+standard,Base Only,9,44,150044,Out of Bounds (Normal Flight),5.16636548072267,35
+standard,Base Only,9,45,150045,Undershoot Turn (轉向不足),3.7181046730982694,31
+standard,Base Only,9,46,150046,Collision (Crash),4.855651334670425,3
+standard,Base Only,9,47,150047,Collision (Crash),4.899860368817027,19
+standard,Base Only,9,48,150048,Out of Bounds (Normal Flight),4.4307712201172516,55
+standard,Base Only,9,49,150049,Collision (Crash),4.780051057528866,16
+standard,Additive-Fixed,0,0,150000,Success (Reached Max Time),4.231238139838536,85
+standard,Additive-Fixed,0,1,150001,Collision (Crash),4.219147979470966,14
+standard,Additive-Fixed,0,2,150002,Success (Reached Max Time),4.7134190072476745,84
+standard,Additive-Fixed,0,3,150003,Collision (Crash),3.858508204701607,19
+standard,Additive-Fixed,0,4,150004,Success (Reached Max Time),4.572031240904462,85
+standard,Additive-Fixed,0,5,150005,Success (Reached Max Time),4.990648473110479,84
+standard,Additive-Fixed,0,6,150006,Success (Reached Max Time),4.744829621303519,85
+standard,Additive-Fixed,0,7,150007,Success (Reached Max Time),4.5996322829394645,81
+standard,Additive-Fixed,0,8,150008,Success (Reached Max Time),4.576175900587472,85
+standard,Additive-Fixed,0,9,150009,Success (Reached Max Time),4.028895862269788,83
+standard,Additive-Fixed,0,10,150010,Success (Reached Max Time),5.068609948635766,81
+standard,Additive-Fixed,0,11,150011,Success (Reached Max Time),4.486735356632289,83
+standard,Additive-Fixed,0,12,150012,Success (Reached Max Time),4.048414179930059,85
+standard,Additive-Fixed,0,13,150013,Success (Reached Max Time),4.596976279796389,85
+standard,Additive-Fixed,0,14,150014,Collision (Crash),4.943493900332314,8
+standard,Additive-Fixed,0,15,150015,Success (Reached Max Time),4.3125232326618175,82
+standard,Additive-Fixed,0,16,150016,Success (Reached Max Time),4.923469871123489,84
+standard,Additive-Fixed,0,17,150017,Success (Reached Max Time),4.49477171824444,85
+standard,Additive-Fixed,0,18,150018,Collision (Crash),4.292441130286745,9
+standard,Additive-Fixed,0,19,150019,Success (Reached Max Time),4.65995001934121,82
+standard,Additive-Fixed,0,20,150020,Success (Reached Max Time),4.016400187908981,84
+standard,Additive-Fixed,0,21,150021,Success (Reached Max Time),4.439512054905752,85
+standard,Additive-Fixed,0,22,150022,Success (Reached Max Time),4.262179204227677,85
+standard,Additive-Fixed,0,23,150023,Success (Reached Max Time),4.9377007318322255,83
+standard,Additive-Fixed,0,24,150024,Success (Reached Max Time),4.316198648527951,83
+standard,Additive-Fixed,0,25,150025,Success (Reached Max Time),4.179717687550553,81
+standard,Additive-Fixed,0,26,150026,Success (Reached Max Time),4.610543594147438,77
+standard,Additive-Fixed,0,27,150027,Success (Reached Max Time),4.087323142107533,84
+standard,Additive-Fixed,0,28,150028,Success (Reached Max Time),4.375220686644177,81
+standard,Additive-Fixed,0,29,150029,Collision (Crash),4.7895945326996126,60
+standard,Additive-Fixed,0,30,150030,Success (Reached Max Time),4.881588805870683,83
+standard,Additive-Fixed,0,31,150031,Collision (Crash),4.577801115374121,8
+standard,Additive-Fixed,0,32,150032,Success (Reached Max Time),4.652752885211675,82
+standard,Additive-Fixed,0,33,150033,Collision (Crash),4.097942101520299,76
+standard,Additive-Fixed,0,34,150034,Success (Reached Max Time),4.473650181948135,80
+standard,Additive-Fixed,0,35,150035,Collision (Crash),4.360412237618499,19
+standard,Additive-Fixed,0,36,150036,Success (Reached Max Time),4.137842757304487,80
+standard,Additive-Fixed,0,37,150037,Collision (Crash),4.653720831168551,39
+standard,Additive-Fixed,0,38,150038,Success (Reached Max Time),5.111877202981734,82
+standard,Additive-Fixed,0,39,150039,Success (Reached Max Time),4.843004810763029,81
+standard,Additive-Fixed,0,40,150040,Collision (Crash),4.0800613555558005,24
+standard,Additive-Fixed,0,41,150041,Collision (Crash),4.248244255890619,29
+standard,Additive-Fixed,0,42,150042,Success (Reached Max Time),4.344311162960649,82
+standard,Additive-Fixed,0,43,150043,Success (Reached Max Time),4.55366205772674,79
+standard,Additive-Fixed,0,44,150044,Success (Reached Max Time),4.793120320685194,86
+standard,Additive-Fixed,0,45,150045,Success (Reached Max Time),4.507204257442733,85
+standard,Additive-Fixed,0,46,150046,Success (Reached Max Time),4.32606698263248,81
+standard,Additive-Fixed,0,47,150047,Collision (Crash),4.499445261022194,7
+standard,Additive-Fixed,0,48,150048,Success (Reached Max Time),4.605263035841793,82
+standard,Additive-Fixed,0,49,150049,Success (Reached Max Time),4.740128089099069,84
+standard,Additive-Fixed,1,0,150000,Success (Reached Max Time),5.401246918173815,82
+standard,Additive-Fixed,1,1,150001,Success (Reached Max Time),4.21975394198244,85
+standard,Additive-Fixed,1,2,150002,Success (Reached Max Time),5.533593851565146,85
+standard,Additive-Fixed,1,3,150003,Collision (Crash),4.114996177732764,75
+standard,Additive-Fixed,1,4,150004,Success (Reached Max Time),5.43236491763847,85
+standard,Additive-Fixed,1,5,150005,Collision (Crash),4.861679402074329,34
+standard,Additive-Fixed,1,6,150006,Collision (Crash),4.297399948109087,38
+standard,Additive-Fixed,1,7,150007,Success (Reached Max Time),3.956353355461006,84
+standard,Additive-Fixed,1,8,150008,Success (Reached Max Time),4.847620493970684,87
+standard,Additive-Fixed,1,9,150009,Collision (Crash),4.574335842622647,29
+standard,Additive-Fixed,1,10,150010,Success (Reached Max Time),4.513088846807397,87
+standard,Additive-Fixed,1,11,150011,Success (Reached Max Time),5.042434318568736,82
+standard,Additive-Fixed,1,12,150012,Success (Reached Max Time),5.003713548151025,84
+standard,Additive-Fixed,1,13,150013,Success (Reached Max Time),4.557714331218842,83
+standard,Additive-Fixed,1,14,150014,Collision (Crash),4.189785077132744,84
+standard,Additive-Fixed,1,15,150015,Success (Reached Max Time),4.480889330300188,85
+standard,Additive-Fixed,1,16,150016,Success (Reached Max Time),4.605884953157362,81
+standard,Additive-Fixed,1,17,150017,Success (Reached Max Time),5.012135862403092,85
+standard,Additive-Fixed,1,18,150018,Collision (Crash),4.661827455846822,56
+standard,Additive-Fixed,1,19,150019,Collision (Crash),4.059952272679221,6
+standard,Additive-Fixed,1,20,150020,Success (Reached Max Time),4.679075617738696,88
+standard,Additive-Fixed,1,21,150021,Success (Reached Max Time),4.502203244623152,86
+standard,Additive-Fixed,1,22,150022,Success (Reached Max Time),4.210174107112199,86
+standard,Additive-Fixed,1,23,150023,Collision (Crash),3.535852119332982,80
+standard,Additive-Fixed,1,24,150024,Success (Reached Max Time),4.971197253893128,85
+standard,Additive-Fixed,1,25,150025,Collision (Crash),3.7535684617477876,52
+standard,Additive-Fixed,1,26,150026,Success (Reached Max Time),4.203896692392473,86
+standard,Additive-Fixed,1,27,150027,Collision (Crash),2.1285854324043894,18
+standard,Additive-Fixed,1,28,150028,Success (Reached Max Time),5.0859447034533325,87
+standard,Additive-Fixed,1,29,150029,Success (Reached Max Time),4.830923783366516,85
+standard,Additive-Fixed,1,30,150030,Success (Reached Max Time),4.272789251782134,83
+standard,Additive-Fixed,1,31,150031,Success (Reached Max Time),4.225535914026785,87
+standard,Additive-Fixed,1,32,150032,Success (Reached Max Time),4.412817131263596,85
+standard,Additive-Fixed,1,33,150033,Success (Reached Max Time),4.105915446623649,82
+standard,Additive-Fixed,1,34,150034,Success (Reached Max Time),4.538906533536324,83
+standard,Additive-Fixed,1,35,150035,Success (Reached Max Time),4.944779557424747,85
+standard,Additive-Fixed,1,36,150036,Success (Reached Max Time),4.646648871148159,85
+standard,Additive-Fixed,1,37,150037,Success (Reached Max Time),4.212610042161696,83
+standard,Additive-Fixed,1,38,150038,Success (Reached Max Time),4.669239725235205,81
+standard,Additive-Fixed,1,39,150039,Success (Reached Max Time),5.1430961652462965,84
+standard,Additive-Fixed,1,40,150040,Success (Reached Max Time),4.866000727962954,86
+standard,Additive-Fixed,1,41,150041,Success (Reached Max Time),5.0491900230377444,85
+standard,Additive-Fixed,1,42,150042,Success (Reached Max Time),4.3312137590424475,82
+standard,Additive-Fixed,1,43,150043,Success (Reached Max Time),4.609999029908985,83
+standard,Additive-Fixed,1,44,150044,Success (Reached Max Time),4.980879019193632,83
+standard,Additive-Fixed,1,45,150045,Success (Reached Max Time),4.972507320049403,88
+standard,Additive-Fixed,1,46,150046,Success (Reached Max Time),4.045786550921821,85
+standard,Additive-Fixed,1,47,150047,Success (Reached Max Time),4.970282210891257,85
+standard,Additive-Fixed,1,48,150048,Success (Reached Max Time),5.074281025811897,86
+standard,Additive-Fixed,1,49,150049,Success (Reached Max Time),4.509562734549306,86
+standard,Additive-Fixed,2,0,150000,Success (Reached Max Time),4.320799447254171,80
+standard,Additive-Fixed,2,1,150001,Success (Reached Max Time),4.034081604861766,81
+standard,Additive-Fixed,2,2,150002,Success (Reached Max Time),4.635714798668514,81
+standard,Additive-Fixed,2,3,150003,Success (Reached Max Time),4.227772748604,79
+standard,Additive-Fixed,2,4,150004,Success (Reached Max Time),4.49770554669249,81
+standard,Additive-Fixed,2,5,150005,Success (Reached Max Time),4.694705320107556,81
+standard,Additive-Fixed,2,6,150006,Success (Reached Max Time),4.386092045810053,81
+standard,Additive-Fixed,2,7,150007,Success (Reached Max Time),4.381080536630099,81
+standard,Additive-Fixed,2,8,150008,Success (Reached Max Time),4.209196771705814,82
+standard,Additive-Fixed,2,9,150009,Success (Reached Max Time),4.580031788476203,82
+standard,Additive-Fixed,2,10,150010,Success (Reached Max Time),4.2931094209537175,80
+standard,Additive-Fixed,2,11,150011,Success (Reached Max Time),4.430014793617461,81
+standard,Additive-Fixed,2,12,150012,Success (Reached Max Time),4.3111874173430484,81
+standard,Additive-Fixed,2,13,150013,Success (Reached Max Time),4.351581272903474,80
+standard,Additive-Fixed,2,14,150014,Success (Reached Max Time),4.483104338655356,80
+standard,Additive-Fixed,2,15,150015,Success (Reached Max Time),4.4665638089981385,81
+standard,Additive-Fixed,2,16,150016,Success (Reached Max Time),4.299690414675397,83
+standard,Additive-Fixed,2,17,150017,Success (Reached Max Time),4.603147123637955,82
+standard,Additive-Fixed,2,18,150018,Success (Reached Max Time),4.261426610254355,80
+standard,Additive-Fixed,2,19,150019,Success (Reached Max Time),4.6446967373295935,80
+standard,Additive-Fixed,2,20,150020,Success (Reached Max Time),4.594359656464486,80
+standard,Additive-Fixed,2,21,150021,Success (Reached Max Time),4.742520217945499,81
+standard,Additive-Fixed,2,22,150022,Success (Reached Max Time),4.754724341564308,80
+standard,Additive-Fixed,2,23,150023,Success (Reached Max Time),4.911532214590009,80
+standard,Additive-Fixed,2,24,150024,Collision (Crash),5.011766666120838,55
+standard,Additive-Fixed,2,25,150025,Success (Reached Max Time),4.331626799945376,80
+standard,Additive-Fixed,2,26,150026,Success (Reached Max Time),4.851274514218548,83
+standard,Additive-Fixed,2,27,150027,Success (Reached Max Time),4.6633067900809015,80
+standard,Additive-Fixed,2,28,150028,Success (Reached Max Time),4.049436190531466,81
+standard,Additive-Fixed,2,29,150029,Success (Reached Max Time),4.29026241684303,81
+standard,Additive-Fixed,2,30,150030,Success (Reached Max Time),4.6996773516069394,82
+standard,Additive-Fixed,2,31,150031,Success (Reached Max Time),4.099176598357166,82
+standard,Additive-Fixed,2,32,150032,Success (Reached Max Time),4.138720574322435,80
+standard,Additive-Fixed,2,33,150033,Success (Reached Max Time),4.859740727087578,80
+standard,Additive-Fixed,2,34,150034,Success (Reached Max Time),4.486141106502063,81
+standard,Additive-Fixed,2,35,150035,Success (Reached Max Time),4.337544174172138,81
+standard,Additive-Fixed,2,36,150036,Success (Reached Max Time),4.426662045408386,80
+standard,Additive-Fixed,2,37,150037,Success (Reached Max Time),4.095013669300176,80
+standard,Additive-Fixed,2,38,150038,Success (Reached Max Time),4.535376988876823,81
+standard,Additive-Fixed,2,39,150039,Success (Reached Max Time),4.657193368049951,81
+standard,Additive-Fixed,2,40,150040,Success (Reached Max Time),4.472281891758667,81
+standard,Additive-Fixed,2,41,150041,Success (Reached Max Time),4.385586313363181,80
+standard,Additive-Fixed,2,42,150042,Success (Reached Max Time),4.496536464383935,80
+standard,Additive-Fixed,2,43,150043,Success (Reached Max Time),4.716524036030143,82
+standard,Additive-Fixed,2,44,150044,Collision (Crash),4.808920911794616,15
+standard,Additive-Fixed,2,45,150045,Success (Reached Max Time),4.31169682854847,78
+standard,Additive-Fixed,2,46,150046,Success (Reached Max Time),4.593766382250133,81
+standard,Additive-Fixed,2,47,150047,Success (Reached Max Time),3.875195314516322,81
+standard,Additive-Fixed,2,48,150048,Success (Reached Max Time),4.093990530416608,80
+standard,Additive-Fixed,2,49,150049,Success (Reached Max Time),4.730222485097341,80
+standard,Additive-Fixed,3,0,150000,Success (Reached Max Time),4.659433952821574,84
+standard,Additive-Fixed,3,1,150001,Success (Reached Max Time),4.640893376872296,85
+standard,Additive-Fixed,3,2,150002,Success (Reached Max Time),4.604463720674261,83
+standard,Additive-Fixed,3,3,150003,Success (Reached Max Time),4.4720181243664525,85
+standard,Additive-Fixed,3,4,150004,Success (Reached Max Time),4.782082604479041,83
+standard,Additive-Fixed,3,5,150005,Collision (Crash),3.8017622900194112,36
+standard,Additive-Fixed,3,6,150006,Success (Reached Max Time),4.548648869695633,82
+standard,Additive-Fixed,3,7,150007,Success (Reached Max Time),3.957597679183233,83
+standard,Additive-Fixed,3,8,150008,Collision (Crash),4.276690744537416,11
+standard,Additive-Fixed,3,9,150009,Success (Reached Max Time),4.835780606995207,84
+standard,Additive-Fixed,3,10,150010,Success (Reached Max Time),4.850938022800064,82
+standard,Additive-Fixed,3,11,150011,Collision (Crash),4.689690438415551,74
+standard,Additive-Fixed,3,12,150012,Success (Reached Max Time),4.146973108858674,85
+standard,Additive-Fixed,3,13,150013,Success (Reached Max Time),4.780099710859038,83
+standard,Additive-Fixed,3,14,150014,Success (Reached Max Time),4.739921875771794,84
+standard,Additive-Fixed,3,15,150015,Success (Reached Max Time),4.435295095897774,83
+standard,Additive-Fixed,3,16,150016,Success (Reached Max Time),4.825052656720696,82
+standard,Additive-Fixed,3,17,150017,Success (Reached Max Time),4.190194668732404,85
+standard,Additive-Fixed,3,18,150018,Success (Reached Max Time),4.837654524366863,83
+standard,Additive-Fixed,3,19,150019,Success (Reached Max Time),4.7876179400055285,82
+standard,Additive-Fixed,3,20,150020,Collision (Crash),4.077828962574259,30
+standard,Additive-Fixed,3,21,150021,Collision (Crash),4.607475962709086,65
+standard,Additive-Fixed,3,22,150022,Success (Reached Max Time),4.616253592757258,85
+standard,Additive-Fixed,3,23,150023,Success (Reached Max Time),5.393057973837759,84
+standard,Additive-Fixed,3,24,150024,Success (Reached Max Time),4.585295707312029,82
+standard,Additive-Fixed,3,25,150025,Success (Reached Max Time),4.735220322055943,82
+standard,Additive-Fixed,3,26,150026,Collision (Crash),4.495015472310843,11
+standard,Additive-Fixed,3,27,150027,Out of Bounds (Normal Flight),3.884939078648348,30
+standard,Additive-Fixed,3,28,150028,Success (Reached Max Time),4.158238899977884,80
+standard,Additive-Fixed,3,29,150029,Collision (Crash),3.9005777257270218,59
+standard,Additive-Fixed,3,30,150030,Success (Reached Max Time),4.654380461045937,82
+standard,Additive-Fixed,3,31,150031,Collision (Crash),4.2038024463056,52
+standard,Additive-Fixed,3,32,150032,Success (Reached Max Time),4.776303833855044,82
+standard,Additive-Fixed,3,33,150033,Collision (Crash),4.5914836346930095,55
+standard,Additive-Fixed,3,34,150034,Collision (Crash),5.109152653695176,80
+standard,Additive-Fixed,3,35,150035,Collision (Crash),3.6999126610972093,8
+standard,Additive-Fixed,3,36,150036,Success (Reached Max Time),4.610625056629413,82
+standard,Additive-Fixed,3,37,150037,Collision (Crash),4.371874929918942,45
+standard,Additive-Fixed,3,38,150038,Collision (Crash),3.948833558964711,8
+standard,Additive-Fixed,3,39,150039,Success (Reached Max Time),4.449546201838981,82
+standard,Additive-Fixed,3,40,150040,Collision (Crash),4.582323866249137,48
+standard,Additive-Fixed,3,41,150041,Collision (Crash),4.833667845873595,65
+standard,Additive-Fixed,3,42,150042,Success (Reached Max Time),4.560402667463878,83
+standard,Additive-Fixed,3,43,150043,Success (Reached Max Time),4.727306451109545,83
+standard,Additive-Fixed,3,44,150044,Success (Reached Max Time),4.52883493550681,82
+standard,Additive-Fixed,3,45,150045,Success (Reached Max Time),4.851911142592478,84
+standard,Additive-Fixed,3,46,150046,Success (Reached Max Time),4.440632013438651,83
+standard,Additive-Fixed,3,47,150047,Success (Reached Max Time),5.10587063358257,83
+standard,Additive-Fixed,3,48,150048,Success (Reached Max Time),4.768699801132383,83
+standard,Additive-Fixed,3,49,150049,Success (Reached Max Time),4.800644968101544,83
+standard,Additive-Fixed,4,0,150000,Collision (Crash),4.477997958071953,75
+standard,Additive-Fixed,4,1,150001,Success (Reached Max Time),4.829831127287948,85
+standard,Additive-Fixed,4,2,150002,Collision (Crash),4.4153010068919185,55
+standard,Additive-Fixed,4,3,150003,Success (Reached Max Time),4.625278186282952,83
+standard,Additive-Fixed,4,4,150004,Collision (Crash),4.699408932175005,8
+standard,Additive-Fixed,4,5,150005,Collision (Crash),3.6483757777334986,0
+standard,Additive-Fixed,4,6,150006,Success (Reached Max Time),5.041742917869024,82
+standard,Additive-Fixed,4,7,150007,Success (Reached Max Time),4.548581289484838,84
+standard,Additive-Fixed,4,8,150008,Success (Reached Max Time),4.723773414164513,83
+standard,Additive-Fixed,4,9,150009,Success (Reached Max Time),4.457974448232114,83
+standard,Additive-Fixed,4,10,150010,Success (Reached Max Time),4.054649342826168,83
+standard,Additive-Fixed,4,11,150011,Success (Reached Max Time),4.887240206350973,83
+standard,Additive-Fixed,4,12,150012,Out of Bounds (Normal Flight),3.7175901039410926,60
+standard,Additive-Fixed,4,13,150013,Collision (Crash),5.016338531372318,41
+standard,Additive-Fixed,4,14,150014,Success (Reached Max Time),4.545500350888719,84
+standard,Additive-Fixed,4,15,150015,Success (Reached Max Time),4.1381591965638895,84
+standard,Additive-Fixed,4,16,150016,Collision (Crash),4.529595729460947,13
+standard,Additive-Fixed,4,17,150017,Success (Reached Max Time),4.331779148011262,84
+standard,Additive-Fixed,4,18,150018,Success (Reached Max Time),4.744158479394375,83
+standard,Additive-Fixed,4,19,150019,Collision (Oversteering Spin),2.7445171720147155,7
+standard,Additive-Fixed,4,20,150020,Success (Reached Max Time),4.33158582125117,83
+standard,Additive-Fixed,4,21,150021,Success (Reached Max Time),5.061961939691226,84
+standard,Additive-Fixed,4,22,150022,Success (Reached Max Time),4.471510014984135,82
+standard,Additive-Fixed,4,23,150023,Collision (Crash),4.630552868725077,36
+standard,Additive-Fixed,4,24,150024,Success (Reached Max Time),4.795390598208536,84
+standard,Additive-Fixed,4,25,150025,Success (Reached Max Time),4.95145079173261,82
+standard,Additive-Fixed,4,26,150026,Success (Reached Max Time),4.6862540241913155,83
+standard,Additive-Fixed,4,27,150027,Success (Reached Max Time),4.975521879290205,84
+standard,Additive-Fixed,4,28,150028,Collision (Crash),4.1556727226878,54
+standard,Additive-Fixed,4,29,150029,Collision (Crash),5.0402891699083066,40
+standard,Additive-Fixed,4,30,150030,Success (Reached Max Time),4.745441580202854,84
+standard,Additive-Fixed,4,31,150031,Success (Reached Max Time),4.51275319022112,83
+standard,Additive-Fixed,4,32,150032,Collision (Crash),4.528215717730643,36
+standard,Additive-Fixed,4,33,150033,Success (Reached Max Time),4.414426941832616,83
+standard,Additive-Fixed,4,34,150034,Success (Reached Max Time),4.959739479149607,84
+standard,Additive-Fixed,4,35,150035,Success (Reached Max Time),5.050664846219378,84
+standard,Additive-Fixed,4,36,150036,Success (Reached Max Time),4.751569732596846,84
+standard,Additive-Fixed,4,37,150037,Success (Reached Max Time),4.40468979825626,84
+standard,Additive-Fixed,4,38,150038,Success (Reached Max Time),4.503164674492953,83
+standard,Additive-Fixed,4,39,150039,Success (Reached Max Time),5.254807922899423,83
+standard,Additive-Fixed,4,40,150040,Collision (Crash),4.78209282659698,35
+standard,Additive-Fixed,4,41,150041,Success (Reached Max Time),5.327499765600347,82
+standard,Additive-Fixed,4,42,150042,Success (Reached Max Time),4.939765556197743,83
+standard,Additive-Fixed,4,43,150043,Collision (Crash),3.5566397498101967,46
+standard,Additive-Fixed,4,44,150044,Success (Reached Max Time),4.810532373426772,83
+standard,Additive-Fixed,4,45,150045,Collision (Crash),3.48971702379742,0
+standard,Additive-Fixed,4,46,150046,Success (Reached Max Time),4.288730088142709,84
+standard,Additive-Fixed,4,47,150047,Collision (Crash),5.042876256428298,50
+standard,Additive-Fixed,4,48,150048,Success (Reached Max Time),4.066421739976697,84
+standard,Additive-Fixed,4,49,150049,Collision (Crash),4.839557171475951,60
+standard,Additive-Fixed,5,0,150000,Out of Bounds (Normal Flight),4.723784089237467,69
+standard,Additive-Fixed,5,1,150001,Success (Reached Max Time),4.744606991244231,81
+standard,Additive-Fixed,5,2,150002,Collision (Crash),4.85535024643786,51
+standard,Additive-Fixed,5,3,150003,Out of Bounds (Normal Flight),2.580103409440491,15
+standard,Additive-Fixed,5,4,150004,Success (Reached Max Time),4.701540264764312,82
+standard,Additive-Fixed,5,5,150005,Collision (Crash),3.8189766168646826,0
+standard,Additive-Fixed,5,6,150006,Success (Reached Max Time),4.8424574706882675,82
+standard,Additive-Fixed,5,7,150007,Success (Reached Max Time),4.4814780999091415,82
+standard,Additive-Fixed,5,8,150008,Success (Reached Max Time),4.274358668220569,82
+standard,Additive-Fixed,5,9,150009,Collision (Crash),4.835267785967986,8
+standard,Additive-Fixed,5,10,150010,Success (Reached Max Time),4.594854161004608,81
+standard,Additive-Fixed,5,11,150011,Out of Bounds (Normal Flight),3.730128232127531,28
+standard,Additive-Fixed,5,12,150012,Collision (Oversteering Spin),8.845173628018273,45
+standard,Additive-Fixed,5,13,150013,Success (Reached Max Time),4.72346794784786,80
+standard,Additive-Fixed,5,14,150014,Success (Reached Max Time),5.096299376231917,82
+standard,Additive-Fixed,5,15,150015,Collision (Crash),4.146720668844183,63
+standard,Additive-Fixed,5,16,150016,Success (Reached Max Time),4.38387197402069,81
+standard,Additive-Fixed,5,17,150017,Success (Reached Max Time),4.7979268347958435,82
+standard,Additive-Fixed,5,18,150018,Success (Reached Max Time),3.944088855745215,82
+standard,Additive-Fixed,5,19,150019,Success (Reached Max Time),4.426474687279066,80
+standard,Additive-Fixed,5,20,150020,Success (Reached Max Time),3.9590585515867467,82
+standard,Additive-Fixed,5,21,150021,Collision (Crash),5.118763696794247,57
+standard,Additive-Fixed,5,22,150022,Collision (Crash),4.772786961974121,45
+standard,Additive-Fixed,5,23,150023,Collision (Crash),4.84798907070789,40
+standard,Additive-Fixed,5,24,150024,Success (Reached Max Time),4.773102697125205,82
+standard,Additive-Fixed,5,25,150025,Success (Reached Max Time),4.679365806465562,83
+standard,Additive-Fixed,5,26,150026,Collision (Crash),3.828918213882106,0
+standard,Additive-Fixed,5,27,150027,Success (Reached Max Time),4.8709417836096645,83
+standard,Additive-Fixed,5,28,150028,Collision (Crash),4.70869625306422,61
+standard,Additive-Fixed,5,29,150029,Success (Reached Max Time),4.715791636698069,83
+standard,Additive-Fixed,5,30,150030,Success (Reached Max Time),3.9482270986770147,81
+standard,Additive-Fixed,5,31,150031,Success (Reached Max Time),4.784280466167451,81
+standard,Additive-Fixed,5,32,150032,Collision (Crash),3.7538601943265815,0
+standard,Additive-Fixed,5,33,150033,Success (Reached Max Time),4.7518852113074725,82
+standard,Additive-Fixed,5,34,150034,Success (Reached Max Time),4.897168567225825,82
+standard,Additive-Fixed,5,35,150035,Success (Reached Max Time),4.722768710989507,84
+standard,Additive-Fixed,5,36,150036,Collision (Crash),3.4666354649658326,0
+standard,Additive-Fixed,5,37,150037,Success (Reached Max Time),4.265891122720973,82
+standard,Additive-Fixed,5,38,150038,Collision (Crash),4.788049008697651,52
+standard,Additive-Fixed,5,39,150039,Success (Reached Max Time),3.713321429504594,81
+standard,Additive-Fixed,5,40,150040,Success (Reached Max Time),4.351295611718325,82
+standard,Additive-Fixed,5,41,150041,Collision (Crash),3.8969058077646657,0
+standard,Additive-Fixed,5,42,150042,Collision (Crash),4.493588587948734,75
+standard,Additive-Fixed,5,43,150043,Success (Reached Max Time),5.122670430307806,82
+standard,Additive-Fixed,5,44,150044,Success (Reached Max Time),4.394084246471957,80
+standard,Additive-Fixed,5,45,150045,Out of Bounds (Normal Flight),4.056562854761435,54
+standard,Additive-Fixed,5,46,150046,Undershoot Turn (轉向不足),4.4493475040634705,56
+standard,Additive-Fixed,5,47,150047,Collision (Crash),4.514499121982451,30
+standard,Additive-Fixed,5,48,150048,Collision (Crash),4.705126008086616,20
+standard,Additive-Fixed,5,49,150049,Success (Reached Max Time),4.932517652619391,82
+standard,Additive-Fixed,6,0,150000,Success (Reached Max Time),4.216078289552999,87
+standard,Additive-Fixed,6,1,150001,Collision (Crash),4.881772095022757,7
+standard,Additive-Fixed,6,2,150002,Collision (Crash),4.889911408752026,48
+standard,Additive-Fixed,6,3,150003,Collision (Crash),4.918578529208156,29
+standard,Additive-Fixed,6,4,150004,Success (Reached Max Time),4.681546165563122,86
+standard,Additive-Fixed,6,5,150005,Collision (Crash),4.878140239596196,14
+standard,Additive-Fixed,6,6,150006,Success (Reached Max Time),4.887007127748117,84
+standard,Additive-Fixed,6,7,150007,Success (Reached Max Time),4.5694210346780695,86
+standard,Additive-Fixed,6,8,150008,Collision (Crash),4.93998998798304,30
+standard,Additive-Fixed,6,9,150009,Success (Reached Max Time),4.970284989571309,84
+standard,Additive-Fixed,6,10,150010,Success (Reached Max Time),4.626991295199539,85
+standard,Additive-Fixed,6,11,150011,Collision (Crash),4.467655052100932,42
+standard,Additive-Fixed,6,12,150012,Collision (Crash),4.3497266062010755,30
+standard,Additive-Fixed,6,13,150013,Success (Reached Max Time),4.480255738253223,85
+standard,Additive-Fixed,6,14,150014,Success (Reached Max Time),4.996852451450095,88
+standard,Additive-Fixed,6,15,150015,Undershoot Turn (轉向不足),8.582602728049537,40
+standard,Additive-Fixed,6,16,150016,Collision (Crash),5.094654092887703,29
+standard,Additive-Fixed,6,17,150017,Success (Reached Max Time),4.8466731817156115,86
+standard,Additive-Fixed,6,18,150018,Collision (Crash),4.238775059388614,62
+standard,Additive-Fixed,6,19,150019,Collision (Crash),4.83924442318693,8
+standard,Additive-Fixed,6,20,150020,Collision (Crash),4.776247665969664,21
+standard,Additive-Fixed,6,21,150021,Success (Reached Max Time),5.098205485613173,85
+standard,Additive-Fixed,6,22,150022,Collision (Crash),4.496138886397425,6
+standard,Additive-Fixed,6,23,150023,Success (Reached Max Time),4.4680053480977096,86
+standard,Additive-Fixed,6,24,150024,Collision (Crash),5.090944020575904,40
+standard,Additive-Fixed,6,25,150025,Collision (Crash),4.824315912704436,60
+standard,Additive-Fixed,6,26,150026,Success (Reached Max Time),4.5494449046674665,85
+standard,Additive-Fixed,6,27,150027,Success (Reached Max Time),4.585258721839695,87
+standard,Additive-Fixed,6,28,150028,Collision (Crash),4.905355769459438,31
+standard,Additive-Fixed,6,29,150029,Collision (Crash),4.216741823270649,55
+standard,Additive-Fixed,6,30,150030,Success (Reached Max Time),4.678549056346898,86
+standard,Additive-Fixed,6,31,150031,Collision (Crash),4.469497070933929,69
+standard,Additive-Fixed,6,32,150032,Collision (Crash),4.806945790062735,43
+standard,Additive-Fixed,6,33,150033,Success (Reached Max Time),4.527903044169423,85
+standard,Additive-Fixed,6,34,150034,Success (Reached Max Time),4.756729916937671,86
+standard,Additive-Fixed,6,35,150035,Success (Reached Max Time),4.63155513571062,85
+standard,Additive-Fixed,6,36,150036,Success (Reached Max Time),4.2964295947446525,86
+standard,Additive-Fixed,6,37,150037,Success (Reached Max Time),5.031272442200881,87
+standard,Additive-Fixed,6,38,150038,Collision (Crash),4.504098813067033,31
+standard,Additive-Fixed,6,39,150039,Collision (Crash),4.203988563547815,50
+standard,Additive-Fixed,6,40,150040,Collision (Crash),5.234504764732539,83
+standard,Additive-Fixed,6,41,150041,Collision (Crash),4.935921977587573,28
+standard,Additive-Fixed,6,42,150042,Collision (Crash),4.717326884259886,33
+standard,Additive-Fixed,6,43,150043,Collision (Crash),4.674058631163359,20
+standard,Additive-Fixed,6,44,150044,Out of Bounds (Normal Flight),4.741099277412079,40
+standard,Additive-Fixed,6,45,150045,Success (Reached Max Time),4.897360064535091,87
+standard,Additive-Fixed,6,46,150046,Success (Reached Max Time),4.585440780431734,86
+standard,Additive-Fixed,6,47,150047,Success (Reached Max Time),5.126100346657509,87
+standard,Additive-Fixed,6,48,150048,Collision (Crash),4.776233941289313,67
+standard,Additive-Fixed,6,49,150049,Success (Reached Max Time),5.008814722274187,88
+standard,Additive-Fixed,7,0,150000,Success (Reached Max Time),3.740393799371114,75
+standard,Additive-Fixed,7,1,150001,Success (Reached Max Time),4.439224269546191,76
+standard,Additive-Fixed,7,2,150002,Collision (Crash),4.542465172325714,7
+standard,Additive-Fixed,7,3,150003,Undershoot Turn (轉向不足),5.052890376953354,58
+standard,Additive-Fixed,7,4,150004,Collision (Crash),3.8432945980385687,56
+standard,Additive-Fixed,7,5,150005,Success (Reached Max Time),4.6350475966651485,77
+standard,Additive-Fixed,7,6,150006,Success (Reached Max Time),4.096757858065545,77
+standard,Additive-Fixed,7,7,150007,Success (Reached Max Time),4.437480615429015,76
+standard,Additive-Fixed,7,8,150008,Collision (Crash),4.706431610501161,26
+standard,Additive-Fixed,7,9,150009,Success (Reached Max Time),4.7184562845768,75
+standard,Additive-Fixed,7,10,150010,Success (Reached Max Time),3.5988946677650215,75
+standard,Additive-Fixed,7,11,150011,Success (Reached Max Time),4.385943699540347,74
+standard,Additive-Fixed,7,12,150012,Success (Reached Max Time),4.960600658592611,78
+standard,Additive-Fixed,7,13,150013,Success (Reached Max Time),4.0189015137965445,74
+standard,Additive-Fixed,7,14,150014,Collision (Crash),4.162374978933214,33
+standard,Additive-Fixed,7,15,150015,Collision (Crash),4.475107895597275,21
+standard,Additive-Fixed,7,16,150016,Success (Reached Max Time),4.421287963134437,75
+standard,Additive-Fixed,7,17,150017,Collision (Oversteering Spin),5.399136509699365,43
+standard,Additive-Fixed,7,18,150018,Collision (Crash),4.232749923412911,64
+standard,Additive-Fixed,7,19,150019,Collision (Crash),3.706362560048524,53
+standard,Additive-Fixed,7,20,150020,Success (Reached Max Time),4.202098091617337,78
+standard,Additive-Fixed,7,21,150021,Success (Reached Max Time),4.568827023734974,77
+standard,Additive-Fixed,7,22,150022,Collision (Crash),4.083523985210897,40
+standard,Additive-Fixed,7,23,150023,Success (Reached Max Time),3.720705117699893,74
+standard,Additive-Fixed,7,24,150024,Success (Reached Max Time),4.39820881377184,75
+standard,Additive-Fixed,7,25,150025,Success (Reached Max Time),4.289086405818871,76
+standard,Additive-Fixed,7,26,150026,Success (Reached Max Time),3.5599053644961947,75
+standard,Additive-Fixed,7,27,150027,Success (Reached Max Time),3.9770243429579843,76
+standard,Additive-Fixed,7,28,150028,Success (Reached Max Time),4.1148154674708515,76
+standard,Additive-Fixed,7,29,150029,Success (Reached Max Time),4.73746680118001,74
+standard,Additive-Fixed,7,30,150030,Success (Reached Max Time),4.014964239831314,74
+standard,Additive-Fixed,7,31,150031,Undershoot Turn (轉向不足),4.117227342647401,1
+standard,Additive-Fixed,7,32,150032,Collision (Crash),4.2196743113727395,24
+standard,Additive-Fixed,7,33,150033,Success (Reached Max Time),3.2161415738939487,74
+standard,Additive-Fixed,7,34,150034,Success (Reached Max Time),4.164667052512225,74
+standard,Additive-Fixed,7,35,150035,Success (Reached Max Time),3.8216179128243386,77
+standard,Additive-Fixed,7,36,150036,Success (Reached Max Time),4.306655060715612,76
+standard,Additive-Fixed,7,37,150037,Success (Reached Max Time),4.1498235563450585,75
+standard,Additive-Fixed,7,38,150038,Success (Reached Max Time),4.677574514151291,77
+standard,Additive-Fixed,7,39,150039,Collision (Crash),4.734847629930665,8
+standard,Additive-Fixed,7,40,150040,Collision (Crash),4.413187699811474,4
+standard,Additive-Fixed,7,41,150041,Collision (Crash),4.7171830677869195,25
+standard,Additive-Fixed,7,42,150042,Success (Reached Max Time),3.650685239036117,77
+standard,Additive-Fixed,7,43,150043,Collision (Crash),4.463458854352584,20
+standard,Additive-Fixed,7,44,150044,Success (Reached Max Time),3.549175180221849,76
+standard,Additive-Fixed,7,45,150045,Success (Reached Max Time),4.389553342703738,77
+standard,Additive-Fixed,7,46,150046,Success (Reached Max Time),4.0551378972522105,75
+standard,Additive-Fixed,7,47,150047,Collision (Crash),4.444476096882362,57
+standard,Additive-Fixed,7,48,150048,Collision (Crash),4.289121169952555,66
+standard,Additive-Fixed,7,49,150049,Success (Reached Max Time),4.225188852060679,73
+standard,Additive-Fixed,8,0,150000,Success (Reached Max Time),4.336703217738449,78
+standard,Additive-Fixed,8,1,150001,Success (Reached Max Time),4.259690288287227,78
+standard,Additive-Fixed,8,2,150002,Success (Reached Max Time),4.561285643520097,80
+standard,Additive-Fixed,8,3,150003,Success (Reached Max Time),4.222876142681034,78
+standard,Additive-Fixed,8,4,150004,Collision (Crash),4.075210138245251,69
+standard,Additive-Fixed,8,5,150005,Success (Reached Max Time),3.9714073346840717,77
+standard,Additive-Fixed,8,6,150006,Success (Reached Max Time),4.09504656013596,75
+standard,Additive-Fixed,8,7,150007,Success (Reached Max Time),4.826221757380486,80
+standard,Additive-Fixed,8,8,150008,Success (Reached Max Time),4.41610134962061,80
+standard,Additive-Fixed,8,9,150009,Success (Reached Max Time),3.9266848007138813,80
+standard,Additive-Fixed,8,10,150010,Success (Reached Max Time),3.8474125691146144,73
+standard,Additive-Fixed,8,11,150011,Success (Reached Max Time),3.6399825076179564,74
+standard,Additive-Fixed,8,12,150012,Success (Reached Max Time),4.367871467233986,80
+standard,Additive-Fixed,8,13,150013,Success (Reached Max Time),4.3708061223865675,76
+standard,Additive-Fixed,8,14,150014,Success (Reached Max Time),4.3220396147914695,73
+standard,Additive-Fixed,8,15,150015,Collision (Crash),3.6975341172420766,0
+standard,Additive-Fixed,8,16,150016,Collision (Crash),3.1065166454515243,0
+standard,Additive-Fixed,8,17,150017,Collision (Crash),5.166318067188173,0
+standard,Additive-Fixed,8,18,150018,Success (Reached Max Time),4.347307148607587,79
+standard,Additive-Fixed,8,19,150019,Collision (Crash),4.335211734841313,61
+standard,Additive-Fixed,8,20,150020,Success (Reached Max Time),4.749852135290665,80
+standard,Additive-Fixed,8,21,150021,Collision (Crash),3.8836667673042715,28
+standard,Additive-Fixed,8,22,150022,Success (Reached Max Time),3.654595406330766,80
+standard,Additive-Fixed,8,23,150023,Success (Reached Max Time),4.220354074100002,75
+standard,Additive-Fixed,8,24,150024,Undershoot Turn (轉向不足),9.431770507366492,49
+standard,Additive-Fixed,8,25,150025,Success (Reached Max Time),4.391075848812803,76
+standard,Additive-Fixed,8,26,150026,Collision (Oversteering Spin),4.206920136646437,57
+standard,Additive-Fixed,8,27,150027,Success (Reached Max Time),3.96864828853609,81
+standard,Additive-Fixed,8,28,150028,Success (Reached Max Time),4.549682368543354,77
+standard,Additive-Fixed,8,29,150029,Success (Reached Max Time),3.28632480321593,78
+standard,Additive-Fixed,8,30,150030,Success (Reached Max Time),3.99308048415815,79
+standard,Additive-Fixed,8,31,150031,Success (Reached Max Time),4.941951370977287,78
+standard,Additive-Fixed,8,32,150032,Success (Reached Max Time),4.5309562746273855,77
+standard,Additive-Fixed,8,33,150033,Success (Reached Max Time),3.3533630994434485,79
+standard,Additive-Fixed,8,34,150034,Success (Reached Max Time),4.115281613830963,74
+standard,Additive-Fixed,8,35,150035,Success (Reached Max Time),4.440538291715837,80
+standard,Additive-Fixed,8,36,150036,Success (Reached Max Time),4.300776217227572,78
+standard,Additive-Fixed,8,37,150037,Success (Reached Max Time),4.245991137229251,79
+standard,Additive-Fixed,8,38,150038,Success (Reached Max Time),3.7042321497261548,74
+standard,Additive-Fixed,8,39,150039,Success (Reached Max Time),3.723518098541937,75
+standard,Additive-Fixed,8,40,150040,Success (Reached Max Time),3.897491197638585,77
+standard,Additive-Fixed,8,41,150041,Success (Reached Max Time),4.070489995009361,78
+standard,Additive-Fixed,8,42,150042,Success (Reached Max Time),4.6759588187165555,81
+standard,Additive-Fixed,8,43,150043,Success (Reached Max Time),4.172743450676848,80
+standard,Additive-Fixed,8,44,150044,Success (Reached Max Time),3.5742334053392413,75
+standard,Additive-Fixed,8,45,150045,Success (Reached Max Time),4.140310534707455,79
+standard,Additive-Fixed,8,46,150046,Success (Reached Max Time),3.4924606428662845,80
+standard,Additive-Fixed,8,47,150047,Success (Reached Max Time),4.131168075174774,79
+standard,Additive-Fixed,8,48,150048,Success (Reached Max Time),4.664396780536469,78
+standard,Additive-Fixed,8,49,150049,Success (Reached Max Time),4.1704819448655455,81
+standard,Additive-Fixed,9,0,150000,Success (Reached Max Time),4.83109766207377,89
+standard,Additive-Fixed,9,1,150001,Success (Reached Max Time),4.602405983571278,85
+standard,Additive-Fixed,9,2,150002,Success (Reached Max Time),4.117015464872041,89
+standard,Additive-Fixed,9,3,150003,Success (Reached Max Time),5.009072378737681,87
+standard,Additive-Fixed,9,4,150004,Success (Reached Max Time),5.041068949049326,87
+standard,Additive-Fixed,9,5,150005,Success (Reached Max Time),4.397900534375268,85
+standard,Additive-Fixed,9,6,150006,Success (Reached Max Time),5.081322360281491,88
+standard,Additive-Fixed,9,7,150007,Collision (Oversteering Spin),1.6620463779848318,1
+standard,Additive-Fixed,9,8,150008,Collision (Crash),4.127692007565593,44
+standard,Additive-Fixed,9,9,150009,Collision (Crash),4.531252454874331,29
+standard,Additive-Fixed,9,10,150010,Success (Reached Max Time),4.765249100354194,86
+standard,Additive-Fixed,9,11,150011,Collision (Crash),4.642132370737824,74
+standard,Additive-Fixed,9,12,150012,Success (Reached Max Time),4.890429743772346,85
+standard,Additive-Fixed,9,13,150013,Success (Reached Max Time),4.796635765144831,85
+standard,Additive-Fixed,9,14,150014,Success (Reached Max Time),4.306076305462093,87
+standard,Additive-Fixed,9,15,150015,Success (Reached Max Time),4.457172665041698,85
+standard,Additive-Fixed,9,16,150016,Collision (Crash),4.348764872499784,17
+standard,Additive-Fixed,9,17,150017,Success (Reached Max Time),3.939109341768798,84
+standard,Additive-Fixed,9,18,150018,Success (Reached Max Time),4.449329052585847,87
+standard,Additive-Fixed,9,19,150019,Collision (Crash),3.5394993105782593,1
+standard,Additive-Fixed,9,20,150020,Success (Reached Max Time),4.67503063171556,88
+standard,Additive-Fixed,9,21,150021,Success (Reached Max Time),4.496127914479178,86
+standard,Additive-Fixed,9,22,150022,Out of Bounds (Normal Flight),4.307590203518706,69
+standard,Additive-Fixed,9,23,150023,Success (Reached Max Time),4.861437012878409,84
+standard,Additive-Fixed,9,24,150024,Collision (Crash),4.016529038878568,76
+standard,Additive-Fixed,9,25,150025,Success (Reached Max Time),4.315255114732242,90
+standard,Additive-Fixed,9,26,150026,Collision (Crash),4.511651028628454,52
+standard,Additive-Fixed,9,27,150027,Success (Reached Max Time),5.108837168524072,89
+standard,Additive-Fixed,9,28,150028,Success (Reached Max Time),4.862325383015952,89
+standard,Additive-Fixed,9,29,150029,Success (Reached Max Time),4.985485617803383,85
+standard,Additive-Fixed,9,30,150030,Success (Reached Max Time),4.2799971712827,88
+standard,Additive-Fixed,9,31,150031,Success (Reached Max Time),4.373720350222734,82
+standard,Additive-Fixed,9,32,150032,Success (Reached Max Time),4.63044791265455,89
+standard,Additive-Fixed,9,33,150033,Success (Reached Max Time),4.6260555261796155,82
+standard,Additive-Fixed,9,34,150034,Success (Reached Max Time),4.734851589412591,84
+standard,Additive-Fixed,9,35,150035,Success (Reached Max Time),4.975057052826548,87
+standard,Additive-Fixed,9,36,150036,Success (Reached Max Time),4.551066344029004,87
+standard,Additive-Fixed,9,37,150037,Collision (Crash),4.5781053608165285,14
+standard,Additive-Fixed,9,38,150038,Success (Reached Max Time),4.411946153111318,87
+standard,Additive-Fixed,9,39,150039,Success (Reached Max Time),4.617647379630108,85
+standard,Additive-Fixed,9,40,150040,Success (Reached Max Time),4.34267500299548,87
+standard,Additive-Fixed,9,41,150041,Collision (Crash),4.7299678617012475,17
+standard,Additive-Fixed,9,42,150042,Success (Reached Max Time),4.367251418599787,85
+standard,Additive-Fixed,9,43,150043,Collision (Crash),4.650781956114848,21
+standard,Additive-Fixed,9,44,150044,Success (Reached Max Time),5.151030777904038,86
+standard,Additive-Fixed,9,45,150045,Success (Reached Max Time),4.373834143055407,85
+standard,Additive-Fixed,9,46,150046,Success (Reached Max Time),5.3172570087314845,88
+standard,Additive-Fixed,9,47,150047,Success (Reached Max Time),4.595292649209039,88
+standard,Additive-Fixed,9,48,150048,Success (Reached Max Time),4.439680211829562,90
+standard,Additive-Fixed,9,49,150049,Success (Reached Max Time),4.1605851588267075,87
+standard,Additive-Step,0,0,150000,Success (Reached Max Time),4.9135690887694805,83
+standard,Additive-Step,0,1,150001,Success (Reached Max Time),4.5992267978357795,85
+standard,Additive-Step,0,2,150002,Success (Reached Max Time),5.12617771530297,82
+standard,Additive-Step,0,3,150003,Success (Reached Max Time),4.203152422089021,80
+standard,Additive-Step,0,4,150004,Success (Reached Max Time),4.840009026044117,85
+standard,Additive-Step,0,5,150005,Success (Reached Max Time),4.544178396993499,84
+standard,Additive-Step,0,6,150006,Success (Reached Max Time),4.8180238269648505,85
+standard,Additive-Step,0,7,150007,Success (Reached Max Time),4.785099524485928,81
+standard,Additive-Step,0,8,150008,Collision (Crash),4.68840861876545,84
+standard,Additive-Step,0,9,150009,Collision (Crash),4.4483755199640544,31
+standard,Additive-Step,0,10,150010,Success (Reached Max Time),4.433262183095903,84
+standard,Additive-Step,0,11,150011,Success (Reached Max Time),4.658592881780562,84
+standard,Additive-Step,0,12,150012,Success (Reached Max Time),4.105451529831792,84
+standard,Additive-Step,0,13,150013,Success (Reached Max Time),4.448341657014295,81
+standard,Additive-Step,0,14,150014,Success (Reached Max Time),4.1197459420408835,80
+standard,Additive-Step,0,15,150015,Success (Reached Max Time),4.822105817069397,84
+standard,Additive-Step,0,16,150016,Success (Reached Max Time),4.729184081603322,84
+standard,Additive-Step,0,17,150017,Success (Reached Max Time),3.8830485958721064,82
+standard,Additive-Step,0,18,150018,Success (Reached Max Time),4.372115690206028,84
+standard,Additive-Step,0,19,150019,Success (Reached Max Time),4.8862916818572755,83
+standard,Additive-Step,0,20,150020,Collision (Crash),4.514761841463592,71
+standard,Additive-Step,0,21,150021,Collision (Crash),3.3266847760089107,58
+standard,Additive-Step,0,22,150022,Collision (Crash),4.125804468078974,78
+standard,Additive-Step,0,23,150023,Success (Reached Max Time),4.5728950546397416,83
+standard,Additive-Step,0,24,150024,Success (Reached Max Time),4.607125059419038,83
+standard,Additive-Step,0,25,150025,Collision (Crash),4.591258980229526,19
+standard,Additive-Step,0,26,150026,Collision (Crash),3.9314451994207387,33
+standard,Additive-Step,0,27,150027,Collision (Crash),3.616456287621745,36
+standard,Additive-Step,0,28,150028,Success (Reached Max Time),4.26911698212878,82
+standard,Additive-Step,0,29,150029,Success (Reached Max Time),5.1742931341320535,84
+standard,Additive-Step,0,30,150030,Success (Reached Max Time),4.64657590333707,83
+standard,Additive-Step,0,31,150031,Success (Reached Max Time),4.5080607736625256,83
+standard,Additive-Step,0,32,150032,Success (Reached Max Time),4.675050961142065,82
+standard,Additive-Step,0,33,150033,Success (Reached Max Time),4.857019999554071,83
+standard,Additive-Step,0,34,150034,Success (Reached Max Time),4.208668257090082,83
+standard,Additive-Step,0,35,150035,Success (Reached Max Time),4.158017635922198,85
+standard,Additive-Step,0,36,150036,Success (Reached Max Time),4.504913385638062,84
+standard,Additive-Step,0,37,150037,Collision (Crash),3.6029856726915845,37
+standard,Additive-Step,0,38,150038,Collision (Oversteering Spin),5.584505135958585,51
+standard,Additive-Step,0,39,150039,Collision (Crash),3.7998573862786404,30
+standard,Additive-Step,0,40,150040,Success (Reached Max Time),4.032338424860831,82
+standard,Additive-Step,0,41,150041,Collision (Crash),3.631189473198483,66
+standard,Additive-Step,0,42,150042,Success (Reached Max Time),4.792409602710599,81
+standard,Additive-Step,0,43,150043,Success (Reached Max Time),4.471328852641302,82
+standard,Additive-Step,0,44,150044,Success (Reached Max Time),4.645387720738326,82
+standard,Additive-Step,0,45,150045,Collision (Crash),4.773326144682153,14
+standard,Additive-Step,0,46,150046,Success (Reached Max Time),5.070384090682125,80
+standard,Additive-Step,0,47,150047,Success (Reached Max Time),5.233207221155607,85
+standard,Additive-Step,0,48,150048,Collision (Crash),4.728100492528381,16
+standard,Additive-Step,0,49,150049,Collision (Crash),4.2107515556254045,71
+standard,Additive-Step,1,0,150000,Success (Reached Max Time),4.15724950909816,72
+standard,Additive-Step,1,1,150001,Success (Reached Max Time),4.758649653740028,74
+standard,Additive-Step,1,2,150002,Collision (Crash),3.8616146201177486,9
+standard,Additive-Step,1,3,150003,Collision (Crash),4.640091228727969,16
+standard,Additive-Step,1,4,150004,Collision (Crash),4.340816336387028,15
+standard,Additive-Step,1,5,150005,Collision (Crash),4.087391053664181,5
+standard,Additive-Step,1,6,150006,Collision (Crash),4.2792845986528265,66
+standard,Additive-Step,1,7,150007,Collision (Crash),4.378799896234483,15
+standard,Additive-Step,1,8,150008,Success (Reached Max Time),3.9335727151551785,73
+standard,Additive-Step,1,9,150009,Success (Reached Max Time),4.1601265646200485,72
+standard,Additive-Step,1,10,150010,Success (Reached Max Time),4.1901286224434235,69
+standard,Additive-Step,1,11,150011,Success (Reached Max Time),3.6122557239058306,73
+standard,Additive-Step,1,12,150012,Success (Reached Max Time),4.417472905460797,73
+standard,Additive-Step,1,13,150013,Success (Reached Max Time),4.228650192369718,73
+standard,Additive-Step,1,14,150014,Success (Reached Max Time),3.9926603284142788,74
+standard,Additive-Step,1,15,150015,Success (Reached Max Time),4.567574083543499,75
+standard,Additive-Step,1,16,150016,Collision (Crash),2.495324656279357,45
+standard,Additive-Step,1,17,150017,Collision (Crash),4.369583573498159,72
+standard,Additive-Step,1,18,150018,Success (Reached Max Time),4.428522019862102,74
+standard,Additive-Step,1,19,150019,Success (Reached Max Time),3.945688169926419,73
+standard,Additive-Step,1,20,150020,Collision (Crash),4.297444894682254,5
+standard,Additive-Step,1,21,150021,Collision (Crash),4.497686892445842,66
+standard,Additive-Step,1,22,150022,Collision (Crash),3.7430081334103655,43
+standard,Additive-Step,1,23,150023,Success (Reached Max Time),4.300357640348515,73
+standard,Additive-Step,1,24,150024,Success (Reached Max Time),3.188249037865898,75
+standard,Additive-Step,1,25,150025,Success (Reached Max Time),4.120762736512324,72
+standard,Additive-Step,1,26,150026,Success (Reached Max Time),3.824648365772142,73
+standard,Additive-Step,1,27,150027,Success (Reached Max Time),4.421035922957422,73
+standard,Additive-Step,1,28,150028,Success (Reached Max Time),3.995028900292615,74
+standard,Additive-Step,1,29,150029,Collision (Crash),4.319483059487304,23
+standard,Additive-Step,1,30,150030,Success (Reached Max Time),3.646621488303375,74
+standard,Additive-Step,1,31,150031,Success (Reached Max Time),4.07406157984867,72
+standard,Additive-Step,1,32,150032,Success (Reached Max Time),4.0777410216991905,71
+standard,Additive-Step,1,33,150033,Success (Reached Max Time),3.728032320641181,74
+standard,Additive-Step,1,34,150034,Success (Reached Max Time),3.674529494026844,73
+standard,Additive-Step,1,35,150035,Success (Reached Max Time),3.7078732157160696,75
+standard,Additive-Step,1,36,150036,Collision (Oversteering Spin),6.683064874962757,31
+standard,Additive-Step,1,37,150037,Collision (Crash),3.913756969144614,61
+standard,Additive-Step,1,38,150038,Success (Reached Max Time),3.908490413706796,73
+standard,Additive-Step,1,39,150039,Success (Reached Max Time),4.0619424835558755,75
+standard,Additive-Step,1,40,150040,Success (Reached Max Time),3.8029680673126833,73
+standard,Additive-Step,1,41,150041,Success (Reached Max Time),4.181769210722145,74
+standard,Additive-Step,1,42,150042,Collision (Crash),4.686322378055552,3
+standard,Additive-Step,1,43,150043,Success (Reached Max Time),3.845136507883043,73
+standard,Additive-Step,1,44,150044,Success (Reached Max Time),3.758365671302842,74
+standard,Additive-Step,1,45,150045,Collision (Crash),4.3590444086511875,25
+standard,Additive-Step,1,46,150046,Success (Reached Max Time),3.929583931792381,72
+standard,Additive-Step,1,47,150047,Success (Reached Max Time),3.9343507983593513,75
+standard,Additive-Step,1,48,150048,Success (Reached Max Time),4.240296480287814,74
+standard,Additive-Step,1,49,150049,Success (Reached Max Time),3.7246445606003964,73
+standard,Additive-Step,2,0,150000,Success (Reached Max Time),4.274767328756126,72
+standard,Additive-Step,2,1,150001,Success (Reached Max Time),4.133026974509699,71
+standard,Additive-Step,2,2,150002,Success (Reached Max Time),4.134394676690015,70
+standard,Additive-Step,2,3,150003,Success (Reached Max Time),4.178836390584249,71
+standard,Additive-Step,2,4,150004,Success (Reached Max Time),4.027472474349807,73
+standard,Additive-Step,2,5,150005,Success (Reached Max Time),3.6231279168181687,72
+standard,Additive-Step,2,6,150006,Success (Reached Max Time),4.357246046692565,72
+standard,Additive-Step,2,7,150007,Success (Reached Max Time),3.6878499826494564,70
+standard,Additive-Step,2,8,150008,Success (Reached Max Time),3.7845564424047393,72
+standard,Additive-Step,2,9,150009,Success (Reached Max Time),4.055798602416228,72
+standard,Additive-Step,2,10,150010,Success (Reached Max Time),4.204810956432481,72
+standard,Additive-Step,2,11,150011,Success (Reached Max Time),3.4991958493321556,72
+standard,Additive-Step,2,12,150012,Success (Reached Max Time),3.830840111507407,72
+standard,Additive-Step,2,13,150013,Success (Reached Max Time),3.60280955271176,69
+standard,Additive-Step,2,14,150014,Success (Reached Max Time),4.397146909202251,71
+standard,Additive-Step,2,15,150015,Success (Reached Max Time),4.059670865362645,73
+standard,Additive-Step,2,16,150016,Success (Reached Max Time),3.8074412977080447,72
+standard,Additive-Step,2,17,150017,Success (Reached Max Time),2.8762584366171833,72
+standard,Additive-Step,2,18,150018,Success (Reached Max Time),3.8999867568056548,70
+standard,Additive-Step,2,19,150019,Success (Reached Max Time),3.3134644383563323,73
+standard,Additive-Step,2,20,150020,Success (Reached Max Time),4.123341005626075,70
+standard,Additive-Step,2,21,150021,Success (Reached Max Time),4.112603094724264,69
+standard,Additive-Step,2,22,150022,Success (Reached Max Time),4.066247437653579,72
+standard,Additive-Step,2,23,150023,Success (Reached Max Time),3.8289332601627746,73
+standard,Additive-Step,2,24,150024,Success (Reached Max Time),4.53860855794611,72
+standard,Additive-Step,2,25,150025,Success (Reached Max Time),3.7976456731681476,72
+standard,Additive-Step,2,26,150026,Success (Reached Max Time),4.172348949718304,68
+standard,Additive-Step,2,27,150027,Success (Reached Max Time),4.289713225967894,73
+standard,Additive-Step,2,28,150028,Success (Reached Max Time),3.6109708168636745,71
+standard,Additive-Step,2,29,150029,Success (Reached Max Time),2.439454148541163,72
+standard,Additive-Step,2,30,150030,Success (Reached Max Time),3.084612630743229,68
+standard,Additive-Step,2,31,150031,Success (Reached Max Time),3.8169371335081532,71
+standard,Additive-Step,2,32,150032,Success (Reached Max Time),4.3613834420822055,73
+standard,Additive-Step,2,33,150033,Success (Reached Max Time),4.1268364257499615,73
+standard,Additive-Step,2,34,150034,Success (Reached Max Time),4.242415773906093,74
+standard,Additive-Step,2,35,150035,Success (Reached Max Time),4.050145073092687,69
+standard,Additive-Step,2,36,150036,Success (Reached Max Time),4.10037631154284,71
+standard,Additive-Step,2,37,150037,Success (Reached Max Time),3.706753333883216,71
+standard,Additive-Step,2,38,150038,Success (Reached Max Time),4.0633027945646765,72
+standard,Additive-Step,2,39,150039,Success (Reached Max Time),4.125235582544696,71
+standard,Additive-Step,2,40,150040,Success (Reached Max Time),3.869946122392003,71
+standard,Additive-Step,2,41,150041,Success (Reached Max Time),3.8781394163456824,73
+standard,Additive-Step,2,42,150042,Success (Reached Max Time),3.7907847432999455,69
+standard,Additive-Step,2,43,150043,Success (Reached Max Time),4.272239566424508,74
+standard,Additive-Step,2,44,150044,Success (Reached Max Time),4.6101239482515455,71
+standard,Additive-Step,2,45,150045,Success (Reached Max Time),3.9734398222446137,69
+standard,Additive-Step,2,46,150046,Success (Reached Max Time),4.134821456672928,74
+standard,Additive-Step,2,47,150047,Success (Reached Max Time),4.030725488800494,72
+standard,Additive-Step,2,48,150048,Success (Reached Max Time),4.522704362058938,72
+standard,Additive-Step,2,49,150049,Success (Reached Max Time),3.7907724246972374,69
+standard,Additive-Step,3,0,150000,Success (Reached Max Time),3.1307721384905247,78
+standard,Additive-Step,3,1,150001,Success (Reached Max Time),3.52986878078141,81
+standard,Additive-Step,3,2,150002,Success (Reached Max Time),4.394618896103347,83
+standard,Additive-Step,3,3,150003,Success (Reached Max Time),4.795098280041829,85
+standard,Additive-Step,3,4,150004,Success (Reached Max Time),4.145516210737421,83
+standard,Additive-Step,3,5,150005,Success (Reached Max Time),4.290913465712786,86
+standard,Additive-Step,3,6,150006,Success (Reached Max Time),4.814069461719875,85
+standard,Additive-Step,3,7,150007,Success (Reached Max Time),4.796570136618342,83
+standard,Additive-Step,3,8,150008,Success (Reached Max Time),4.893052097894445,85
+standard,Additive-Step,3,9,150009,Success (Reached Max Time),4.145383382182514,79
+standard,Additive-Step,3,10,150010,Collision (Crash),1.010403540691181,0
+standard,Additive-Step,3,11,150011,Success (Reached Max Time),5.2267261447243945,86
+standard,Additive-Step,3,12,150012,Success (Reached Max Time),4.922430223145537,82
+standard,Additive-Step,3,13,150013,Success (Reached Max Time),4.766676132494587,87
+standard,Additive-Step,3,14,150014,Success (Reached Max Time),3.8447879790825117,80
+standard,Additive-Step,3,15,150015,Success (Reached Max Time),4.38560921233313,83
+standard,Additive-Step,3,16,150016,Success (Reached Max Time),4.330907152778779,81
+standard,Additive-Step,3,17,150017,Success (Reached Max Time),3.485980209647118,87
+standard,Additive-Step,3,18,150018,Success (Reached Max Time),4.630529689203374,84
+standard,Additive-Step,3,19,150019,Success (Reached Max Time),4.430648267578189,82
+standard,Additive-Step,3,20,150020,Success (Reached Max Time),4.780783081169459,84
+standard,Additive-Step,3,21,150021,Success (Reached Max Time),4.657295723366661,82
+standard,Additive-Step,3,22,150022,Success (Reached Max Time),4.262453932931227,84
+standard,Additive-Step,3,23,150023,Success (Reached Max Time),4.763957290346639,84
+standard,Additive-Step,3,24,150024,Success (Reached Max Time),4.934155480691803,85
+standard,Additive-Step,3,25,150025,Success (Reached Max Time),2.838685200900005,82
+standard,Additive-Step,3,26,150026,Success (Reached Max Time),5.234237070595459,84
+standard,Additive-Step,3,27,150027,Success (Reached Max Time),5.160045241751669,83
+standard,Additive-Step,3,28,150028,Success (Reached Max Time),4.9644142683089285,85
+standard,Additive-Step,3,29,150029,Collision (Crash),4.6187473004582955,35
+standard,Additive-Step,3,30,150030,Success (Reached Max Time),3.340130073448283,83
+standard,Additive-Step,3,31,150031,Success (Reached Max Time),3.613776834359748,79
+standard,Additive-Step,3,32,150032,Collision (Crash),4.393872994498138,40
+standard,Additive-Step,3,33,150033,Success (Reached Max Time),5.538729697481521,85
+standard,Additive-Step,3,34,150034,Success (Reached Max Time),5.193271669142716,85
+standard,Additive-Step,3,35,150035,Undershoot Turn (轉向不足),3.0216243659229503,42
+standard,Additive-Step,3,36,150036,Success (Reached Max Time),4.399632941246962,86
+standard,Additive-Step,3,37,150037,Success (Reached Max Time),4.7374704246146475,87
+standard,Additive-Step,3,38,150038,Success (Reached Max Time),3.7072813404462424,87
+standard,Additive-Step,3,39,150039,Success (Reached Max Time),4.514795158009481,83
+standard,Additive-Step,3,40,150040,Success (Reached Max Time),4.975718272192206,87
+standard,Additive-Step,3,41,150041,Success (Reached Max Time),4.637592124844356,83
+standard,Additive-Step,3,42,150042,Success (Reached Max Time),4.935372937666118,82
+standard,Additive-Step,3,43,150043,Success (Reached Max Time),4.501926219611365,87
+standard,Additive-Step,3,44,150044,Success (Reached Max Time),4.765081415998069,82
+standard,Additive-Step,3,45,150045,Success (Reached Max Time),4.902329217766656,83
+standard,Additive-Step,3,46,150046,Success (Reached Max Time),4.432073697727668,83
+standard,Additive-Step,3,47,150047,Success (Reached Max Time),4.726155508181305,84
+standard,Additive-Step,3,48,150048,Success (Reached Max Time),5.089846517036819,86
+standard,Additive-Step,3,49,150049,Success (Reached Max Time),4.853505618547862,85
+standard,Additive-Step,4,0,150000,Success (Reached Max Time),3.8709884476563072,74
+standard,Additive-Step,4,1,150001,Success (Reached Max Time),3.809601771451031,81
+standard,Additive-Step,4,2,150002,Success (Reached Max Time),4.46154658680339,79
+standard,Additive-Step,4,3,150003,Success (Reached Max Time),4.657636679750678,77
+standard,Additive-Step,4,4,150004,Success (Reached Max Time),5.067394544464683,80
+standard,Additive-Step,4,5,150005,Success (Reached Max Time),4.662734861393913,81
+standard,Additive-Step,4,6,150006,Success (Reached Max Time),3.4157338227431233,77
+standard,Additive-Step,4,7,150007,Success (Reached Max Time),4.402448167113532,75
+standard,Additive-Step,4,8,150008,Success (Reached Max Time),4.471352962388961,80
+standard,Additive-Step,4,9,150009,Success (Reached Max Time),4.255164546511466,82
+standard,Additive-Step,4,10,150010,Success (Reached Max Time),4.7937865874599,78
+standard,Additive-Step,4,11,150011,Success (Reached Max Time),4.824494445918474,82
+standard,Additive-Step,4,12,150012,Success (Reached Max Time),4.328023002906991,78
+standard,Additive-Step,4,13,150013,Success (Reached Max Time),4.153677583328871,74
+standard,Additive-Step,4,14,150014,Collision (Crash),4.5380304142417405,37
+standard,Additive-Step,4,15,150015,Success (Reached Max Time),4.392490332561239,83
+standard,Additive-Step,4,16,150016,Success (Reached Max Time),4.1155719889379885,75
+standard,Additive-Step,4,17,150017,Success (Reached Max Time),4.629787531828352,80
+standard,Additive-Step,4,18,150018,Success (Reached Max Time),3.2161373667635136,80
+standard,Additive-Step,4,19,150019,Collision (Crash),3.67615767731859,63
+standard,Additive-Step,4,20,150020,Collision (Crash),4.279975389978331,44
+standard,Additive-Step,4,21,150021,Success (Reached Max Time),4.212294401510805,80
+standard,Additive-Step,4,22,150022,Success (Reached Max Time),5.206395536169273,82
+standard,Additive-Step,4,23,150023,Success (Reached Max Time),3.894942993455506,75
+standard,Additive-Step,4,24,150024,Success (Reached Max Time),3.808399664947071,79
+standard,Additive-Step,4,25,150025,Success (Reached Max Time),3.681430382810654,68
+standard,Additive-Step,4,26,150026,Success (Reached Max Time),4.449739212018538,78
+standard,Additive-Step,4,27,150027,Success (Reached Max Time),4.5104649630468385,77
+standard,Additive-Step,4,28,150028,Success (Reached Max Time),3.2871744348920156,73
+standard,Additive-Step,4,29,150029,Success (Reached Max Time),4.287703737879707,81
+standard,Additive-Step,4,30,150030,Success (Reached Max Time),4.418508939857318,76
+standard,Additive-Step,4,31,150031,Success (Reached Max Time),4.506270006748093,82
+standard,Additive-Step,4,32,150032,Success (Reached Max Time),4.132260615833269,80
+standard,Additive-Step,4,33,150033,Success (Reached Max Time),3.8643436696263938,76
+standard,Additive-Step,4,34,150034,Success (Reached Max Time),3.523366144914051,72
+standard,Additive-Step,4,35,150035,Collision (Crash),4.0091865704485485,46
+standard,Additive-Step,4,36,150036,Success (Reached Max Time),4.056176128128809,74
+standard,Additive-Step,4,37,150037,Success (Reached Max Time),4.651908928009148,81
+standard,Additive-Step,4,38,150038,Collision (Crash),3.9537930957199285,69
+standard,Additive-Step,4,39,150039,Success (Reached Max Time),4.529830245444489,79
+standard,Additive-Step,4,40,150040,Success (Reached Max Time),4.06206838656989,81
+standard,Additive-Step,4,41,150041,Success (Reached Max Time),4.466829592726914,77
+standard,Additive-Step,4,42,150042,Success (Reached Max Time),3.608378359817424,79
+standard,Additive-Step,4,43,150043,Success (Reached Max Time),4.967038363908396,74
+standard,Additive-Step,4,44,150044,Success (Reached Max Time),4.081671399953256,82
+standard,Additive-Step,4,45,150045,Success (Reached Max Time),4.292017316476863,82
+standard,Additive-Step,4,46,150046,Success (Reached Max Time),3.7877926024292146,80
+standard,Additive-Step,4,47,150047,Success (Reached Max Time),4.8452330997668165,82
+standard,Additive-Step,4,48,150048,Success (Reached Max Time),4.3154114265802725,75
+standard,Additive-Step,4,49,150049,Success (Reached Max Time),3.543869816022634,79
+standard,Additive-Step,5,0,150000,Success (Reached Max Time),4.2936335246798025,82
+standard,Additive-Step,5,1,150001,Collision (Crash),3.8451353721273964,47
+standard,Additive-Step,5,2,150002,Success (Reached Max Time),5.240027985462597,84
+standard,Additive-Step,5,3,150003,Success (Reached Max Time),4.763784353910676,83
+standard,Additive-Step,5,4,150004,Success (Reached Max Time),4.555981947123101,82
+standard,Additive-Step,5,5,150005,Collision (Crash),4.56829071092097,31
+standard,Additive-Step,5,6,150006,Success (Reached Max Time),5.111777709443766,84
+standard,Additive-Step,5,7,150007,Success (Reached Max Time),4.5657397220770015,82
+standard,Additive-Step,5,8,150008,Collision (Crash),4.508830398777669,72
+standard,Additive-Step,5,9,150009,Success (Reached Max Time),4.282777348871228,82
+standard,Additive-Step,5,10,150010,Collision (Crash),4.901630164688622,27
+standard,Additive-Step,5,11,150011,Collision (Crash),4.6437310781474865,66
+standard,Additive-Step,5,12,150012,Success (Reached Max Time),4.619324645026698,84
+standard,Additive-Step,5,13,150013,Success (Reached Max Time),4.034495273981157,81
+standard,Additive-Step,5,14,150014,Success (Reached Max Time),5.1692649034036835,83
+standard,Additive-Step,5,15,150015,Success (Reached Max Time),4.553556243994275,83
+standard,Additive-Step,5,16,150016,Success (Reached Max Time),4.074364575083837,80
+standard,Additive-Step,5,17,150017,Collision (Crash),4.015392842794416,48
+standard,Additive-Step,5,18,150018,Success (Reached Max Time),3.831860122440472,82
+standard,Additive-Step,5,19,150019,Success (Reached Max Time),4.148746339010179,78
+standard,Additive-Step,5,20,150020,Success (Reached Max Time),4.774527512064371,83
+standard,Additive-Step,5,21,150021,Success (Reached Max Time),4.791186998423522,81
+standard,Additive-Step,5,22,150022,Success (Reached Max Time),4.346673058520386,82
+standard,Additive-Step,5,23,150023,Success (Reached Max Time),4.914554474450586,83
+standard,Additive-Step,5,24,150024,Collision (Crash),4.096011523065599,51
+standard,Additive-Step,5,25,150025,Success (Reached Max Time),4.614054819141974,83
+standard,Additive-Step,5,26,150026,Success (Reached Max Time),4.056177331605256,82
+standard,Additive-Step,5,27,150027,Success (Reached Max Time),4.25474279988076,84
+standard,Additive-Step,5,28,150028,Collision (Crash),5.723071545897991,63
+standard,Additive-Step,5,29,150029,Collision (Crash),4.887011948232963,5
+standard,Additive-Step,5,30,150030,Success (Reached Max Time),5.092734553294283,82
+standard,Additive-Step,5,31,150031,Success (Reached Max Time),4.8270606652111345,80
+standard,Additive-Step,5,32,150032,Success (Reached Max Time),4.936807169344123,81
+standard,Additive-Step,5,33,150033,Success (Reached Max Time),4.518621102341707,83
+standard,Additive-Step,5,34,150034,Success (Reached Max Time),4.357555874988319,82
+standard,Additive-Step,5,35,150035,Collision (Crash),3.777635534781829,81
+standard,Additive-Step,5,36,150036,Collision (Crash),4.019393008902946,66
+standard,Additive-Step,5,37,150037,Success (Reached Max Time),4.233345528927129,81
+standard,Additive-Step,5,38,150038,Collision (Crash),3.8423112090823794,78
+standard,Additive-Step,5,39,150039,Success (Reached Max Time),4.315945132186317,81
+standard,Additive-Step,5,40,150040,Success (Reached Max Time),4.6275028387945705,81
+standard,Additive-Step,5,41,150041,Success (Reached Max Time),4.056064092125501,82
+standard,Additive-Step,5,42,150042,Success (Reached Max Time),4.526098321148907,83
+standard,Additive-Step,5,43,150043,Undershoot Turn (轉向不足),7.375193178486187,64
+standard,Additive-Step,5,44,150044,Collision (Crash),4.71508756245441,60
+standard,Additive-Step,5,45,150045,Collision (Crash),4.929728532294474,56
+standard,Additive-Step,5,46,150046,Success (Reached Max Time),5.067287264115568,82
+standard,Additive-Step,5,47,150047,Collision (Crash),4.569215898481486,71
+standard,Additive-Step,5,48,150048,Success (Reached Max Time),5.237525920837933,83
+standard,Additive-Step,5,49,150049,Collision (Crash),3.5613156540496522,53
+standard,Additive-Step,6,0,150000,Success (Reached Max Time),4.950379901383244,86
+standard,Additive-Step,6,1,150001,Success (Reached Max Time),5.213819766015337,86
+standard,Additive-Step,6,2,150002,Success (Reached Max Time),5.1323824670829294,87
+standard,Additive-Step,6,3,150003,Success (Reached Max Time),5.168419500864317,87
+standard,Additive-Step,6,4,150004,Success (Reached Max Time),4.690442117020344,89
+standard,Additive-Step,6,5,150005,Success (Reached Max Time),4.983248337349855,86
+standard,Additive-Step,6,6,150006,Success (Reached Max Time),5.185182141354417,87
+standard,Additive-Step,6,7,150007,Success (Reached Max Time),4.464464615621986,88
+standard,Additive-Step,6,8,150008,Success (Reached Max Time),4.346014221451602,87
+standard,Additive-Step,6,9,150009,Success (Reached Max Time),4.723624734381306,87
+standard,Additive-Step,6,10,150010,Success (Reached Max Time),5.420298444415887,87
+standard,Additive-Step,6,11,150011,Success (Reached Max Time),4.317300644213625,87
+standard,Additive-Step,6,12,150012,Success (Reached Max Time),4.794346572436392,87
+standard,Additive-Step,6,13,150013,Success (Reached Max Time),4.258035774898537,86
+standard,Additive-Step,6,14,150014,Success (Reached Max Time),4.530845795891872,88
+standard,Additive-Step,6,15,150015,Success (Reached Max Time),4.219236541188045,88
+standard,Additive-Step,6,16,150016,Success (Reached Max Time),4.446843870359506,86
+standard,Additive-Step,6,17,150017,Collision (Crash),0.8966174380714743,0
+standard,Additive-Step,6,18,150018,Success (Reached Max Time),4.515061290362362,88
+standard,Additive-Step,6,19,150019,Success (Reached Max Time),4.9701803907151225,88
+standard,Additive-Step,6,20,150020,Success (Reached Max Time),5.242555620908894,88
+standard,Additive-Step,6,21,150021,Success (Reached Max Time),4.313993033610157,85
+standard,Additive-Step,6,22,150022,Success (Reached Max Time),4.9112479297417675,86
+standard,Additive-Step,6,23,150023,Success (Reached Max Time),4.877673753209436,88
+standard,Additive-Step,6,24,150024,Success (Reached Max Time),5.220125170909964,87
+standard,Additive-Step,6,25,150025,Success (Reached Max Time),5.562146623583485,87
+standard,Additive-Step,6,26,150026,Success (Reached Max Time),4.307204648366212,87
+standard,Additive-Step,6,27,150027,Success (Reached Max Time),4.71105736824673,87
+standard,Additive-Step,6,28,150028,Collision (Crash),0.8694006702461239,0
+standard,Additive-Step,6,29,150029,Success (Reached Max Time),4.57008101905852,87
+standard,Additive-Step,6,30,150030,Success (Reached Max Time),4.950894704558696,89
+standard,Additive-Step,6,31,150031,Success (Reached Max Time),4.590661056957849,86
+standard,Additive-Step,6,32,150032,Success (Reached Max Time),4.83498294821653,86
+standard,Additive-Step,6,33,150033,Success (Reached Max Time),5.427677011911368,85
+standard,Additive-Step,6,34,150034,Collision (Crash),5.370472417220376,52
+standard,Additive-Step,6,35,150035,Success (Reached Max Time),4.2584910502591855,84
+standard,Additive-Step,6,36,150036,Success (Reached Max Time),4.522607147658366,86
+standard,Additive-Step,6,37,150037,Success (Reached Max Time),4.696133764059907,86
+standard,Additive-Step,6,38,150038,Success (Reached Max Time),4.855265782607189,88
+standard,Additive-Step,6,39,150039,Success (Reached Max Time),4.933483432146267,87
+standard,Additive-Step,6,40,150040,Success (Reached Max Time),4.309812487615921,84
+standard,Additive-Step,6,41,150041,Success (Reached Max Time),4.497714266079366,86
+standard,Additive-Step,6,42,150042,Collision (Crash),4.382421728198517,46
+standard,Additive-Step,6,43,150043,Success (Reached Max Time),4.936833659512914,87
+standard,Additive-Step,6,44,150044,Success (Reached Max Time),5.123957111990335,87
+standard,Additive-Step,6,45,150045,Success (Reached Max Time),4.935238785720876,87
+standard,Additive-Step,6,46,150046,Success (Reached Max Time),5.004767383431461,87
+standard,Additive-Step,6,47,150047,Success (Reached Max Time),4.9419880909144025,88
+standard,Additive-Step,6,48,150048,Success (Reached Max Time),5.328653203130875,87
+standard,Additive-Step,6,49,150049,Success (Reached Max Time),5.277867473956986,86
+standard,Additive-Step,7,0,150000,Collision (Crash),5.133349073698406,25
+standard,Additive-Step,7,1,150001,Collision (Oversteering Spin),5.739570487737272,38
+standard,Additive-Step,7,2,150002,Collision (Oversteering Spin),7.484545442008592,48
+standard,Additive-Step,7,3,150003,Success (Reached Max Time),3.90905019181494,83
+standard,Additive-Step,7,4,150004,Success (Reached Max Time),4.46324062903055,84
+standard,Additive-Step,7,5,150005,Collision (Crash),3.5729874510032578,0
+standard,Additive-Step,7,6,150006,Collision (Crash),4.261396711869335,74
+standard,Additive-Step,7,7,150007,Success (Reached Max Time),4.464261891696074,83
+standard,Additive-Step,7,8,150008,Success (Reached Max Time),4.735912927374161,85
+standard,Additive-Step,7,9,150009,Success (Reached Max Time),4.6223069697644315,85
+standard,Additive-Step,7,10,150010,Collision (Crash),3.0033497267208698,0
+standard,Additive-Step,7,11,150011,Success (Reached Max Time),4.709259471592512,84
+standard,Additive-Step,7,12,150012,Success (Reached Max Time),4.2688818508632504,84
+standard,Additive-Step,7,13,150013,Success (Reached Max Time),4.595880053199976,83
+standard,Additive-Step,7,14,150014,Collision (Crash),4.832099120612453,40
+standard,Additive-Step,7,15,150015,Success (Reached Max Time),4.360099318380388,83
+standard,Additive-Step,7,16,150016,Collision (Crash),5.032735869847931,22
+standard,Additive-Step,7,17,150017,Success (Reached Max Time),4.922179971611807,83
+standard,Additive-Step,7,18,150018,Success (Reached Max Time),5.038203969926614,85
+standard,Additive-Step,7,19,150019,Success (Reached Max Time),4.739886535068223,83
+standard,Additive-Step,7,20,150020,Collision (Crash),5.132822185968492,7
+standard,Additive-Step,7,21,150021,Success (Reached Max Time),4.3299852011973625,84
+standard,Additive-Step,7,22,150022,Success (Reached Max Time),4.6809068215366185,81
+standard,Additive-Step,7,23,150023,Success (Reached Max Time),4.8105200556491035,82
+standard,Additive-Step,7,24,150024,Success (Reached Max Time),4.309429034685179,84
+standard,Additive-Step,7,25,150025,Success (Reached Max Time),4.617626713515079,82
+standard,Additive-Step,7,26,150026,Success (Reached Max Time),4.818796398618561,80
+standard,Additive-Step,7,27,150027,Success (Reached Max Time),4.727552116965009,84
+standard,Additive-Step,7,28,150028,Collision (Crash),4.980249081810603,11
+standard,Additive-Step,7,29,150029,Success (Reached Max Time),3.714068891037546,83
+standard,Additive-Step,7,30,150030,Collision (Crash),3.8244755691572774,1
+standard,Additive-Step,7,31,150031,Collision (Oversteering Spin),5.821487915090396,57
+standard,Additive-Step,7,32,150032,Success (Reached Max Time),4.581645428988117,78
+standard,Additive-Step,7,33,150033,Success (Reached Max Time),4.173599905409336,84
+standard,Additive-Step,7,34,150034,Success (Reached Max Time),3.7232828843915335,85
+standard,Additive-Step,7,35,150035,Success (Reached Max Time),4.539484404413702,82
+standard,Additive-Step,7,36,150036,Success (Reached Max Time),4.794725703656627,84
+standard,Additive-Step,7,37,150037,Success (Reached Max Time),4.820254945546412,85
+standard,Additive-Step,7,38,150038,Success (Reached Max Time),5.202669437601928,85
+standard,Additive-Step,7,39,150039,Success (Reached Max Time),4.784499768548856,84
+standard,Additive-Step,7,40,150040,Success (Reached Max Time),4.806524721630334,83
+standard,Additive-Step,7,41,150041,Success (Reached Max Time),4.383920410707979,84
+standard,Additive-Step,7,42,150042,Success (Reached Max Time),3.805369717841578,86
+standard,Additive-Step,7,43,150043,Success (Reached Max Time),4.616783543533698,85
+standard,Additive-Step,7,44,150044,Success (Reached Max Time),4.699390394556167,85
+standard,Additive-Step,7,45,150045,Success (Reached Max Time),4.645102860703262,83
+standard,Additive-Step,7,46,150046,Collision (Crash),4.181802699201244,72
+standard,Additive-Step,7,47,150047,Collision (Crash),4.862838272673094,38
+standard,Additive-Step,7,48,150048,Success (Reached Max Time),4.494659133021757,85
+standard,Additive-Step,7,49,150049,Success (Reached Max Time),4.492638863742925,82
+standard,Additive-Step,8,0,150000,Success (Reached Max Time),4.355994874026971,84
+standard,Additive-Step,8,1,150001,Collision (Crash),4.598340307680561,28
+standard,Additive-Step,8,2,150002,Collision (Crash),5.37741480070727,19
+standard,Additive-Step,8,3,150003,Success (Reached Max Time),3.974843632530746,85
+standard,Additive-Step,8,4,150004,Out of Bounds (Normal Flight),3.879453481387698,42
+standard,Additive-Step,8,5,150005,Success (Reached Max Time),4.925654259550877,85
+standard,Additive-Step,8,6,150006,Collision (Crash),4.916757289826751,76
+standard,Additive-Step,8,7,150007,Success (Reached Max Time),4.038841121593032,85
+standard,Additive-Step,8,8,150008,Collision (Crash),4.624002418803177,23
+standard,Additive-Step,8,9,150009,Collision (Crash),5.0176801953522645,84
+standard,Additive-Step,8,10,150010,Success (Reached Max Time),4.8415894246535345,86
+standard,Additive-Step,8,11,150011,Success (Reached Max Time),4.774078050252982,86
+standard,Additive-Step,8,12,150012,Success (Reached Max Time),5.556363611851521,87
+standard,Additive-Step,8,13,150013,Success (Reached Max Time),4.803511756013235,83
+standard,Additive-Step,8,14,150014,Success (Reached Max Time),4.69995854374152,85
+standard,Additive-Step,8,15,150015,Success (Reached Max Time),5.55986231326206,85
+standard,Additive-Step,8,16,150016,Collision (Crash),4.773569511065418,33
+standard,Additive-Step,8,17,150017,Success (Reached Max Time),4.991139792533432,84
+standard,Additive-Step,8,18,150018,Undershoot Turn (轉向不足),3.540630877853555,56
+standard,Additive-Step,8,19,150019,Collision (Crash),4.660762518530379,58
+standard,Additive-Step,8,20,150020,Success (Reached Max Time),4.943256872334614,84
+standard,Additive-Step,8,21,150021,Success (Reached Max Time),4.470956814003366,85
+standard,Additive-Step,8,22,150022,Collision (Crash),5.182980409573672,44
+standard,Additive-Step,8,23,150023,Collision (Crash),4.630697924840502,50
+standard,Additive-Step,8,24,150024,Success (Reached Max Time),4.552433599153963,85
+standard,Additive-Step,8,25,150025,Success (Reached Max Time),5.192207696289263,85
+standard,Additive-Step,8,26,150026,Success (Reached Max Time),4.3367887677104955,85
+standard,Additive-Step,8,27,150027,Collision (Crash),6.939952972540968,21
+standard,Additive-Step,8,28,150028,Success (Reached Max Time),4.380080295657025,85
+standard,Additive-Step,8,29,150029,Success (Reached Max Time),4.8687082099868615,84
+standard,Additive-Step,8,30,150030,Success (Reached Max Time),5.1694839639758765,85
+standard,Additive-Step,8,31,150031,Collision (Crash),5.011225282056434,51
+standard,Additive-Step,8,32,150032,Success (Reached Max Time),4.5752834213517115,86
+standard,Additive-Step,8,33,150033,Collision (Crash),4.7201664085110036,71
+standard,Additive-Step,8,34,150034,Success (Reached Max Time),5.1240084036077365,85
+standard,Additive-Step,8,35,150035,Success (Reached Max Time),5.257427271565427,84
+standard,Additive-Step,8,36,150036,Collision (Oversteering Spin),1.7557912853523714,24
+standard,Additive-Step,8,37,150037,Success (Reached Max Time),4.2883350680284975,85
+standard,Additive-Step,8,38,150038,Collision (Crash),5.24320761547469,68
+standard,Additive-Step,8,39,150039,Success (Reached Max Time),4.664058772331546,85
+standard,Additive-Step,8,40,150040,Success (Reached Max Time),5.385688768658506,85
+standard,Additive-Step,8,41,150041,Success (Reached Max Time),4.618984619495363,85
+standard,Additive-Step,8,42,150042,Success (Reached Max Time),4.717927380947323,86
+standard,Additive-Step,8,43,150043,Collision (Crash),4.514197779065619,16
+standard,Additive-Step,8,44,150044,Collision (Crash),4.908966394155321,22
+standard,Additive-Step,8,45,150045,Success (Reached Max Time),4.908896854925211,85
+standard,Additive-Step,8,46,150046,Collision (Crash),5.163445323323008,44
+standard,Additive-Step,8,47,150047,Success (Reached Max Time),4.5220239229965555,84
+standard,Additive-Step,8,48,150048,Collision (Crash),5.265836373034037,70
+standard,Additive-Step,8,49,150049,Success (Reached Max Time),4.567922950938286,86
+standard,Additive-Step,9,0,150000,Success (Reached Max Time),4.137755740587687,72
+standard,Additive-Step,9,1,150001,Success (Reached Max Time),4.300208821115438,77
+standard,Additive-Step,9,2,150002,Success (Reached Max Time),3.898715779378124,78
+standard,Additive-Step,9,3,150003,Success (Reached Max Time),3.552583721810868,69
+standard,Additive-Step,9,4,150004,Success (Reached Max Time),3.596018688382191,75
+standard,Additive-Step,9,5,150005,Success (Reached Max Time),4.019863564634348,73
+standard,Additive-Step,9,6,150006,Collision (Crash),2.778667500691536,57
+standard,Additive-Step,9,7,150007,Success (Reached Max Time),4.15267701777597,73
+standard,Additive-Step,9,8,150008,Collision (Crash),4.113591043483045,10
+standard,Additive-Step,9,9,150009,Success (Reached Max Time),3.409399805295129,74
+standard,Additive-Step,9,10,150010,Success (Reached Max Time),4.73785161474956,74
+standard,Additive-Step,9,11,150011,Success (Reached Max Time),3.3987336237745365,74
+standard,Additive-Step,9,12,150012,Success (Reached Max Time),4.018892388126715,79
+standard,Additive-Step,9,13,150013,Success (Reached Max Time),4.254930323902453,74
+standard,Additive-Step,9,14,150014,Collision (Crash),2.9455844363460106,65
+standard,Additive-Step,9,15,150015,Success (Reached Max Time),4.3291863388416,75
+standard,Additive-Step,9,16,150016,Collision (Crash),4.227739133338795,14
+standard,Additive-Step,9,17,150017,Success (Reached Max Time),4.191939275978814,77
+standard,Additive-Step,9,18,150018,Success (Reached Max Time),3.9834849151696576,77
+standard,Additive-Step,9,19,150019,Collision (Crash),4.460299524257005,49
+standard,Additive-Step,9,20,150020,Collision (Crash),4.579481615202688,41
+standard,Additive-Step,9,21,150021,Collision (Crash),4.407072563070639,11
+standard,Additive-Step,9,22,150022,Success (Reached Max Time),4.320317634687128,77
+standard,Additive-Step,9,23,150023,Success (Reached Max Time),4.1887300397320475,72
+standard,Additive-Step,9,24,150024,Success (Reached Max Time),3.924356746957463,77
+standard,Additive-Step,9,25,150025,Collision (Crash),4.365583104505887,8
+standard,Additive-Step,9,26,150026,Success (Reached Max Time),4.334585095168544,70
+standard,Additive-Step,9,27,150027,Collision (Crash),4.171021763468336,36
+standard,Additive-Step,9,28,150028,Success (Reached Max Time),4.37325460864204,77
+standard,Additive-Step,9,29,150029,Collision (Crash),4.129012192778824,17
+standard,Additive-Step,9,30,150030,Success (Reached Max Time),2.9135466197614606,72
+standard,Additive-Step,9,31,150031,Success (Reached Max Time),4.983530310357856,79
+standard,Additive-Step,9,32,150032,Collision (Oversteering Spin),4.444957311814393,28
+standard,Additive-Step,9,33,150033,Success (Reached Max Time),3.083465606187635,72
+standard,Additive-Step,9,34,150034,Success (Reached Max Time),4.492772920432977,75
+standard,Additive-Step,9,35,150035,Success (Reached Max Time),4.650586873999085,75
+standard,Additive-Step,9,36,150036,Success (Reached Max Time),3.470765773166168,75
+standard,Additive-Step,9,37,150037,Success (Reached Max Time),3.5617020803060413,75
+standard,Additive-Step,9,38,150038,Success (Reached Max Time),4.617607467277289,77
+standard,Additive-Step,9,39,150039,Collision (Crash),5.424072655317405,13
+standard,Additive-Step,9,40,150040,Success (Reached Max Time),3.7967904910595185,74
+standard,Additive-Step,9,41,150041,Success (Reached Max Time),4.170916243607996,76
+standard,Additive-Step,9,42,150042,Success (Reached Max Time),3.752680388803676,70
+standard,Additive-Step,9,43,150043,Collision (Crash),4.543321256675686,69
+standard,Additive-Step,9,44,150044,Collision (Crash),4.8645323432084915,16
+standard,Additive-Step,9,45,150045,Success (Reached Max Time),3.5765741075649538,72
+standard,Additive-Step,9,46,150046,Success (Reached Max Time),4.0938698537526115,76
+standard,Additive-Step,9,47,150047,Success (Reached Max Time),4.409050215829071,75
+standard,Additive-Step,9,48,150048,Collision (Crash),4.6172776103887,40
+standard,Additive-Step,9,49,150049,Success (Reached Max Time),3.462902981397065,74
+standard,PBRS,0,0,150000,Success (Reached Max Time),3.9852040805975997,83
+standard,PBRS,0,1,150001,Success (Reached Max Time),4.330230786418227,84
+standard,PBRS,0,2,150002,Collision (Crash),4.772155899423434,39
+standard,PBRS,0,3,150003,Collision (Crash),4.182359044333523,60
+standard,PBRS,0,4,150004,Success (Reached Max Time),4.600957406453032,84
+standard,PBRS,0,5,150005,Collision (Crash),4.376651834335403,34
+standard,PBRS,0,6,150006,Success (Reached Max Time),5.17461619379617,85
+standard,PBRS,0,7,150007,Collision (Crash),4.797150787976388,75
+standard,PBRS,0,8,150008,Success (Reached Max Time),4.69979636339231,82
+standard,PBRS,0,9,150009,Success (Reached Max Time),4.872891806719812,87
+standard,PBRS,0,10,150010,Out of Bounds (Normal Flight),4.473328511849767,9
+standard,PBRS,0,11,150011,Collision (Crash),4.085633238257576,70
+standard,PBRS,0,12,150012,Success (Reached Max Time),4.411668605490665,84
+standard,PBRS,0,13,150013,Collision (Crash),3.9159100820231605,53
+standard,PBRS,0,14,150014,Success (Reached Max Time),4.660397809375988,85
+standard,PBRS,0,15,150015,Collision (Crash),1.8161514131854208,0
+standard,PBRS,0,16,150016,Collision (Crash),4.351597783582277,70
+standard,PBRS,0,17,150017,Out of Bounds (Normal Flight),5.933950150111271,60
+standard,PBRS,0,18,150018,Success (Reached Max Time),4.729049246240536,86
+standard,PBRS,0,19,150019,Success (Reached Max Time),4.79287749764595,84
+standard,PBRS,0,20,150020,Success (Reached Max Time),3.7474128111886964,85
+standard,PBRS,0,21,150021,Collision (Crash),4.658764959635593,46
+standard,PBRS,0,22,150022,Collision (Crash),4.34960321584823,49
+standard,PBRS,0,23,150023,Collision (Crash),4.469163222374911,58
+standard,PBRS,0,24,150024,Success (Reached Max Time),4.031086063638631,80
+standard,PBRS,0,25,150025,Success (Reached Max Time),3.6808050060922493,84
+standard,PBRS,0,26,150026,Success (Reached Max Time),5.30861361038333,85
+standard,PBRS,0,27,150027,Success (Reached Max Time),4.055383465427254,82
+standard,PBRS,0,28,150028,Success (Reached Max Time),4.6638079086694315,88
+standard,PBRS,0,29,150029,Success (Reached Max Time),4.1580068280682605,80
+standard,PBRS,0,30,150030,Collision (Crash),4.595884210088623,28
+standard,PBRS,0,31,150031,Collision (Crash),4.842221067782227,28
+standard,PBRS,0,32,150032,Collision (Crash),5.2816711510677194,21
+standard,PBRS,0,33,150033,Success (Reached Max Time),4.1819183834118085,84
+standard,PBRS,0,34,150034,Success (Reached Max Time),4.229614616782413,82
+standard,PBRS,0,35,150035,Collision (Crash),4.399813476074085,61
+standard,PBRS,0,36,150036,Collision (Crash),4.775843825797844,65
+standard,PBRS,0,37,150037,Collision (Crash),5.575242670416725,20
+standard,PBRS,0,38,150038,Collision (Crash),4.464380338842161,75
+standard,PBRS,0,39,150039,Collision (Crash),4.806182506562447,42
+standard,PBRS,0,40,150040,Success (Reached Max Time),5.110259271789276,89
+standard,PBRS,0,41,150041,Success (Reached Max Time),4.261332617671294,81
+standard,PBRS,0,42,150042,Success (Reached Max Time),4.966552110997592,88
+standard,PBRS,0,43,150043,Collision (Crash),4.271554949234604,53
+standard,PBRS,0,44,150044,Success (Reached Max Time),3.95470328065219,80
+standard,PBRS,0,45,150045,Success (Reached Max Time),3.6997153116800403,81
+standard,PBRS,0,46,150046,Collision (Crash),4.816632836086144,33
+standard,PBRS,0,47,150047,Collision (Crash),5.166674516256424,25
+standard,PBRS,0,48,150048,Collision (Crash),4.733578218374187,40
+standard,PBRS,0,49,150049,Success (Reached Max Time),4.22444393174205,85
+standard,PBRS,1,0,150000,Collision (Crash),4.638878435985815,43
+standard,PBRS,1,1,150001,Success (Reached Max Time),4.920379023410296,85
+standard,PBRS,1,2,150002,Collision (Crash),4.389744544359292,46
+standard,PBRS,1,3,150003,Collision (Crash),6.357071006489516,11
+standard,PBRS,1,4,150004,Collision (Crash),4.055235713733519,0
+standard,PBRS,1,5,150005,Collision (Crash),3.6997650070709605,1
+standard,PBRS,1,6,150006,Undershoot Turn (轉向不足),4.568964870221557,66
+standard,PBRS,1,7,150007,Success (Reached Max Time),4.78838982814411,85
+standard,PBRS,1,8,150008,Collision (Crash),4.971581734522381,17
+standard,PBRS,1,9,150009,Collision (Crash),4.702255400740349,32
+standard,PBRS,1,10,150010,Collision (Crash),4.704537614968649,9
+standard,PBRS,1,11,150011,Collision (Crash),4.9193521775657345,27
+standard,PBRS,1,12,150012,Undershoot Turn (轉向不足),4.540222816062811,0
+standard,PBRS,1,13,150013,Collision (Crash),3.92691887693041,0
+standard,PBRS,1,14,150014,Collision (Crash),1.1866874251980106,1
+standard,PBRS,1,15,150015,Collision (Crash),4.081387393446165,25
+standard,PBRS,1,16,150016,Collision (Crash),4.838222817356009,35
+standard,PBRS,1,17,150017,Collision (Crash),4.199336308487068,17
+standard,PBRS,1,18,150018,Collision (Crash),3.4350901927944486,1
+standard,PBRS,1,19,150019,Collision (Crash),4.398765421112471,47
+standard,PBRS,1,20,150020,Out of Bounds (Normal Flight),4.348760532198457,19
+standard,PBRS,1,21,150021,Collision (Crash),4.084583406299273,33
+standard,PBRS,1,22,150022,Collision (Crash),4.254867155572624,0
+standard,PBRS,1,23,150023,Collision (Crash),4.41774012751914,51
+standard,PBRS,1,24,150024,Collision (Crash),4.68756028284545,40
+standard,PBRS,1,25,150025,Collision (Crash),4.4355916493979715,0
+standard,PBRS,1,26,150026,Success (Reached Max Time),4.555676787317087,87
+standard,PBRS,1,27,150027,Out of Bounds (Normal Flight),3.898760418804257,0
+standard,PBRS,1,28,150028,Collision (Crash),2.0994519567052516,1
+standard,PBRS,1,29,150029,Collision (Crash),4.565171553830814,19
+standard,PBRS,1,30,150030,Collision (Crash),4.315864970850897,12
+standard,PBRS,1,31,150031,Collision (Crash),4.013257680116222,28
+standard,PBRS,1,32,150032,Collision (Crash),4.716004490862331,68
+standard,PBRS,1,33,150033,Collision (Crash),4.436728308394274,12
+standard,PBRS,1,34,150034,Undershoot Turn (轉向不足),4.47836585044252,0
+standard,PBRS,1,35,150035,Collision (Crash),4.126038527434452,81
+standard,PBRS,1,36,150036,Collision (Crash),4.287783954406898,58
+standard,PBRS,1,37,150037,Collision (Crash),4.06048561691524,0
+standard,PBRS,1,38,150038,Success (Reached Max Time),4.281138596028835,84
+standard,PBRS,1,39,150039,Collision (Crash),4.480462534179863,26
+standard,PBRS,1,40,150040,Collision (Crash),4.909465790861885,31
+standard,PBRS,1,41,150041,Collision (Crash),5.309953081493548,65
+standard,PBRS,1,42,150042,Success (Reached Max Time),4.389545275992524,85
+standard,PBRS,1,43,150043,Collision (Crash),5.052170267438085,17
+standard,PBRS,1,44,150044,Collision (Crash),4.9708774039073536,65
+standard,PBRS,1,45,150045,Collision (Crash),4.32669780011911,32
+standard,PBRS,1,46,150046,Undershoot Turn (轉向不足),3.2689976880497573,0
+standard,PBRS,1,47,150047,Collision (Crash),4.976734569664801,51
+standard,PBRS,1,48,150048,Collision (Crash),5.082952503148412,49
+standard,PBRS,1,49,150049,Success (Reached Max Time),4.277913182246833,85
+standard,PBRS,2,0,150000,Success (Reached Max Time),4.380268768349467,84
+standard,PBRS,2,1,150001,Success (Reached Max Time),5.083787491521766,80
+standard,PBRS,2,2,150002,Success (Reached Max Time),4.5393452950137405,82
+standard,PBRS,2,3,150003,Collision (Crash),3.397702738652116,75
+standard,PBRS,2,4,150004,Success (Reached Max Time),4.443962646434943,80
+standard,PBRS,2,5,150005,Success (Reached Max Time),5.03054694680265,82
+standard,PBRS,2,6,150006,Success (Reached Max Time),5.1448483348660154,79
+standard,PBRS,2,7,150007,Success (Reached Max Time),4.668101069591249,81
+standard,PBRS,2,8,150008,Success (Reached Max Time),4.996664289224378,81
+standard,PBRS,2,9,150009,Collision (Crash),4.8794722841176315,25
+standard,PBRS,2,10,150010,Success (Reached Max Time),4.26584701422513,79
+standard,PBRS,2,11,150011,Success (Reached Max Time),4.472954500008742,82
+standard,PBRS,2,12,150012,Success (Reached Max Time),4.067290195846991,81
+standard,PBRS,2,13,150013,Success (Reached Max Time),4.519590914911967,82
+standard,PBRS,2,14,150014,Success (Reached Max Time),4.7236760940039995,80
+standard,PBRS,2,15,150015,Success (Reached Max Time),4.259881724533663,83
+standard,PBRS,2,16,150016,Collision (Crash),3.7642602744084117,2
+standard,PBRS,2,17,150017,Success (Reached Max Time),3.818820538478158,82
+standard,PBRS,2,18,150018,Collision (Crash),3.287266832250622,0
+standard,PBRS,2,19,150019,Success (Reached Max Time),4.6344172568857385,76
+standard,PBRS,2,20,150020,Collision (Crash),3.679210231897348,0
+standard,PBRS,2,21,150021,Success (Reached Max Time),4.449692239869911,80
+standard,PBRS,2,22,150022,Collision (Crash),5.737881037052159,1
+standard,PBRS,2,23,150023,Collision (Crash),4.8962218188749524,22
+standard,PBRS,2,24,150024,Success (Reached Max Time),5.3475572629778165,83
+standard,PBRS,2,25,150025,Collision (Crash),1.2967590957243105,1
+standard,PBRS,2,26,150026,Collision (Crash),5.171318553599977,38
+standard,PBRS,2,27,150027,Success (Reached Max Time),4.104891481494755,81
+standard,PBRS,2,28,150028,Success (Reached Max Time),4.9662095892581855,79
+standard,PBRS,2,29,150029,Success (Reached Max Time),4.247072216575881,81
+standard,PBRS,2,30,150030,Success (Reached Max Time),4.78178906152724,82
+standard,PBRS,2,31,150031,Success (Reached Max Time),3.5149353769084493,80
+standard,PBRS,2,32,150032,Success (Reached Max Time),4.203417986997395,83
+standard,PBRS,2,33,150033,Success (Reached Max Time),5.047448972561487,82
+standard,PBRS,2,34,150034,Collision (Crash),4.705390724853678,26
+standard,PBRS,2,35,150035,Collision (Oversteering Spin),6.193167489693608,42
+standard,PBRS,2,36,150036,Success (Reached Max Time),4.223490543812423,80
+standard,PBRS,2,37,150037,Collision (Crash),4.755265641362644,41
+standard,PBRS,2,38,150038,Success (Reached Max Time),4.812463569531583,77
+standard,PBRS,2,39,150039,Success (Reached Max Time),4.64569882843401,83
+standard,PBRS,2,40,150040,Collision (Crash),4.551043552687143,53
+standard,PBRS,2,41,150041,Success (Reached Max Time),4.75448326505606,82
+standard,PBRS,2,42,150042,Success (Reached Max Time),4.7570760898913065,84
+standard,PBRS,2,43,150043,Collision (Crash),4.930487768056233,33
+standard,PBRS,2,44,150044,Undershoot Turn (轉向不足),7.82828937441661,66
+standard,PBRS,2,45,150045,Collision (Crash),4.738383533709571,52
+standard,PBRS,2,46,150046,Success (Reached Max Time),4.958469963794437,82
+standard,PBRS,2,47,150047,Collision (Crash),3.554866089018882,0
+standard,PBRS,2,48,150048,Success (Reached Max Time),4.651350123819296,82
+standard,PBRS,2,49,150049,Collision (Crash),5.759061753395643,34
+standard,PBRS,3,0,150000,Success (Reached Max Time),4.242949417802336,86
+standard,PBRS,3,1,150001,Success (Reached Max Time),5.193611196942123,85
+standard,PBRS,3,2,150002,Success (Reached Max Time),4.930062742264251,85
+standard,PBRS,3,3,150003,Success (Reached Max Time),4.553913787143093,86
+standard,PBRS,3,4,150004,Success (Reached Max Time),4.8687487249030434,86
+standard,PBRS,3,5,150005,Success (Reached Max Time),5.351492743082388,87
+standard,PBRS,3,6,150006,Success (Reached Max Time),5.37174395567193,88
+standard,PBRS,3,7,150007,Success (Reached Max Time),5.276316083590513,87
+standard,PBRS,3,8,150008,Success (Reached Max Time),4.831971090072376,86
+standard,PBRS,3,9,150009,Success (Reached Max Time),5.008267146384082,88
+standard,PBRS,3,10,150010,Collision (Crash),4.765212132456329,25
+standard,PBRS,3,11,150011,Collision (Crash),4.895608055176259,23
+standard,PBRS,3,12,150012,Success (Reached Max Time),4.784865281717749,85
+standard,PBRS,3,13,150013,Success (Reached Max Time),4.869970183998501,84
+standard,PBRS,3,14,150014,Collision (Crash),4.474181863967945,75
+standard,PBRS,3,15,150015,Success (Reached Max Time),4.2447603573447115,85
+standard,PBRS,3,16,150016,Success (Reached Max Time),4.562671349166017,88
+standard,PBRS,3,17,150017,Success (Reached Max Time),4.788430145601493,86
+standard,PBRS,3,18,150018,Success (Reached Max Time),5.4408818666564205,85
+standard,PBRS,3,19,150019,Success (Reached Max Time),4.527258991054301,86
+standard,PBRS,3,20,150020,Success (Reached Max Time),4.712330141441556,88
+standard,PBRS,3,21,150021,Success (Reached Max Time),4.691653137537217,87
+standard,PBRS,3,22,150022,Success (Reached Max Time),5.298167555120318,85
+standard,PBRS,3,23,150023,Success (Reached Max Time),3.634381516899857,85
+standard,PBRS,3,24,150024,Success (Reached Max Time),4.8882688053560965,87
+standard,PBRS,3,25,150025,Success (Reached Max Time),4.936205468647585,87
+standard,PBRS,3,26,150026,Collision (Crash),4.875029256376285,51
+standard,PBRS,3,27,150027,Success (Reached Max Time),4.633909144297206,87
+standard,PBRS,3,28,150028,Collision (Crash),4.732964099413192,74
+standard,PBRS,3,29,150029,Collision (Crash),4.704681409437787,45
+standard,PBRS,3,30,150030,Collision (Crash),11.519081886540624,56
+standard,PBRS,3,31,150031,Success (Reached Max Time),5.199488479996983,87
+standard,PBRS,3,32,150032,Success (Reached Max Time),4.580606494031508,87
+standard,PBRS,3,33,150033,Success (Reached Max Time),5.519667708931098,88
+standard,PBRS,3,34,150034,Success (Reached Max Time),4.518339235323934,89
+standard,PBRS,3,35,150035,Success (Reached Max Time),4.126376112325958,85
+standard,PBRS,3,36,150036,Success (Reached Max Time),4.7293203372997965,89
+standard,PBRS,3,37,150037,Success (Reached Max Time),4.526124958084636,86
+standard,PBRS,3,38,150038,Success (Reached Max Time),5.043641161545092,84
+standard,PBRS,3,39,150039,Success (Reached Max Time),4.8633205943368365,87
+standard,PBRS,3,40,150040,Collision (Crash),4.579387636864745,6
+standard,PBRS,3,41,150041,Collision (Crash),4.48746062010586,30
+standard,PBRS,3,42,150042,Success (Reached Max Time),4.377540281464155,83
+standard,PBRS,3,43,150043,Collision (Crash),4.824152415242023,8
+standard,PBRS,3,44,150044,Success (Reached Max Time),4.418927717726761,87
+standard,PBRS,3,45,150045,Success (Reached Max Time),4.6463815880987385,85
+standard,PBRS,3,46,150046,Success (Reached Max Time),5.100731190168937,86
+standard,PBRS,3,47,150047,Collision (Crash),4.477752687158557,82
+standard,PBRS,3,48,150048,Success (Reached Max Time),4.554187096539347,85
+standard,PBRS,3,49,150049,Success (Reached Max Time),4.915450292852201,87
+standard,PBRS,4,0,150000,Success (Reached Max Time),4.097840173057424,82
+standard,PBRS,4,1,150001,Success (Reached Max Time),4.318873450195551,82
+standard,PBRS,4,2,150002,Success (Reached Max Time),4.325571494181201,83
+standard,PBRS,4,3,150003,Success (Reached Max Time),4.445719631844227,83
+standard,PBRS,4,4,150004,Success (Reached Max Time),4.499810195490071,83
+standard,PBRS,4,5,150005,Success (Reached Max Time),4.278194496978927,83
+standard,PBRS,4,6,150006,Success (Reached Max Time),4.567546228209466,83
+standard,PBRS,4,7,150007,Success (Reached Max Time),4.927381844080962,82
+standard,PBRS,4,8,150008,Collision (Crash),4.880940232368586,17
+standard,PBRS,4,9,150009,Collision (Crash),4.498600081522342,43
+standard,PBRS,4,10,150010,Success (Reached Max Time),3.766293778172811,83
+standard,PBRS,4,11,150011,Success (Reached Max Time),4.985244498295446,82
+standard,PBRS,4,12,150012,Collision (Crash),4.6826821006515384,17
+standard,PBRS,4,13,150013,Success (Reached Max Time),4.735788199866529,81
+standard,PBRS,4,14,150014,Success (Reached Max Time),4.576101195580287,81
+standard,PBRS,4,15,150015,Success (Reached Max Time),4.355170424804237,83
+standard,PBRS,4,16,150016,Success (Reached Max Time),4.933261823128191,81
+standard,PBRS,4,17,150017,Collision (Crash),4.72692935033536,25
+standard,PBRS,4,18,150018,Success (Reached Max Time),4.53892986709232,80
+standard,PBRS,4,19,150019,Success (Reached Max Time),4.262800513656196,83
+standard,PBRS,4,20,150020,Success (Reached Max Time),3.5425426276148144,84
+standard,PBRS,4,21,150021,Success (Reached Max Time),4.627013351421807,82
+standard,PBRS,4,22,150022,Success (Reached Max Time),4.822524528802843,83
+standard,PBRS,4,23,150023,Success (Reached Max Time),4.114953459783182,85
+standard,PBRS,4,24,150024,Collision (Crash),4.520308680712006,78
+standard,PBRS,4,25,150025,Success (Reached Max Time),4.926728834631531,82
+standard,PBRS,4,26,150026,Success (Reached Max Time),4.4031549077557175,79
+standard,PBRS,4,27,150027,Success (Reached Max Time),4.622562035285158,83
+standard,PBRS,4,28,150028,Success (Reached Max Time),4.12912335611867,84
+standard,PBRS,4,29,150029,Success (Reached Max Time),4.881212367524555,83
+standard,PBRS,4,30,150030,Collision (Crash),4.6347861408322935,68
+standard,PBRS,4,31,150031,Success (Reached Max Time),4.536416504347378,84
+standard,PBRS,4,32,150032,Success (Reached Max Time),4.51806481122396,83
+standard,PBRS,4,33,150033,Success (Reached Max Time),5.100672944830021,82
+standard,PBRS,4,34,150034,Collision (Crash),4.711211038311756,81
+standard,PBRS,4,35,150035,Collision (Oversteering Spin),1.3492361749258102,1
+standard,PBRS,4,36,150036,Success (Reached Max Time),4.432350009753839,83
+standard,PBRS,4,37,150037,Success (Reached Max Time),4.504948679549387,83
+standard,PBRS,4,38,150038,Collision (Crash),4.679232225446435,22
+standard,PBRS,4,39,150039,Success (Reached Max Time),4.957773948700824,83
+standard,PBRS,4,40,150040,Success (Reached Max Time),4.311944661866431,82
+standard,PBRS,4,41,150041,Success (Reached Max Time),4.7997548155653975,80
+standard,PBRS,4,42,150042,Collision (Crash),4.7505997440636145,41
+standard,PBRS,4,43,150043,Collision (Crash),3.8473903799063107,43
+standard,PBRS,4,44,150044,Collision (Crash),3.155423175168245,0
+standard,PBRS,4,45,150045,Collision (Crash),4.938061242778204,63
+standard,PBRS,4,46,150046,Success (Reached Max Time),4.105963163135478,84
+standard,PBRS,4,47,150047,Success (Reached Max Time),4.954737504840582,85
+standard,PBRS,4,48,150048,Success (Reached Max Time),4.494036236889689,82
+standard,PBRS,4,49,150049,Collision (Crash),4.505679241195032,50
+standard,PBRS,5,0,150000,Success (Reached Max Time),4.445809018554513,86
+standard,PBRS,5,1,150001,Success (Reached Max Time),5.147816872707229,86
+standard,PBRS,5,2,150002,Success (Reached Max Time),4.331621874203662,87
+standard,PBRS,5,3,150003,Success (Reached Max Time),4.32362088518261,87
+standard,PBRS,5,4,150004,Collision (Crash),5.110626862163429,85
+standard,PBRS,5,5,150005,Success (Reached Max Time),4.233079319617802,84
+standard,PBRS,5,6,150006,Success (Reached Max Time),5.110038795055788,83
+standard,PBRS,5,7,150007,Success (Reached Max Time),4.769262433338705,84
+standard,PBRS,5,8,150008,Success (Reached Max Time),4.739319091494951,83
+standard,PBRS,5,9,150009,Success (Reached Max Time),4.635099170129525,86
+standard,PBRS,5,10,150010,Success (Reached Max Time),3.9506556123325867,83
+standard,PBRS,5,11,150011,Collision (Crash),5.297236983558922,17
+standard,PBRS,5,12,150012,Success (Reached Max Time),4.95564469772857,88
+standard,PBRS,5,13,150013,Success (Reached Max Time),4.660665492159487,83
+standard,PBRS,5,14,150014,Collision (Crash),5.101343525285071,60
+standard,PBRS,5,15,150015,Success (Reached Max Time),4.466053031387156,85
+standard,PBRS,5,16,150016,Out of Bounds (Normal Flight),5.280640013231137,74
+standard,PBRS,5,17,150017,Success (Reached Max Time),5.643648746327055,84
+standard,PBRS,5,18,150018,Success (Reached Max Time),5.2236739599675035,87
+standard,PBRS,5,19,150019,Success (Reached Max Time),4.52536031844116,86
+standard,PBRS,5,20,150020,Success (Reached Max Time),4.492630209699455,86
+standard,PBRS,5,21,150021,Success (Reached Max Time),4.249868937880813,84
+standard,PBRS,5,22,150022,Success (Reached Max Time),4.316712758875136,84
+standard,PBRS,5,23,150023,Success (Reached Max Time),5.093096650168785,83
+standard,PBRS,5,24,150024,Success (Reached Max Time),4.890127496003394,84
+standard,PBRS,5,25,150025,Success (Reached Max Time),5.157988257467818,87
+standard,PBRS,5,26,150026,Success (Reached Max Time),4.783278388833766,86
+standard,PBRS,5,27,150027,Collision (Crash),5.176081322710808,14
+standard,PBRS,5,28,150028,Success (Reached Max Time),4.426408731825969,86
+standard,PBRS,5,29,150029,Success (Reached Max Time),3.843936602600907,85
+standard,PBRS,5,30,150030,Success (Reached Max Time),4.322001682201812,84
+standard,PBRS,5,31,150031,Success (Reached Max Time),4.760582755435018,86
+standard,PBRS,5,32,150032,Success (Reached Max Time),4.5654855156236245,83
+standard,PBRS,5,33,150033,Success (Reached Max Time),3.936967865474799,86
+standard,PBRS,5,34,150034,Success (Reached Max Time),4.307369942491019,87
+standard,PBRS,5,35,150035,Success (Reached Max Time),5.088561700475946,86
+standard,PBRS,5,36,150036,Success (Reached Max Time),5.511990209216395,87
+standard,PBRS,5,37,150037,Success (Reached Max Time),4.9700717682723745,86
+standard,PBRS,5,38,150038,Success (Reached Max Time),4.736716526492642,86
+standard,PBRS,5,39,150039,Collision (Crash),5.2360061177841875,23
+standard,PBRS,5,40,150040,Success (Reached Max Time),4.8371279823944064,85
+standard,PBRS,5,41,150041,Collision (Oversteering Spin),9.736017902366846,69
+standard,PBRS,5,42,150042,Collision (Crash),4.478409140985066,52
+standard,PBRS,5,43,150043,Success (Reached Max Time),5.3545576045418,86
+standard,PBRS,5,44,150044,Collision (Crash),5.378880803883003,67
+standard,PBRS,5,45,150045,Collision (Crash),4.769980601138658,55
+standard,PBRS,5,46,150046,Success (Reached Max Time),4.658178279473314,86
+standard,PBRS,5,47,150047,Success (Reached Max Time),4.905537883620324,88
+standard,PBRS,5,48,150048,Success (Reached Max Time),5.349312957995002,87
+standard,PBRS,5,49,150049,Success (Reached Max Time),4.349183890710712,85
+standard,PBRS,6,0,150000,Success (Reached Max Time),4.352575107198764,79
+standard,PBRS,6,1,150001,Success (Reached Max Time),4.822349555417156,81
+standard,PBRS,6,2,150002,Success (Reached Max Time),4.614656185577131,80
+standard,PBRS,6,3,150003,Success (Reached Max Time),4.785692672438776,81
+standard,PBRS,6,4,150004,Collision (Crash),4.340846431052332,28
+standard,PBRS,6,5,150005,Success (Reached Max Time),3.3510297445501442,78
+standard,PBRS,6,6,150006,Success (Reached Max Time),4.350250441249965,80
+standard,PBRS,6,7,150007,Success (Reached Max Time),4.559581976814407,79
+standard,PBRS,6,8,150008,Success (Reached Max Time),5.055126132776554,81
+standard,PBRS,6,9,150009,Success (Reached Max Time),3.6339140758903197,81
+standard,PBRS,6,10,150010,Success (Reached Max Time),4.772624016973864,82
+standard,PBRS,6,11,150011,Success (Reached Max Time),4.284719083905649,82
+standard,PBRS,6,12,150012,Success (Reached Max Time),4.795935581589632,80
+standard,PBRS,6,13,150013,Success (Reached Max Time),4.405608125216614,78
+standard,PBRS,6,14,150014,Success (Reached Max Time),3.92989555996891,81
+standard,PBRS,6,15,150015,Collision (Crash),5.1112979378847205,17
+standard,PBRS,6,16,150016,Success (Reached Max Time),4.544502401866573,81
+standard,PBRS,6,17,150017,Success (Reached Max Time),4.205612888996689,76
+standard,PBRS,6,18,150018,Success (Reached Max Time),4.498819003435508,81
+standard,PBRS,6,19,150019,Success (Reached Max Time),4.710137760309614,79
+standard,PBRS,6,20,150020,Success (Reached Max Time),4.256410760925578,80
+standard,PBRS,6,21,150021,Collision (Crash),4.283444987297486,20
+standard,PBRS,6,22,150022,Success (Reached Max Time),3.978946451559655,78
+standard,PBRS,6,23,150023,Success (Reached Max Time),4.10013610438724,83
+standard,PBRS,6,24,150024,Collision (Crash),4.641087821503361,21
+standard,PBRS,6,25,150025,Success (Reached Max Time),4.8223617599732265,82
+standard,PBRS,6,26,150026,Success (Reached Max Time),4.9069035808034664,76
+standard,PBRS,6,27,150027,Success (Reached Max Time),3.95544489002733,80
+standard,PBRS,6,28,150028,Success (Reached Max Time),3.893566415077402,80
+standard,PBRS,6,29,150029,Success (Reached Max Time),4.449124357616605,80
+standard,PBRS,6,30,150030,Collision (Crash),4.393066713287667,11
+standard,PBRS,6,31,150031,Success (Reached Max Time),4.349893725455113,80
+standard,PBRS,6,32,150032,Success (Reached Max Time),4.237033949777775,78
+standard,PBRS,6,33,150033,Collision (Crash),4.083800888736618,55
+standard,PBRS,6,34,150034,Collision (Crash),4.450437659611726,45
+standard,PBRS,6,35,150035,Success (Reached Max Time),4.057384082547153,79
+standard,PBRS,6,36,150036,Success (Reached Max Time),3.386538978497124,75
+standard,PBRS,6,37,150037,Success (Reached Max Time),4.703148615653168,79
+standard,PBRS,6,38,150038,Success (Reached Max Time),4.740642331725171,81
+standard,PBRS,6,39,150039,Success (Reached Max Time),4.404850716376876,81
+standard,PBRS,6,40,150040,Success (Reached Max Time),3.845146248110827,81
+standard,PBRS,6,41,150041,Success (Reached Max Time),4.526766085947798,83
+standard,PBRS,6,42,150042,Success (Reached Max Time),4.070567022626177,81
+standard,PBRS,6,43,150043,Success (Reached Max Time),4.284858178849618,81
+standard,PBRS,6,44,150044,Success (Reached Max Time),4.108749722079578,78
+standard,PBRS,6,45,150045,Success (Reached Max Time),3.9914548115305095,80
+standard,PBRS,6,46,150046,Success (Reached Max Time),4.70509405805858,81
+standard,PBRS,6,47,150047,Success (Reached Max Time),4.267826638073884,83
+standard,PBRS,6,48,150048,Success (Reached Max Time),3.7292874217640373,79
+standard,PBRS,6,49,150049,Collision (Crash),4.475559261320602,21
+standard,PBRS,7,0,150000,Success (Reached Max Time),4.765777260919627,87
+standard,PBRS,7,1,150001,Success (Reached Max Time),5.0267790433236765,84
+standard,PBRS,7,2,150002,Collision (Crash),5.429557147432104,54
+standard,PBRS,7,3,150003,Success (Reached Max Time),4.8656538892935295,86
+standard,PBRS,7,4,150004,Collision (Crash),5.047285263891838,21
+standard,PBRS,7,5,150005,Collision (Crash),4.82957472965929,74
+standard,PBRS,7,6,150006,Success (Reached Max Time),4.8641724823875405,89
+standard,PBRS,7,7,150007,Collision (Crash),5.303578201889227,73
+standard,PBRS,7,8,150008,Success (Reached Max Time),4.984421371667748,86
+standard,PBRS,7,9,150009,Collision (Crash),3.379888551018507,34
+standard,PBRS,7,10,150010,Success (Reached Max Time),4.048709469002328,86
+standard,PBRS,7,11,150011,Success (Reached Max Time),4.461542280569677,84
+standard,PBRS,7,12,150012,Collision (Oversteering Spin),1.7725547815142666,45
+standard,PBRS,7,13,150013,Collision (Crash),4.472153030658861,71
+standard,PBRS,7,14,150014,Success (Reached Max Time),4.615330229894376,85
+standard,PBRS,7,15,150015,Collision (Crash),4.115189166464416,56
+standard,PBRS,7,16,150016,Collision (Crash),4.870243867658117,65
+standard,PBRS,7,17,150017,Collision (Crash),3.5420878850436033,29
+standard,PBRS,7,18,150018,Success (Reached Max Time),4.59080242505575,87
+standard,PBRS,7,19,150019,Undershoot Turn (轉向不足),4.377144389640197,74
+standard,PBRS,7,20,150020,Collision (Crash),5.51590841362801,72
+standard,PBRS,7,21,150021,Success (Reached Max Time),4.894006676067687,84
+standard,PBRS,7,22,150022,Success (Reached Max Time),4.510814202624695,86
+standard,PBRS,7,23,150023,Collision (Crash),5.027049275092971,39
+standard,PBRS,7,24,150024,Collision (Crash),5.051685383495923,31
+standard,PBRS,7,25,150025,Collision (Crash),5.513745887199924,65
+standard,PBRS,7,26,150026,Success (Reached Max Time),5.278666124576746,85
+standard,PBRS,7,27,150027,Success (Reached Max Time),4.583772346946921,86
+standard,PBRS,7,28,150028,Collision (Crash),4.776390016546268,84
+standard,PBRS,7,29,150029,Collision (Crash),4.232264369012714,36
+standard,PBRS,7,30,150030,Collision (Crash),6.580737549555472,67
+standard,PBRS,7,31,150031,Collision (Crash),4.28598300574365,82
+standard,PBRS,7,32,150032,Collision (Crash),4.854052737708996,43
+standard,PBRS,7,33,150033,Collision (Crash),4.97433189371321,35
+standard,PBRS,7,34,150034,Collision (Crash),4.846026766171171,53
+standard,PBRS,7,35,150035,Collision (Crash),4.114146754877257,69
+standard,PBRS,7,36,150036,Success (Reached Max Time),4.374298697373969,86
+standard,PBRS,7,37,150037,Collision (Crash),5.552611203102165,35
+standard,PBRS,7,38,150038,Success (Reached Max Time),4.860455109529952,86
+standard,PBRS,7,39,150039,Success (Reached Max Time),5.337353591393546,86
+standard,PBRS,7,40,150040,Collision (Crash),5.215157174383146,64
+standard,PBRS,7,41,150041,Collision (Crash),4.390781481555002,53
+standard,PBRS,7,42,150042,Collision (Crash),4.327689614090611,27
+standard,PBRS,7,43,150043,Collision (Crash),5.849574445763102,79
+standard,PBRS,7,44,150044,Collision (Crash),5.388745016577498,69
+standard,PBRS,7,45,150045,Success (Reached Max Time),5.010075131590452,86
+standard,PBRS,7,46,150046,Collision (Crash),4.141816103443954,49
+standard,PBRS,7,47,150047,Collision (Crash),4.753973502509612,45
+standard,PBRS,7,48,150048,Success (Reached Max Time),4.491042318369467,86
+standard,PBRS,7,49,150049,Collision (Crash),5.216434316228879,46
+standard,PBRS,8,0,150000,Success (Reached Max Time),3.8613328085380014,78
+standard,PBRS,8,1,150001,Success (Reached Max Time),4.609788675029811,80
+standard,PBRS,8,2,150002,Success (Reached Max Time),4.0188852191882765,79
+standard,PBRS,8,3,150003,Success (Reached Max Time),4.265334788862141,83
+standard,PBRS,8,4,150004,Collision (Crash),5.029668456028904,67
+standard,PBRS,8,5,150005,Success (Reached Max Time),4.881727420637159,81
+standard,PBRS,8,6,150006,Success (Reached Max Time),4.312839330577271,83
+standard,PBRS,8,7,150007,Success (Reached Max Time),4.237384356954388,83
+standard,PBRS,8,8,150008,Collision (Crash),4.904917493646949,9
+standard,PBRS,8,9,150009,Success (Reached Max Time),4.2138537064456125,85
+standard,PBRS,8,10,150010,Success (Reached Max Time),4.030121530553844,86
+standard,PBRS,8,11,150011,Collision (Crash),4.74800215217031,12
+standard,PBRS,8,12,150012,Success (Reached Max Time),4.369735152909175,80
+standard,PBRS,8,13,150013,Success (Reached Max Time),4.765088016232004,77
+standard,PBRS,8,14,150014,Success (Reached Max Time),4.411990569137593,80
+standard,PBRS,8,15,150015,Success (Reached Max Time),4.312087016464442,83
+standard,PBRS,8,16,150016,Collision (Crash),3.38465592972359,72
+standard,PBRS,8,17,150017,Success (Reached Max Time),4.014457198148776,79
+standard,PBRS,8,18,150018,Success (Reached Max Time),4.564066700875473,83
+standard,PBRS,8,19,150019,Out of Bounds (Normal Flight),3.5018946020995627,79
+standard,PBRS,8,20,150020,Collision (Crash),5.525654369049009,41
+standard,PBRS,8,21,150021,Success (Reached Max Time),4.268960953803917,84
+standard,PBRS,8,22,150022,Success (Reached Max Time),3.7528044990739042,83
+standard,PBRS,8,23,150023,Success (Reached Max Time),4.336364532626091,81
+standard,PBRS,8,24,150024,Success (Reached Max Time),3.843355093091862,78
+standard,PBRS,8,25,150025,Success (Reached Max Time),4.536281983189583,82
+standard,PBRS,8,26,150026,Success (Reached Max Time),4.348195509936901,81
+standard,PBRS,8,27,150027,Success (Reached Max Time),5.135068784537574,83
+standard,PBRS,8,28,150028,Success (Reached Max Time),4.916313440939963,80
+standard,PBRS,8,29,150029,Success (Reached Max Time),4.589481361288554,83
+standard,PBRS,8,30,150030,Success (Reached Max Time),4.563991759406299,81
+standard,PBRS,8,31,150031,Success (Reached Max Time),3.982193995410696,80
+standard,PBRS,8,32,150032,Success (Reached Max Time),4.38815861814961,86
+standard,PBRS,8,33,150033,Success (Reached Max Time),4.347282883408538,81
+standard,PBRS,8,34,150034,Success (Reached Max Time),4.698901725742767,82
+standard,PBRS,8,35,150035,Collision (Crash),4.699226451279764,32
+standard,PBRS,8,36,150036,Collision (Crash),4.869708625110343,11
+standard,PBRS,8,37,150037,Collision (Crash),5.05480768222367,15
+standard,PBRS,8,38,150038,Success (Reached Max Time),4.252738065760434,83
+standard,PBRS,8,39,150039,Collision (Crash),3.9541222104343876,58
+standard,PBRS,8,40,150040,Collision (Crash),3.496559107101571,75
+standard,PBRS,8,41,150041,Success (Reached Max Time),5.087117942061404,83
+standard,PBRS,8,42,150042,Collision (Crash),5.1106259741737965,48
+standard,PBRS,8,43,150043,Collision (Oversteering Spin),6.176206944981123,61
+standard,PBRS,8,44,150044,Success (Reached Max Time),4.753037427103573,81
+standard,PBRS,8,45,150045,Collision (Crash),4.5549737138277875,55
+standard,PBRS,8,46,150046,Collision (Crash),3.6697928385269196,69
+standard,PBRS,8,47,150047,Success (Reached Max Time),4.358902128162988,83
+standard,PBRS,8,48,150048,Collision (Crash),4.974910514606128,34
+standard,PBRS,8,49,150049,Success (Reached Max Time),3.7964085520656448,80
+standard,PBRS,9,0,150000,Collision (Crash),3.9614902095822946,24
+standard,PBRS,9,1,150001,Collision (Crash),4.661230080043889,11
+standard,PBRS,9,2,150002,Success (Reached Max Time),4.970157932058682,84
+standard,PBRS,9,3,150003,Success (Reached Max Time),4.630477232442652,85
+standard,PBRS,9,4,150004,Success (Reached Max Time),4.993231448129021,84
+standard,PBRS,9,5,150005,Success (Reached Max Time),4.347753524796742,84
+standard,PBRS,9,6,150006,Success (Reached Max Time),4.796935130564996,85
+standard,PBRS,9,7,150007,Success (Reached Max Time),5.320371614627835,87
+standard,PBRS,9,8,150008,Collision (Crash),4.375912838946069,73
+standard,PBRS,9,9,150009,Collision (Crash),4.325061185179883,59
+standard,PBRS,9,10,150010,Collision (Crash),4.543084956369189,67
+standard,PBRS,9,11,150011,Success (Reached Max Time),4.296382647929356,84
+standard,PBRS,9,12,150012,Collision (Crash),4.136059832669656,11
+standard,PBRS,9,13,150013,Collision (Crash),4.409153808449153,47
+standard,PBRS,9,14,150014,Success (Reached Max Time),4.575875335157203,83
+standard,PBRS,9,15,150015,Collision (Crash),4.745174377132917,25
+standard,PBRS,9,16,150016,Collision (Crash),6.4607801276860135,76
+standard,PBRS,9,17,150017,Success (Reached Max Time),5.445046747277814,84
+standard,PBRS,9,18,150018,Success (Reached Max Time),5.062603894595851,84
+standard,PBRS,9,19,150019,Collision (Crash),4.81910573197779,30
+standard,PBRS,9,20,150020,Collision (Crash),5.365616808509565,51
+standard,PBRS,9,21,150021,Collision (Crash),4.833771471416661,32
+standard,PBRS,9,22,150022,Collision (Crash),4.139399216809331,27
+standard,PBRS,9,23,150023,Success (Reached Max Time),4.757019527584416,86
+standard,PBRS,9,24,150024,Collision (Crash),4.748727167573255,53
+standard,PBRS,9,25,150025,Collision (Crash),4.2425776244692655,17
+standard,PBRS,9,26,150026,Collision (Crash),4.968472380717827,45
+standard,PBRS,9,27,150027,Collision (Crash),3.952934915679553,40
+standard,PBRS,9,28,150028,Collision (Crash),3.881115954600341,28
+standard,PBRS,9,29,150029,Success (Reached Max Time),3.598144925859985,83
+standard,PBRS,9,30,150030,Collision (Crash),1.321460462621302,0
+standard,PBRS,9,31,150031,Collision (Crash),4.313970179225943,33
+standard,PBRS,9,32,150032,Collision (Crash),4.196551465089121,43
+standard,PBRS,9,33,150033,Collision (Crash),3.9513826795697966,40
+standard,PBRS,9,34,150034,Collision (Crash),5.703160472125392,82
+standard,PBRS,9,35,150035,Success (Reached Max Time),4.916237021244198,86
+standard,PBRS,9,36,150036,Success (Reached Max Time),4.028387685615032,85
+standard,PBRS,9,37,150037,Success (Reached Max Time),4.842760690452619,85
+standard,PBRS,9,38,150038,Collision (Crash),4.726284033761493,29
+standard,PBRS,9,39,150039,Success (Reached Max Time),4.84997926844429,84
+standard,PBRS,9,40,150040,Collision (Crash),3.9380096306816785,17
+standard,PBRS,9,41,150041,Collision (Crash),4.99780094488886,64
+standard,PBRS,9,42,150042,Collision (Crash),4.839836368278064,18
+standard,PBRS,9,43,150043,Collision (Crash),4.141307822582046,74
+standard,PBRS,9,44,150044,Success (Reached Max Time),4.121855354208842,84
+standard,PBRS,9,45,150045,Collision (Crash),3.875209047816051,65
+standard,PBRS,9,46,150046,Collision (Crash),4.331636206987981,12
+standard,PBRS,9,47,150047,Success (Reached Max Time),4.5658935260086135,86
+standard,PBRS,9,48,150048,Success (Reached Max Time),4.441819883719219,84
+standard,PBRS,9,49,150049,Success (Reached Max Time),4.984829383952603,84

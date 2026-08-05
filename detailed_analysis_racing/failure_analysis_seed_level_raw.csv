@@ -1,0 +1,2001 @@
+Scene,Method,Train Seed,Episode,Test Seed,Termination Reason,Final Speed,Gates Passed
+racing,Base Only,0,0,150000,Success (Reached Max Time),4.241238638820628,102
+racing,Base Only,0,1,150001,Success (Reached Max Time),2.6187167940753318,102
+racing,Base Only,0,2,150002,Success (Reached Max Time),3.842428236699139,102
+racing,Base Only,0,3,150003,Collision (Oversteering Spin),5.164131195832287,100
+racing,Base Only,0,4,150004,Success (Reached Max Time),3.8055368186655865,104
+racing,Base Only,0,5,150005,Collision (Crash),2.6947315372958536,29
+racing,Base Only,0,6,150006,Collision (Crash),6.709961102410737,82
+racing,Base Only,0,7,150007,Collision (Crash),2.889276442099938,5
+racing,Base Only,0,8,150008,Success (Reached Max Time),3.960233008702106,104
+racing,Base Only,0,9,150009,Success (Reached Max Time),3.256466460538389,102
+racing,Base Only,0,10,150010,Success (Reached Max Time),3.8594277285807537,104
+racing,Base Only,0,11,150011,Success (Reached Max Time),3.7587529450234087,102
+racing,Base Only,0,12,150012,Success (Reached Max Time),3.7036464039560784,104
+racing,Base Only,0,13,150013,Success (Reached Max Time),3.799137979651158,102
+racing,Base Only,0,14,150014,Success (Reached Max Time),3.8898823074566677,102
+racing,Base Only,0,15,150015,Collision (Crash),3.2976623942781895,63
+racing,Base Only,0,16,150016,Success (Reached Max Time),4.252862183087966,103
+racing,Base Only,0,17,150017,Success (Reached Max Time),2.8598518223428098,102
+racing,Base Only,0,18,150018,Success (Reached Max Time),3.9333136675419142,103
+racing,Base Only,0,19,150019,Success (Reached Max Time),4.190220304419507,102
+racing,Base Only,0,20,150020,Success (Reached Max Time),3.9278174032863213,103
+racing,Base Only,0,21,150021,Collision (Crash),2.7919874374145555,51
+racing,Base Only,0,22,150022,Success (Reached Max Time),4.201200754543386,104
+racing,Base Only,0,23,150023,Collision (Crash),2.9499687521707143,57
+racing,Base Only,0,24,150024,Success (Reached Max Time),4.099000067299959,102
+racing,Base Only,0,25,150025,Success (Reached Max Time),4.151916710747159,103
+racing,Base Only,0,26,150026,Success (Reached Max Time),3.4982900198002658,102
+racing,Base Only,0,27,150027,Collision (Crash),2.9205437413789594,65
+racing,Base Only,0,28,150028,Collision (Crash),2.018000683942811,64
+racing,Base Only,0,29,150029,Success (Reached Max Time),4.370284710396954,103
+racing,Base Only,0,30,150030,Success (Reached Max Time),2.80597725410143,102
+racing,Base Only,0,31,150031,Success (Reached Max Time),4.083192720644941,102
+racing,Base Only,0,32,150032,Success (Reached Max Time),4.195609690116615,102
+racing,Base Only,0,33,150033,Success (Reached Max Time),3.243083124537904,102
+racing,Base Only,0,34,150034,Success (Reached Max Time),3.9113669064525896,103
+racing,Base Only,0,35,150035,Success (Reached Max Time),3.7163699009270403,104
+racing,Base Only,0,36,150036,Success (Reached Max Time),3.031302878017302,102
+racing,Base Only,0,37,150037,Success (Reached Max Time),2.6653374191333192,101
+racing,Base Only,0,38,150038,Success (Reached Max Time),4.297301655546203,102
+racing,Base Only,0,39,150039,Success (Reached Max Time),3.522474087200739,102
+racing,Base Only,0,40,150040,Success (Reached Max Time),2.6716685199252046,102
+racing,Base Only,0,41,150041,Success (Reached Max Time),3.968165557011421,104
+racing,Base Only,0,42,150042,Success (Reached Max Time),3.297857846178456,104
+racing,Base Only,0,43,150043,Collision (Crash),3.1036666447452226,29
+racing,Base Only,0,44,150044,Collision (Crash),2.6079739978712153,28
+racing,Base Only,0,45,150045,Success (Reached Max Time),3.900148197846916,102
+racing,Base Only,0,46,150046,Collision (Crash),3.366510080623078,57
+racing,Base Only,0,47,150047,Collision (Crash),2.79074678894673,15
+racing,Base Only,0,48,150048,Collision (Crash),3.2322590566814235,21
+racing,Base Only,0,49,150049,Success (Reached Max Time),3.828627004653708,102
+racing,Base Only,1,0,150000,Collision (Oversteering Spin),1.7163292671947252,64
+racing,Base Only,1,1,150001,Success (Reached Max Time),2.867104285585373,101
+racing,Base Only,1,2,150002,Success (Reached Max Time),4.046095898637717,99
+racing,Base Only,1,3,150003,Success (Reached Max Time),3.3828002476323036,99
+racing,Base Only,1,4,150004,Success (Reached Max Time),2.9011867407314114,101
+racing,Base Only,1,5,150005,Collision (Crash),1.8647833220772945,40
+racing,Base Only,1,6,150006,Success (Reached Max Time),2.4164942984058295,100
+racing,Base Only,1,7,150007,Collision (Crash),3.016698418803688,27
+racing,Base Only,1,8,150008,Success (Reached Max Time),3.183156531696953,102
+racing,Base Only,1,9,150009,Collision (Crash),4.5070568403504545,74
+racing,Base Only,1,10,150010,Success (Reached Max Time),3.0780932552294296,102
+racing,Base Only,1,11,150011,Success (Reached Max Time),2.912239294421521,100
+racing,Base Only,1,12,150012,Success (Reached Max Time),2.774311331112929,102
+racing,Base Only,1,13,150013,Success (Reached Max Time),3.6386572806315263,99
+racing,Base Only,1,14,150014,Collision (Crash),3.156465574968298,15
+racing,Base Only,1,15,150015,Collision (Crash),4.278697042878124,15
+racing,Base Only,1,16,150016,Success (Reached Max Time),2.843511326943253,99
+racing,Base Only,1,17,150017,Collision (Crash),2.9845885445875124,11
+racing,Base Only,1,18,150018,Success (Reached Max Time),3.252457243561501,102
+racing,Base Only,1,19,150019,Success (Reached Max Time),3.96695113643815,103
+racing,Base Only,1,20,150020,Collision (Oversteering Spin),2.735518080937338,76
+racing,Base Only,1,21,150021,Success (Reached Max Time),2.883097854451921,101
+racing,Base Only,1,22,150022,Success (Reached Max Time),3.874021330843048,103
+racing,Base Only,1,23,150023,Success (Reached Max Time),2.489941713588223,100
+racing,Base Only,1,24,150024,Collision (Crash),2.6856265355163664,82
+racing,Base Only,1,25,150025,Success (Reached Max Time),2.9704905506566397,101
+racing,Base Only,1,26,150026,Success (Reached Max Time),2.678537867484052,101
+racing,Base Only,1,27,150027,Success (Reached Max Time),2.5764702601642093,100
+racing,Base Only,1,28,150028,Success (Reached Max Time),2.9119986975611893,101
+racing,Base Only,1,29,150029,Success (Reached Max Time),3.556455409475589,103
+racing,Base Only,1,30,150030,Success (Reached Max Time),2.316186238919835,100
+racing,Base Only,1,31,150031,Success (Reached Max Time),2.7131606253013256,101
+racing,Base Only,1,32,150032,Success (Reached Max Time),2.694967040884125,101
+racing,Base Only,1,33,150033,Success (Reached Max Time),2.5437091130287857,100
+racing,Base Only,1,34,150034,Collision (Crash),3.598441550406316,24
+racing,Base Only,1,35,150035,Collision (Crash),2.664000745617652,45
+racing,Base Only,1,36,150036,Success (Reached Max Time),2.78155480883895,100
+racing,Base Only,1,37,150037,Success (Reached Max Time),2.7869098285658467,101
+racing,Base Only,1,38,150038,Success (Reached Max Time),3.0472336607716315,99
+racing,Base Only,1,39,150039,Collision (Crash),3.2541082882310404,9
+racing,Base Only,1,40,150040,Success (Reached Max Time),3.4821010622809796,102
+racing,Base Only,1,41,150041,Success (Reached Max Time),2.573807351611093,101
+racing,Base Only,1,42,150042,Collision (Crash),3.074784995520651,39
+racing,Base Only,1,43,150043,Success (Reached Max Time),4.1217488111766425,103
+racing,Base Only,1,44,150044,Success (Reached Max Time),2.649461014622875,101
+racing,Base Only,1,45,150045,Success (Reached Max Time),3.6407953823501678,102
+racing,Base Only,1,46,150046,Success (Reached Max Time),3.1281488428857314,99
+racing,Base Only,1,47,150047,Success (Reached Max Time),2.8356127188945752,100
+racing,Base Only,1,48,150048,Success (Reached Max Time),2.453124449960199,101
+racing,Base Only,1,49,150049,Collision (Crash),2.700613884537772,63
+racing,Base Only,2,0,150000,Success (Reached Max Time),3.08144929103859,102
+racing,Base Only,2,1,150001,Success (Reached Max Time),2.839053276068821,102
+racing,Base Only,2,2,150002,Collision (Crash),2.70167627663326,40
+racing,Base Only,2,3,150003,Collision (Crash),3.212524483326709,89
+racing,Base Only,2,4,150004,Success (Reached Max Time),3.2410626861846734,102
+racing,Base Only,2,5,150005,Success (Reached Max Time),2.9841370258192765,102
+racing,Base Only,2,6,150006,Collision (Crash),3.279414273952362,53
+racing,Base Only,2,7,150007,Collision (Crash),4.056114310725535,68
+racing,Base Only,2,8,150008,Success (Reached Max Time),2.926202504024243,102
+racing,Base Only,2,9,150009,Collision (Crash),4.444621098299,86
+racing,Base Only,2,10,150010,Success (Reached Max Time),2.7217971191576638,101
+racing,Base Only,2,11,150011,Success (Reached Max Time),2.990634206592017,101
+racing,Base Only,2,12,150012,Success (Reached Max Time),3.540244559772646,102
+racing,Base Only,2,13,150013,Success (Reached Max Time),2.8073482428667242,101
+racing,Base Only,2,14,150014,Success (Reached Max Time),3.4743654692627506,103
+racing,Base Only,2,15,150015,Collision (Crash),6.303020432030775,63
+racing,Base Only,2,16,150016,Success (Reached Max Time),3.4994637684407257,102
+racing,Base Only,2,17,150017,Success (Reached Max Time),3.3936201636246355,102
+racing,Base Only,2,18,150018,Success (Reached Max Time),3.255667503151507,102
+racing,Base Only,2,19,150019,Collision (Crash),2.5644659577568,34
+racing,Base Only,2,20,150020,Collision (Crash),3.861709515966801,2
+racing,Base Only,2,21,150021,Success (Reached Max Time),3.2811601254151923,102
+racing,Base Only,2,22,150022,Success (Reached Max Time),3.1791828804441398,102
+racing,Base Only,2,23,150023,Collision (Crash),4.30872999064428,101
+racing,Base Only,2,24,150024,Success (Reached Max Time),2.8576024464487984,102
+racing,Base Only,2,25,150025,Success (Reached Max Time),3.066655094456205,102
+racing,Base Only,2,26,150026,Success (Reached Max Time),2.654066430696354,102
+racing,Base Only,2,27,150027,Collision (Crash),3.2609145118578535,11
+racing,Base Only,2,28,150028,Collision (Crash),2.90976563183397,5
+racing,Base Only,2,29,150029,Success (Reached Max Time),3.0314580081338987,102
+racing,Base Only,2,30,150030,Success (Reached Max Time),3.297842551427174,102
+racing,Base Only,2,31,150031,Success (Reached Max Time),2.7104711429180184,101
+racing,Base Only,2,32,150032,Success (Reached Max Time),3.114917474055791,102
+racing,Base Only,2,33,150033,Collision (Crash),4.366026211169874,26
+racing,Base Only,2,34,150034,Success (Reached Max Time),3.12344552047034,102
+racing,Base Only,2,35,150035,Success (Reached Max Time),2.847475764227826,101
+racing,Base Only,2,36,150036,Success (Reached Max Time),3.356743681769663,102
+racing,Base Only,2,37,150037,Collision (Crash),3.0049543593456214,39
+racing,Base Only,2,38,150038,Success (Reached Max Time),3.2015589572172694,102
+racing,Base Only,2,39,150039,Success (Reached Max Time),3.086880946543958,102
+racing,Base Only,2,40,150040,Success (Reached Max Time),3.0724861820849685,102
+racing,Base Only,2,41,150041,Success (Reached Max Time),3.100161591619817,102
+racing,Base Only,2,42,150042,Collision (Crash),3.563550890604649,8
+racing,Base Only,2,43,150043,Success (Reached Max Time),3.2118812200945897,102
+racing,Base Only,2,44,150044,Success (Reached Max Time),3.0983654060738908,102
+racing,Base Only,2,45,150045,Collision (Crash),2.713784957862137,22
+racing,Base Only,2,46,150046,Collision (Crash),4.119956975234019,50
+racing,Base Only,2,47,150047,Success (Reached Max Time),2.685406445831167,101
+racing,Base Only,2,48,150048,Collision (Crash),4.037398201343783,73
+racing,Base Only,2,49,150049,Collision (Crash),3.325059001150313,57
+racing,Base Only,3,0,150000,Success (Reached Max Time),3.950621270508108,103
+racing,Base Only,3,1,150001,Success (Reached Max Time),3.0352001066770358,102
+racing,Base Only,3,2,150002,Success (Reached Max Time),3.701405475332992,103
+racing,Base Only,3,3,150003,Collision (Crash),3.062051726402545,9
+racing,Base Only,3,4,150004,Success (Reached Max Time),3.5659954037621358,103
+racing,Base Only,3,5,150005,Success (Reached Max Time),4.149738220141635,104
+racing,Base Only,3,6,150006,Success (Reached Max Time),3.818621852881018,104
+racing,Base Only,3,7,150007,Collision (Crash),3.362990646866038,22
+racing,Base Only,3,8,150008,Success (Reached Max Time),3.442353848676593,103
+racing,Base Only,3,9,150009,Success (Reached Max Time),4.213056325122201,105
+racing,Base Only,3,10,150010,Success (Reached Max Time),3.716374714970308,105
+racing,Base Only,3,11,150011,Success (Reached Max Time),3.906940731317378,103
+racing,Base Only,3,12,150012,Success (Reached Max Time),3.9579797051914003,105
+racing,Base Only,3,13,150013,Success (Reached Max Time),3.700501638604822,103
+racing,Base Only,3,14,150014,Success (Reached Max Time),3.892863119669451,104
+racing,Base Only,3,15,150015,Success (Reached Max Time),4.267924980219521,104
+racing,Base Only,3,16,150016,Success (Reached Max Time),3.6239587627668013,104
+racing,Base Only,3,17,150017,Success (Reached Max Time),3.802430319577774,104
+racing,Base Only,3,18,150018,Success (Reached Max Time),3.36133694141396,104
+racing,Base Only,3,19,150019,Collision (Oversteering Spin),2.144879163623039,99
+racing,Base Only,3,20,150020,Success (Reached Max Time),4.003123848931418,104
+racing,Base Only,3,21,150021,Success (Reached Max Time),3.666750292880734,104
+racing,Base Only,3,22,150022,Success (Reached Max Time),3.5902731130720418,104
+racing,Base Only,3,23,150023,Success (Reached Max Time),3.540254920682773,104
+racing,Base Only,3,24,150024,Success (Reached Max Time),4.076320076552903,104
+racing,Base Only,3,25,150025,Success (Reached Max Time),4.1865635136565045,102
+racing,Base Only,3,26,150026,Success (Reached Max Time),3.8954953961052543,104
+racing,Base Only,3,27,150027,Collision (Crash),3.204901802864998,45
+racing,Base Only,3,28,150028,Success (Reached Max Time),3.5288017419128397,103
+racing,Base Only,3,29,150029,Success (Reached Max Time),3.9368265577078017,104
+racing,Base Only,3,30,150030,Success (Reached Max Time),3.6704126414162666,104
+racing,Base Only,3,31,150031,Success (Reached Max Time),3.6953438415618427,104
+racing,Base Only,3,32,150032,Success (Reached Max Time),3.6504860699071684,105
+racing,Base Only,3,33,150033,Success (Reached Max Time),3.8499820181880398,104
+racing,Base Only,3,34,150034,Success (Reached Max Time),4.246607784613063,105
+racing,Base Only,3,35,150035,Success (Reached Max Time),3.8290767675462147,104
+racing,Base Only,3,36,150036,Success (Reached Max Time),4.036498917238026,105
+racing,Base Only,3,37,150037,Success (Reached Max Time),3.9635033257556027,105
+racing,Base Only,3,38,150038,Success (Reached Max Time),4.095584768174054,105
+racing,Base Only,3,39,150039,Success (Reached Max Time),3.660250290255723,103
+racing,Base Only,3,40,150040,Success (Reached Max Time),3.734252091537558,104
+racing,Base Only,3,41,150041,Success (Reached Max Time),3.513699754471657,103
+racing,Base Only,3,42,150042,Success (Reached Max Time),3.7541885181034966,104
+racing,Base Only,3,43,150043,Success (Reached Max Time),3.706590792812431,104
+racing,Base Only,3,44,150044,Success (Reached Max Time),3.4749157672535484,103
+racing,Base Only,3,45,150045,Success (Reached Max Time),3.616837369848295,104
+racing,Base Only,3,46,150046,Success (Reached Max Time),4.145660596853783,104
+racing,Base Only,3,47,150047,Success (Reached Max Time),3.793853130721031,103
+racing,Base Only,3,48,150048,Success (Reached Max Time),3.3688069374815575,103
+racing,Base Only,3,49,150049,Success (Reached Max Time),3.9769943053754897,104
+racing,Base Only,4,0,150000,Success (Reached Max Time),3.947498023441013,104
+racing,Base Only,4,1,150001,Success (Reached Max Time),3.6301958142016453,103
+racing,Base Only,4,2,150002,Success (Reached Max Time),3.831800647139124,104
+racing,Base Only,4,3,150003,Collision (Oversteering Spin),2.8090686807442493,76
+racing,Base Only,4,4,150004,Success (Reached Max Time),3.787270029051544,103
+racing,Base Only,4,5,150005,Success (Reached Max Time),3.646770934885461,104
+racing,Base Only,4,6,150006,Collision (Crash),3.8439155864470633,97
+racing,Base Only,4,7,150007,Collision (Crash),1.6061234689537631,75
+racing,Base Only,4,8,150008,Success (Reached Max Time),3.8005852332139054,105
+racing,Base Only,4,9,150009,Collision (Crash),3.8042073041790476,98
+racing,Base Only,4,10,150010,Success (Reached Max Time),3.5767502000362494,104
+racing,Base Only,4,11,150011,Success (Reached Max Time),4.045273861705732,105
+racing,Base Only,4,12,150012,Collision (Crash),3.9045599076083986,86
+racing,Base Only,4,13,150013,Success (Reached Max Time),3.714183058397653,104
+racing,Base Only,4,14,150014,Success (Reached Max Time),4.008407302163545,105
+racing,Base Only,4,15,150015,Success (Reached Max Time),3.5732073033687883,103
+racing,Base Only,4,16,150016,Success (Reached Max Time),3.564576327516113,103
+racing,Base Only,4,17,150017,Success (Reached Max Time),4.184794173834523,105
+racing,Base Only,4,18,150018,Success (Reached Max Time),3.7578593447312714,104
+racing,Base Only,4,19,150019,Success (Reached Max Time),4.089059580312871,105
+racing,Base Only,4,20,150020,Success (Reached Max Time),3.542010404669822,104
+racing,Base Only,4,21,150021,Success (Reached Max Time),3.9976990023185786,105
+racing,Base Only,4,22,150022,Success (Reached Max Time),3.887355435801119,105
+racing,Base Only,4,23,150023,Success (Reached Max Time),3.2750688457106847,103
+racing,Base Only,4,24,150024,Success (Reached Max Time),4.110759213566205,105
+racing,Base Only,4,25,150025,Success (Reached Max Time),3.761033391998952,105
+racing,Base Only,4,26,150026,Collision (Crash),5.662214796816251,22
+racing,Base Only,4,27,150027,Success (Reached Max Time),3.966929009724387,105
+racing,Base Only,4,28,150028,Success (Reached Max Time),3.6394881298888273,105
+racing,Base Only,4,29,150029,Success (Reached Max Time),3.822004628568174,104
+racing,Base Only,4,30,150030,Success (Reached Max Time),3.9372443209184294,105
+racing,Base Only,4,31,150031,Success (Reached Max Time),3.8345906037377193,104
+racing,Base Only,4,32,150032,Collision (Crash),2.9074449950251435,9
+racing,Base Only,4,33,150033,Collision (Crash),3.86813610977406,2
+racing,Base Only,4,34,150034,Collision (Crash),6.464424260100023,59
+racing,Base Only,4,35,150035,Collision (Crash),3.934507872331101,56
+racing,Base Only,4,36,150036,Success (Reached Max Time),3.9384342746235803,105
+racing,Base Only,4,37,150037,Success (Reached Max Time),3.206629281316252,104
+racing,Base Only,4,38,150038,Success (Reached Max Time),3.3737076777238886,103
+racing,Base Only,4,39,150039,Success (Reached Max Time),4.1144786798743,104
+racing,Base Only,4,40,150040,Collision (Crash),3.0087636777258666,41
+racing,Base Only,4,41,150041,Collision (Crash),4.168496409433464,20
+racing,Base Only,4,42,150042,Success (Reached Max Time),3.9954839794582595,103
+racing,Base Only,4,43,150043,Success (Reached Max Time),3.3438435196811644,104
+racing,Base Only,4,44,150044,Success (Reached Max Time),3.5312994974318186,104
+racing,Base Only,4,45,150045,Collision (Crash),3.914214229109528,32
+racing,Base Only,4,46,150046,Success (Reached Max Time),3.721809831946152,104
+racing,Base Only,4,47,150047,Success (Reached Max Time),3.9751450569462317,105
+racing,Base Only,4,48,150048,Success (Reached Max Time),4.0058717987151855,105
+racing,Base Only,4,49,150049,Success (Reached Max Time),3.7086025091151904,104
+racing,Base Only,5,0,150000,Undershoot Turn (轉向不足),3.3399402577352624,5
+racing,Base Only,5,1,150001,Undershoot Turn (轉向不足),3.717188492395757,6
+racing,Base Only,5,2,150002,Collision (Crash),2.747858796323541,5
+racing,Base Only,5,3,150003,Collision (Crash),3.4322126139867017,6
+racing,Base Only,5,4,150004,Undershoot Turn (轉向不足),2.376002439354907,5
+racing,Base Only,5,5,150005,Collision (Crash),3.3147477081690346,6
+racing,Base Only,5,6,150006,Undershoot Turn (轉向不足),3.102492218637568,5
+racing,Base Only,5,7,150007,Collision (Crash),2.7685840969997044,6
+racing,Base Only,5,8,150008,Undershoot Turn (轉向不足),3.0581209380664625,5
+racing,Base Only,5,9,150009,Collision (Crash),4.024825296072055,5
+racing,Base Only,5,10,150010,Collision (Crash),3.2083183052106428,6
+racing,Base Only,5,11,150011,Undershoot Turn (轉向不足),1.0463169182205938,6
+racing,Base Only,5,12,150012,Undershoot Turn (轉向不足),3.3578133914307426,11
+racing,Base Only,5,13,150013,Collision (Crash),3.7967247350117015,6
+racing,Base Only,5,14,150014,Collision (Crash),3.1811799786203863,5
+racing,Base Only,5,15,150015,Undershoot Turn (轉向不足),4.0447165825371,7
+racing,Base Only,5,16,150016,Collision (Crash),3.7524947345671187,6
+racing,Base Only,5,17,150017,Undershoot Turn (轉向不足),2.9774353475588415,5
+racing,Base Only,5,18,150018,Collision (Crash),3.306923515271605,4
+racing,Base Only,5,19,150019,Undershoot Turn (轉向不足),3.6125679175278953,5
+racing,Base Only,5,20,150020,Undershoot Turn (轉向不足),3.04161285716793,5
+racing,Base Only,5,21,150021,Collision (Crash),3.9868818555859207,6
+racing,Base Only,5,22,150022,Collision (Crash),3.7992362579120353,5
+racing,Base Only,5,23,150023,Undershoot Turn (轉向不足),3.9341220202212037,6
+racing,Base Only,5,24,150024,Collision (Oversteering Spin),1.47383488734434,6
+racing,Base Only,5,25,150025,Collision (Crash),2.923057148138551,6
+racing,Base Only,5,26,150026,Undershoot Turn (轉向不足),1.762423760794223,6
+racing,Base Only,5,27,150027,Collision (Crash),3.7808009670137466,6
+racing,Base Only,5,28,150028,Collision (Crash),3.648962515977602,5
+racing,Base Only,5,29,150029,Collision (Crash),3.4618023141202294,4
+racing,Base Only,5,30,150030,Undershoot Turn (轉向不足),2.3499550927354305,7
+racing,Base Only,5,31,150031,Collision (Oversteering Spin),4.069019830511167,5
+racing,Base Only,5,32,150032,Collision (Crash),3.7186613202726377,11
+racing,Base Only,5,33,150033,Undershoot Turn (轉向不足),3.7398840839641077,5
+racing,Base Only,5,34,150034,Undershoot Turn (轉向不足),2.357781934329823,6
+racing,Base Only,5,35,150035,Collision (Crash),3.3886613175094267,6
+racing,Base Only,5,36,150036,Collision (Crash),4.018070588213982,6
+racing,Base Only,5,37,150037,Undershoot Turn (轉向不足),3.734184227028774,11
+racing,Base Only,5,38,150038,Undershoot Turn (轉向不足),1.6973316503379774,6
+racing,Base Only,5,39,150039,Undershoot Turn (轉向不足),1.5917335303092306,6
+racing,Base Only,5,40,150040,Collision (Crash),2.6561646465948217,6
+racing,Base Only,5,41,150041,Collision (Oversteering Spin),2.1949392535059036,7
+racing,Base Only,5,42,150042,Undershoot Turn (轉向不足),3.3848293661232356,5
+racing,Base Only,5,43,150043,Collision (Crash),2.7736041500951334,5
+racing,Base Only,5,44,150044,Undershoot Turn (轉向不足),3.204853782045448,5
+racing,Base Only,5,45,150045,Collision (Crash),3.179683955799797,5
+racing,Base Only,5,46,150046,Collision (Crash),2.7752873532619056,6
+racing,Base Only,5,47,150047,Collision (Crash),3.3875200018881255,4
+racing,Base Only,5,48,150048,Undershoot Turn (轉向不足),1.5776530548737449,6
+racing,Base Only,5,49,150049,Undershoot Turn (轉向不足),2.6212673223395107,6
+racing,Base Only,6,0,150000,Collision (Crash),4.747922532667817,48
+racing,Base Only,6,1,150001,Success (Reached Max Time),2.609090003105927,101
+racing,Base Only,6,2,150002,Success (Reached Max Time),2.952278422184188,101
+racing,Base Only,6,3,150003,Success (Reached Max Time),2.859501278319364,101
+racing,Base Only,6,4,150004,Success (Reached Max Time),3.103319947558042,101
+racing,Base Only,6,5,150005,Collision (Crash),2.7412638431038783,46
+racing,Base Only,6,6,150006,Success (Reached Max Time),3.532633675281846,102
+racing,Base Only,6,7,150007,Success (Reached Max Time),3.3136787219468737,102
+racing,Base Only,6,8,150008,Success (Reached Max Time),3.3769770190322803,102
+racing,Base Only,6,9,150009,Success (Reached Max Time),2.726895456959882,101
+racing,Base Only,6,10,150010,Success (Reached Max Time),3.0183053764363885,102
+racing,Base Only,6,11,150011,Success (Reached Max Time),3.2072182030655,101
+racing,Base Only,6,12,150012,Success (Reached Max Time),2.799844813052847,101
+racing,Base Only,6,13,150013,Success (Reached Max Time),3.717321825945978,102
+racing,Base Only,6,14,150014,Collision (Crash),2.9985416336655137,47
+racing,Base Only,6,15,150015,Success (Reached Max Time),2.867719374264116,101
+racing,Base Only,6,16,150016,Success (Reached Max Time),2.628388261220362,101
+racing,Base Only,6,17,150017,Success (Reached Max Time),3.3362298830393633,102
+racing,Base Only,6,18,150018,Success (Reached Max Time),2.9320685142864473,100
+racing,Base Only,6,19,150019,Success (Reached Max Time),2.6554440615568686,101
+racing,Base Only,6,20,150020,Success (Reached Max Time),2.714108473155617,100
+racing,Base Only,6,21,150021,Success (Reached Max Time),3.930790595107976,102
+racing,Base Only,6,22,150022,Success (Reached Max Time),3.9045031765407563,102
+racing,Base Only,6,23,150023,Success (Reached Max Time),3.6333955113558036,102
+racing,Base Only,6,24,150024,Success (Reached Max Time),3.489580258348509,102
+racing,Base Only,6,25,150025,Success (Reached Max Time),2.668825572958035,101
+racing,Base Only,6,26,150026,Success (Reached Max Time),2.630450190343327,100
+racing,Base Only,6,27,150027,Success (Reached Max Time),3.1308117695417783,102
+racing,Base Only,6,28,150028,Success (Reached Max Time),3.754998194959704,104
+racing,Base Only,6,29,150029,Collision (Crash),2.873250615496127,87
+racing,Base Only,6,30,150030,Success (Reached Max Time),2.3311393809776675,101
+racing,Base Only,6,31,150031,Success (Reached Max Time),2.850771408870097,101
+racing,Base Only,6,32,150032,Success (Reached Max Time),3.52627632226778,102
+racing,Base Only,6,33,150033,Success (Reached Max Time),2.6906697108772697,101
+racing,Base Only,6,34,150034,Success (Reached Max Time),2.596346994709665,100
+racing,Base Only,6,35,150035,Success (Reached Max Time),3.238295679394612,101
+racing,Base Only,6,36,150036,Success (Reached Max Time),2.877698577415624,102
+racing,Base Only,6,37,150037,Collision (Oversteering Spin),2.579197762460878,27
+racing,Base Only,6,38,150038,Success (Reached Max Time),2.9793152487544186,102
+racing,Base Only,6,39,150039,Success (Reached Max Time),2.5384522392125293,100
+racing,Base Only,6,40,150040,Success (Reached Max Time),2.6424584667662327,101
+racing,Base Only,6,41,150041,Success (Reached Max Time),2.7625928523077303,101
+racing,Base Only,6,42,150042,Success (Reached Max Time),2.9991949324540936,102
+racing,Base Only,6,43,150043,Collision (Crash),2.6901810020109465,82
+racing,Base Only,6,44,150044,Success (Reached Max Time),2.8729749754367577,101
+racing,Base Only,6,45,150045,Success (Reached Max Time),3.0111276771266735,99
+racing,Base Only,6,46,150046,Success (Reached Max Time),2.815549219668268,101
+racing,Base Only,6,47,150047,Success (Reached Max Time),3.2086449798347663,101
+racing,Base Only,6,48,150048,Success (Reached Max Time),3.1412695803954263,101
+racing,Base Only,6,49,150049,Success (Reached Max Time),3.73783234535429,102
+racing,Base Only,7,0,150000,Success (Reached Max Time),3.399452312610481,103
+racing,Base Only,7,1,150001,Success (Reached Max Time),3.4422600931879264,103
+racing,Base Only,7,2,150002,Success (Reached Max Time),3.8027661650463545,103
+racing,Base Only,7,3,150003,Success (Reached Max Time),3.731415817050714,103
+racing,Base Only,7,4,150004,Success (Reached Max Time),3.1857982360535813,104
+racing,Base Only,7,5,150005,Success (Reached Max Time),3.4320022076622747,103
+racing,Base Only,7,6,150006,Success (Reached Max Time),3.4347004487991293,104
+racing,Base Only,7,7,150007,Success (Reached Max Time),3.393058242485472,103
+racing,Base Only,7,8,150008,Success (Reached Max Time),3.4409809599833183,104
+racing,Base Only,7,9,150009,Success (Reached Max Time),3.705585001377322,104
+racing,Base Only,7,10,150010,Collision (Crash),3.3329018907375487,61
+racing,Base Only,7,11,150011,Success (Reached Max Time),3.6857098277877514,103
+racing,Base Only,7,12,150012,Success (Reached Max Time),3.639942437095356,103
+racing,Base Only,7,13,150013,Success (Reached Max Time),4.036851964686434,103
+racing,Base Only,7,14,150014,Success (Reached Max Time),3.9945192664146285,105
+racing,Base Only,7,15,150015,Success (Reached Max Time),3.0241790774783675,104
+racing,Base Only,7,16,150016,Success (Reached Max Time),3.9902365035228904,102
+racing,Base Only,7,17,150017,Collision (Crash),4.219855529480524,38
+racing,Base Only,7,18,150018,Collision (Crash),3.800188050833291,50
+racing,Base Only,7,19,150019,Success (Reached Max Time),3.3074208962320584,104
+racing,Base Only,7,20,150020,Success (Reached Max Time),3.2058131175115108,104
+racing,Base Only,7,21,150021,Success (Reached Max Time),4.26979755215125,105
+racing,Base Only,7,22,150022,Success (Reached Max Time),3.9991799150143685,104
+racing,Base Only,7,23,150023,Collision (Crash),3.2738155314494435,33
+racing,Base Only,7,24,150024,Success (Reached Max Time),3.5144450410710144,104
+racing,Base Only,7,25,150025,Success (Reached Max Time),3.7342802063930196,102
+racing,Base Only,7,26,150026,Success (Reached Max Time),3.271971480678199,102
+racing,Base Only,7,27,150027,Success (Reached Max Time),3.7968192073650773,104
+racing,Base Only,7,28,150028,Success (Reached Max Time),3.494433169541608,104
+racing,Base Only,7,29,150029,Success (Reached Max Time),3.4257112676955828,104
+racing,Base Only,7,30,150030,Collision (Crash),3.9717192264075365,44
+racing,Base Only,7,31,150031,Success (Reached Max Time),3.775637508258944,104
+racing,Base Only,7,32,150032,Success (Reached Max Time),3.5234107666337255,104
+racing,Base Only,7,33,150033,Collision (Crash),4.072919398817396,20
+racing,Base Only,7,34,150034,Success (Reached Max Time),4.167523763767949,104
+racing,Base Only,7,35,150035,Collision (Crash),2.9768500013391757,34
+racing,Base Only,7,36,150036,Success (Reached Max Time),3.9867954514595243,103
+racing,Base Only,7,37,150037,Success (Reached Max Time),3.855431137194176,105
+racing,Base Only,7,38,150038,Success (Reached Max Time),3.3187878552743744,103
+racing,Base Only,7,39,150039,Success (Reached Max Time),3.5412793474673494,103
+racing,Base Only,7,40,150040,Success (Reached Max Time),3.2250554225945747,103
+racing,Base Only,7,41,150041,Success (Reached Max Time),3.4367686945000813,103
+racing,Base Only,7,42,150042,Success (Reached Max Time),4.167203634943494,102
+racing,Base Only,7,43,150043,Success (Reached Max Time),3.2443888773777396,104
+racing,Base Only,7,44,150044,Success (Reached Max Time),3.2946227564047597,104
+racing,Base Only,7,45,150045,Collision (Crash),3.57229048374594,8
+racing,Base Only,7,46,150046,Success (Reached Max Time),3.9340168364099934,102
+racing,Base Only,7,47,150047,Collision (Crash),3.8862142766476793,56
+racing,Base Only,7,48,150048,Success (Reached Max Time),3.714528906687844,104
+racing,Base Only,7,49,150049,Success (Reached Max Time),3.579367956351948,103
+racing,Base Only,8,0,150000,Collision (Crash),3.994192223130809,38
+racing,Base Only,8,1,150001,Collision (Crash),3.3402692254795765,101
+racing,Base Only,8,2,150002,Collision (Crash),3.162961888776082,5
+racing,Base Only,8,3,150003,Collision (Crash),3.8502096975110365,20
+racing,Base Only,8,4,150004,Collision (Crash),3.897338201642551,14
+racing,Base Only,8,5,150005,Collision (Crash),3.574939783608027,84
+racing,Base Only,8,6,150006,Collision (Crash),3.7509046008933575,9
+racing,Base Only,8,7,150007,Undershoot Turn (轉向不足),2.80823079005059,15
+racing,Base Only,8,8,150008,Collision (Oversteering Spin),3.4084176328730553,93
+racing,Base Only,8,9,150009,Success (Reached Max Time),2.8502099871310307,107
+racing,Base Only,8,10,150010,Success (Reached Max Time),2.7358931575307754,107
+racing,Base Only,8,11,150011,Collision (Crash),2.034468891837751,62
+racing,Base Only,8,12,150012,Undershoot Turn (轉向不足),4.250210631079971,14
+racing,Base Only,8,13,150013,Success (Reached Max Time),3.28813832247716,107
+racing,Base Only,8,14,150014,Collision (Crash),3.4887268326176284,5
+racing,Base Only,8,15,150015,Success (Reached Max Time),2.893410528132805,107
+racing,Base Only,8,16,150016,Collision (Crash),3.753481175064584,50
+racing,Base Only,8,17,150017,Success (Reached Max Time),4.033434185024762,105
+racing,Base Only,8,18,150018,Collision (Crash),2.4841954345469834,17
+racing,Base Only,8,19,150019,Collision (Crash),3.2900663126070464,23
+racing,Base Only,8,20,150020,Success (Reached Max Time),2.3418564326650384,106
+racing,Base Only,8,21,150021,Collision (Crash),5.643874863647182,58
+racing,Base Only,8,22,150022,Success (Reached Max Time),3.3122100064604765,107
+racing,Base Only,8,23,150023,Collision (Crash),2.519779852996764,10
+racing,Base Only,8,24,150024,Collision (Crash),3.8651587445702544,32
+racing,Base Only,8,25,150025,Collision (Crash),3.9639079698940014,20
+racing,Base Only,8,26,150026,Success (Reached Max Time),2.8492153613461073,107
+racing,Base Only,8,27,150027,Success (Reached Max Time),3.3085559663493687,107
+racing,Base Only,8,28,150028,Collision (Crash),2.8262599388391867,51
+racing,Base Only,8,29,150029,Success (Reached Max Time),2.4471568440064835,106
+racing,Base Only,8,30,150030,Success (Reached Max Time),2.304425995008707,106
+racing,Base Only,8,31,150031,Collision (Crash),4.174316292591513,14
+racing,Base Only,8,32,150032,Success (Reached Max Time),3.280167183083739,108
+racing,Base Only,8,33,150033,Success (Reached Max Time),3.570911160407939,108
+racing,Base Only,8,34,150034,Success (Reached Max Time),3.191869495046837,107
+racing,Base Only,8,35,150035,Collision (Oversteering Spin),2.671841878410314,27
+racing,Base Only,8,36,150036,Success (Reached Max Time),2.914289934658447,107
+racing,Base Only,8,37,150037,Collision (Crash),4.047762539240974,14
+racing,Base Only,8,38,150038,Success (Reached Max Time),3.03102055619806,107
+racing,Base Only,8,39,150039,Collision (Crash),3.983152432587756,32
+racing,Base Only,8,40,150040,Collision (Crash),4.1536189652297955,8
+racing,Base Only,8,41,150041,Collision (Crash),4.0879688448824245,8
+racing,Base Only,8,42,150042,Collision (Crash),3.7747702935737535,32
+racing,Base Only,8,43,150043,Collision (Crash),3.966311811212229,51
+racing,Base Only,8,44,150044,Undershoot Turn (轉向不足),2.4194338531746924,26
+racing,Base Only,8,45,150045,Collision (Oversteering Spin),3.6078269333842745,9
+racing,Base Only,8,46,150046,Success (Reached Max Time),2.9406527270175706,107
+racing,Base Only,8,47,150047,Collision (Crash),4.455584566475366,21
+racing,Base Only,8,48,150048,Collision (Crash),2.493232001564498,4
+racing,Base Only,8,49,150049,Collision (Crash),3.570169502167068,39
+racing,Base Only,9,0,150000,Success (Reached Max Time),3.4014955474739867,102
+racing,Base Only,9,1,150001,Success (Reached Max Time),3.804873988417829,102
+racing,Base Only,9,2,150002,Success (Reached Max Time),2.019908101191133,100
+racing,Base Only,9,3,150003,Success (Reached Max Time),2.52738109704219,101
+racing,Base Only,9,4,150004,Success (Reached Max Time),3.1401777434593074,102
+racing,Base Only,9,5,150005,Success (Reached Max Time),3.898164320642411,102
+racing,Base Only,9,6,150006,Collision (Crash),3.0196658818101136,35
+racing,Base Only,9,7,150007,Success (Reached Max Time),3.847042068277522,102
+racing,Base Only,9,8,150008,Success (Reached Max Time),2.8584777942036848,102
+racing,Base Only,9,9,150009,Success (Reached Max Time),3.2091706623857044,102
+racing,Base Only,9,10,150010,Success (Reached Max Time),2.7614159838006946,101
+racing,Base Only,9,11,150011,Success (Reached Max Time),2.928662990985547,102
+racing,Base Only,9,12,150012,Success (Reached Max Time),2.6441964804621674,101
+racing,Base Only,9,13,150013,Success (Reached Max Time),3.3665800810684017,102
+racing,Base Only,9,14,150014,Success (Reached Max Time),2.6334954245270596,101
+racing,Base Only,9,15,150015,Success (Reached Max Time),2.8936453067056394,101
+racing,Base Only,9,16,150016,Success (Reached Max Time),3.3350365832429856,102
+racing,Base Only,9,17,150017,Success (Reached Max Time),3.55020308587204,102
+racing,Base Only,9,18,150018,Success (Reached Max Time),2.8027655637177515,101
+racing,Base Only,9,19,150019,Success (Reached Max Time),3.7123633609772284,102
+racing,Base Only,9,20,150020,Success (Reached Max Time),3.1377473745283435,102
+racing,Base Only,9,21,150021,Success (Reached Max Time),3.729509590064574,102
+racing,Base Only,9,22,150022,Success (Reached Max Time),3.668513035424345,102
+racing,Base Only,9,23,150023,Collision (Crash),4.240224868555803,32
+racing,Base Only,9,24,150024,Success (Reached Max Time),3.7196004740327826,102
+racing,Base Only,9,25,150025,Success (Reached Max Time),2.558163003998435,101
+racing,Base Only,9,26,150026,Success (Reached Max Time),3.0386899634201656,102
+racing,Base Only,9,27,150027,Success (Reached Max Time),3.224026842938413,102
+racing,Base Only,9,28,150028,Collision (Crash),3.1885789747369673,9
+racing,Base Only,9,29,150029,Success (Reached Max Time),3.5969354008867134,102
+racing,Base Only,9,30,150030,Success (Reached Max Time),3.7401292786967644,102
+racing,Base Only,9,31,150031,Success (Reached Max Time),2.789372636565598,101
+racing,Base Only,9,32,150032,Collision (Crash),3.346634444220584,23
+racing,Base Only,9,33,150033,Success (Reached Max Time),3.377681279460567,102
+racing,Base Only,9,34,150034,Collision (Crash),3.0975011718039136,23
+racing,Base Only,9,35,150035,Success (Reached Max Time),4.087916481529473,102
+racing,Base Only,9,36,150036,Success (Reached Max Time),3.0078746677025414,101
+racing,Base Only,9,37,150037,Success (Reached Max Time),2.466681634693659,100
+racing,Base Only,9,38,150038,Success (Reached Max Time),3.4077265279322306,102
+racing,Base Only,9,39,150039,Success (Reached Max Time),2.4771820872407124,101
+racing,Base Only,9,40,150040,Success (Reached Max Time),3.28784798965229,102
+racing,Base Only,9,41,150041,Success (Reached Max Time),3.2437247751224474,101
+racing,Base Only,9,42,150042,Collision (Crash),3.1854524317474695,75
+racing,Base Only,9,43,150043,Success (Reached Max Time),3.7413145797872343,102
+racing,Base Only,9,44,150044,Success (Reached Max Time),3.293148805188898,102
+racing,Base Only,9,45,150045,Success (Reached Max Time),3.1711096293986714,102
+racing,Base Only,9,46,150046,Success (Reached Max Time),2.8425952554371845,101
+racing,Base Only,9,47,150047,Success (Reached Max Time),3.452054819742359,102
+racing,Base Only,9,48,150048,Success (Reached Max Time),2.6387866594632694,101
+racing,Base Only,9,49,150049,Collision (Crash),2.2502869745382235,40
+racing,Additive-Fixed,0,0,150000,Success (Reached Max Time),3.0763780507157223,96
+racing,Additive-Fixed,0,1,150001,Success (Reached Max Time),2.486950514547846,95
+racing,Additive-Fixed,0,2,150002,Success (Reached Max Time),3.3410536951313263,96
+racing,Additive-Fixed,0,3,150003,Success (Reached Max Time),2.414964787279098,95
+racing,Additive-Fixed,0,4,150004,Success (Reached Max Time),2.9175724804648087,96
+racing,Additive-Fixed,0,5,150005,Success (Reached Max Time),3.4170551357341457,96
+racing,Additive-Fixed,0,6,150006,Success (Reached Max Time),2.5893720057494956,95
+racing,Additive-Fixed,0,7,150007,Success (Reached Max Time),3.3830375787876332,96
+racing,Additive-Fixed,0,8,150008,Success (Reached Max Time),3.502964138766766,96
+racing,Additive-Fixed,0,9,150009,Success (Reached Max Time),2.657504952920119,96
+racing,Additive-Fixed,0,10,150010,Success (Reached Max Time),3.71198164421526,96
+racing,Additive-Fixed,0,11,150011,Success (Reached Max Time),3.3546155222470055,96
+racing,Additive-Fixed,0,12,150012,Success (Reached Max Time),2.8817585029957775,95
+racing,Additive-Fixed,0,13,150013,Success (Reached Max Time),3.1895954915564926,96
+racing,Additive-Fixed,0,14,150014,Success (Reached Max Time),3.452259734366396,96
+racing,Additive-Fixed,0,15,150015,Success (Reached Max Time),2.64728754388628,95
+racing,Additive-Fixed,0,16,150016,Success (Reached Max Time),2.821550187550265,95
+racing,Additive-Fixed,0,17,150017,Success (Reached Max Time),3.1410367570525874,96
+racing,Additive-Fixed,0,18,150018,Success (Reached Max Time),2.828856764197187,95
+racing,Additive-Fixed,0,19,150019,Success (Reached Max Time),3.4040414309491696,96
+racing,Additive-Fixed,0,20,150020,Success (Reached Max Time),2.653894030984249,95
+racing,Additive-Fixed,0,21,150021,Success (Reached Max Time),2.472766951576672,95
+racing,Additive-Fixed,0,22,150022,Success (Reached Max Time),2.5242346189786713,95
+racing,Additive-Fixed,0,23,150023,Success (Reached Max Time),3.426557886479449,96
+racing,Additive-Fixed,0,24,150024,Success (Reached Max Time),3.1155273229399443,96
+racing,Additive-Fixed,0,25,150025,Success (Reached Max Time),3.4543999151700797,96
+racing,Additive-Fixed,0,26,150026,Success (Reached Max Time),3.2597291383692193,96
+racing,Additive-Fixed,0,27,150027,Success (Reached Max Time),2.719234714448406,95
+racing,Additive-Fixed,0,28,150028,Success (Reached Max Time),2.651499920688345,95
+racing,Additive-Fixed,0,29,150029,Success (Reached Max Time),3.19643547717038,96
+racing,Additive-Fixed,0,30,150030,Success (Reached Max Time),2.9338545369830893,95
+racing,Additive-Fixed,0,31,150031,Success (Reached Max Time),2.5264279343629763,95
+racing,Additive-Fixed,0,32,150032,Success (Reached Max Time),2.9980811163871213,96
+racing,Additive-Fixed,0,33,150033,Success (Reached Max Time),2.801424762447503,95
+racing,Additive-Fixed,0,34,150034,Success (Reached Max Time),2.747402740738652,95
+racing,Additive-Fixed,0,35,150035,Success (Reached Max Time),3.266309254437573,96
+racing,Additive-Fixed,0,36,150036,Success (Reached Max Time),2.461898004021101,95
+racing,Additive-Fixed,0,37,150037,Success (Reached Max Time),2.6878444561239165,95
+racing,Additive-Fixed,0,38,150038,Success (Reached Max Time),3.0794968713028332,95
+racing,Additive-Fixed,0,39,150039,Collision (Crash),3.866026553648055,74
+racing,Additive-Fixed,0,40,150040,Success (Reached Max Time),2.8158425441418826,95
+racing,Additive-Fixed,0,41,150041,Success (Reached Max Time),2.654211954679154,95
+racing,Additive-Fixed,0,42,150042,Success (Reached Max Time),3.238372559836313,96
+racing,Additive-Fixed,0,43,150043,Collision (Crash),3.9871261825749222,45
+racing,Additive-Fixed,0,44,150044,Success (Reached Max Time),3.227208996757242,96
+racing,Additive-Fixed,0,45,150045,Success (Reached Max Time),2.454439234179466,95
+racing,Additive-Fixed,0,46,150046,Success (Reached Max Time),3.0119493736492586,96
+racing,Additive-Fixed,0,47,150047,Success (Reached Max Time),2.96273250224637,95
+racing,Additive-Fixed,0,48,150048,Success (Reached Max Time),3.0905749001553886,96
+racing,Additive-Fixed,0,49,150049,Success (Reached Max Time),3.0008535957921882,96
+racing,Additive-Fixed,1,0,150000,Success (Reached Max Time),2.7716225299846893,101
+racing,Additive-Fixed,1,1,150001,Collision (Crash),3.3683057946945705,63
+racing,Additive-Fixed,1,2,150002,Success (Reached Max Time),3.063025999673925,102
+racing,Additive-Fixed,1,3,150003,Collision (Crash),2.2984709256717903,63
+racing,Additive-Fixed,1,4,150004,Success (Reached Max Time),3.2046247933686782,102
+racing,Additive-Fixed,1,5,150005,Success (Reached Max Time),3.1981439765769575,102
+racing,Additive-Fixed,1,6,150006,Success (Reached Max Time),3.4192837104780414,102
+racing,Additive-Fixed,1,7,150007,Success (Reached Max Time),2.8286250316803554,101
+racing,Additive-Fixed,1,8,150008,Success (Reached Max Time),3.2251615011602794,102
+racing,Additive-Fixed,1,9,150009,Collision (Crash),3.5767375610598475,26
+racing,Additive-Fixed,1,10,150010,Collision (Crash),4.02377884475845,49
+racing,Additive-Fixed,1,11,150011,Success (Reached Max Time),3.595060561607157,102
+racing,Additive-Fixed,1,12,150012,Success (Reached Max Time),3.4087086471097465,102
+racing,Additive-Fixed,1,13,150013,Success (Reached Max Time),3.518902676158628,102
+racing,Additive-Fixed,1,14,150014,Success (Reached Max Time),3.560158087195221,102
+racing,Additive-Fixed,1,15,150015,Success (Reached Max Time),3.0381668909585255,101
+racing,Additive-Fixed,1,16,150016,Success (Reached Max Time),3.084255621505553,102
+racing,Additive-Fixed,1,17,150017,Success (Reached Max Time),2.9580071837132422,101
+racing,Additive-Fixed,1,18,150018,Success (Reached Max Time),3.075893475566909,101
+racing,Additive-Fixed,1,19,150019,Success (Reached Max Time),3.192698285070894,102
+racing,Additive-Fixed,1,20,150020,Success (Reached Max Time),3.152264665128142,102
+racing,Additive-Fixed,1,21,150021,Success (Reached Max Time),2.8683324286864833,101
+racing,Additive-Fixed,1,22,150022,Success (Reached Max Time),3.129279436111287,102
+racing,Additive-Fixed,1,23,150023,Success (Reached Max Time),3.112096415145924,102
+racing,Additive-Fixed,1,24,150024,Success (Reached Max Time),3.37261135429545,102
+racing,Additive-Fixed,1,25,150025,Success (Reached Max Time),3.0756330203351454,101
+racing,Additive-Fixed,1,26,150026,Success (Reached Max Time),2.8267392605045583,101
+racing,Additive-Fixed,1,27,150027,Collision (Crash),2.838003937991097,27
+racing,Additive-Fixed,1,28,150028,Success (Reached Max Time),3.1632748506085258,102
+racing,Additive-Fixed,1,29,150029,Success (Reached Max Time),3.1477479702492084,102
+racing,Additive-Fixed,1,30,150030,Success (Reached Max Time),2.856106179286586,102
+racing,Additive-Fixed,1,31,150031,Collision (Crash),3.6996513558926583,86
+racing,Additive-Fixed,1,32,150032,Success (Reached Max Time),3.4885152850566423,102
+racing,Additive-Fixed,1,33,150033,Collision (Crash),2.895777907168713,2
+racing,Additive-Fixed,1,34,150034,Success (Reached Max Time),3.2540631752311064,102
+racing,Additive-Fixed,1,35,150035,Success (Reached Max Time),2.7196446991311958,101
+racing,Additive-Fixed,1,36,150036,Collision (Crash),3.8796756010207387,14
+racing,Additive-Fixed,1,37,150037,Collision (Crash),3.5109524318636662,86
+racing,Additive-Fixed,1,38,150038,Collision (Crash),2.7031169112344506,39
+racing,Additive-Fixed,1,39,150039,Success (Reached Max Time),3.074106294460567,102
+racing,Additive-Fixed,1,40,150040,Success (Reached Max Time),2.929212336087126,101
+racing,Additive-Fixed,1,41,150041,Success (Reached Max Time),3.1542600051251717,102
+racing,Additive-Fixed,1,42,150042,Success (Reached Max Time),3.2070595623314593,102
+racing,Additive-Fixed,1,43,150043,Collision (Crash),3.235087876484556,1
+racing,Additive-Fixed,1,44,150044,Success (Reached Max Time),3.390738474209816,102
+racing,Additive-Fixed,1,45,150045,Success (Reached Max Time),2.8978283125481443,101
+racing,Additive-Fixed,1,46,150046,Success (Reached Max Time),3.2060180590924987,102
+racing,Additive-Fixed,1,47,150047,Success (Reached Max Time),3.0587139090482016,102
+racing,Additive-Fixed,1,48,150048,Success (Reached Max Time),3.779676203371332,102
+racing,Additive-Fixed,1,49,150049,Collision (Crash),3.242853975869206,94
+racing,Additive-Fixed,2,0,150000,Success (Reached Max Time),2.9749753866503763,85
+racing,Additive-Fixed,2,1,150001,Success (Reached Max Time),3.3248507012364485,85
+racing,Additive-Fixed,2,2,150002,Success (Reached Max Time),3.0070247319800236,86
+racing,Additive-Fixed,2,3,150003,Success (Reached Max Time),3.442626464742831,87
+racing,Additive-Fixed,2,4,150004,Collision (Crash),5.71767821387089,82
+racing,Additive-Fixed,2,5,150005,Success (Reached Max Time),3.0104896433853865,87
+racing,Additive-Fixed,2,6,150006,Success (Reached Max Time),3.614254848081454,86
+racing,Additive-Fixed,2,7,150007,Success (Reached Max Time),4.04880449414331,87
+racing,Additive-Fixed,2,8,150008,Collision (Crash),3.031525206776228,5
+racing,Additive-Fixed,2,9,150009,Success (Reached Max Time),2.9777933539596932,84
+racing,Additive-Fixed,2,10,150010,Collision (Crash),2.6137646537839903,51
+racing,Additive-Fixed,2,11,150011,Success (Reached Max Time),3.045401470630169,86
+racing,Additive-Fixed,2,12,150012,Success (Reached Max Time),2.911709107918646,85
+racing,Additive-Fixed,2,13,150013,Success (Reached Max Time),2.404389956974479,84
+racing,Additive-Fixed,2,14,150014,Success (Reached Max Time),3.143224044914322,85
+racing,Additive-Fixed,2,15,150015,Success (Reached Max Time),3.496222802517176,87
+racing,Additive-Fixed,2,16,150016,Success (Reached Max Time),3.1543516544298527,87
+racing,Additive-Fixed,2,17,150017,Success (Reached Max Time),3.869650245702278,87
+racing,Additive-Fixed,2,18,150018,Success (Reached Max Time),2.973095963711063,85
+racing,Additive-Fixed,2,19,150019,Success (Reached Max Time),2.9581548777308213,85
+racing,Additive-Fixed,2,20,150020,Success (Reached Max Time),3.0916473236528423,85
+racing,Additive-Fixed,2,21,150021,Success (Reached Max Time),2.7149764848530578,87
+racing,Additive-Fixed,2,22,150022,Success (Reached Max Time),2.8752884179625227,85
+racing,Additive-Fixed,2,23,150023,Success (Reached Max Time),2.611095616958181,84
+racing,Additive-Fixed,2,24,150024,Collision (Crash),2.603543855464535,46
+racing,Additive-Fixed,2,25,150025,Success (Reached Max Time),3.2785971631300614,86
+racing,Additive-Fixed,2,26,150026,Success (Reached Max Time),3.9239192657300412,87
+racing,Additive-Fixed,2,27,150027,Collision (Crash),2.460853223547004,69
+racing,Additive-Fixed,2,28,150028,Success (Reached Max Time),2.8198207904895507,84
+racing,Additive-Fixed,2,29,150029,Success (Reached Max Time),2.5022780196565564,84
+racing,Additive-Fixed,2,30,150030,Success (Reached Max Time),2.89137975397961,85
+racing,Additive-Fixed,2,31,150031,Collision (Oversteering Spin),2.312156768826213,77
+racing,Additive-Fixed,2,32,150032,Success (Reached Max Time),2.6483873719494,86
+racing,Additive-Fixed,2,33,150033,Collision (Crash),2.817431884639526,15
+racing,Additive-Fixed,2,34,150034,Success (Reached Max Time),2.8392345065729865,84
+racing,Additive-Fixed,2,35,150035,Success (Reached Max Time),3.490142966789363,86
+racing,Additive-Fixed,2,36,150036,Success (Reached Max Time),3.2223922616913416,84
+racing,Additive-Fixed,2,37,150037,Collision (Crash),2.13663578586811,47
+racing,Additive-Fixed,2,38,150038,Success (Reached Max Time),3.082290582205664,85
+racing,Additive-Fixed,2,39,150039,Success (Reached Max Time),3.20097319207031,84
+racing,Additive-Fixed,2,40,150040,Collision (Crash),2.30540921866523,22
+racing,Additive-Fixed,2,41,150041,Success (Reached Max Time),3.252198364285431,85
+racing,Additive-Fixed,2,42,150042,Success (Reached Max Time),2.5262135114934923,86
+racing,Additive-Fixed,2,43,150043,Success (Reached Max Time),2.8756350689160675,84
+racing,Additive-Fixed,2,44,150044,Success (Reached Max Time),3.369674682099068,85
+racing,Additive-Fixed,2,45,150045,Success (Reached Max Time),3.6595245099264453,87
+racing,Additive-Fixed,2,46,150046,Success (Reached Max Time),3.2023317190686407,86
+racing,Additive-Fixed,2,47,150047,Success (Reached Max Time),2.9220626267429477,85
+racing,Additive-Fixed,2,48,150048,Collision (Crash),4.101365559534287,62
+racing,Additive-Fixed,2,49,150049,Success (Reached Max Time),2.8421671414977823,84
+racing,Additive-Fixed,3,0,150000,Collision (Crash),3.085367852376537,41
+racing,Additive-Fixed,3,1,150001,Success (Reached Max Time),2.9269926916124254,97
+racing,Additive-Fixed,3,2,150002,Success (Reached Max Time),3.737649990539063,99
+racing,Additive-Fixed,3,3,150003,Success (Reached Max Time),3.6931205763278467,98
+racing,Additive-Fixed,3,4,150004,Success (Reached Max Time),4.193814778496817,99
+racing,Additive-Fixed,3,5,150005,Collision (Crash),4.356561579601318,14
+racing,Additive-Fixed,3,6,150006,Success (Reached Max Time),3.4657140105443287,97
+racing,Additive-Fixed,3,7,150007,Success (Reached Max Time),3.487080203067914,97
+racing,Additive-Fixed,3,8,150008,Collision (Crash),4.15729009127697,26
+racing,Additive-Fixed,3,9,150009,Success (Reached Max Time),3.6197375976111545,99
+racing,Additive-Fixed,3,10,150010,Success (Reached Max Time),2.3696519229821096,98
+racing,Additive-Fixed,3,11,150011,Success (Reached Max Time),4.048774933928503,99
+racing,Additive-Fixed,3,12,150012,Collision (Crash),4.184186011771875,32
+racing,Additive-Fixed,3,13,150013,Success (Reached Max Time),3.8435037967880605,99
+racing,Additive-Fixed,3,14,150014,Success (Reached Max Time),3.343517120788181,97
+racing,Additive-Fixed,3,15,150015,Success (Reached Max Time),4.373435929658559,99
+racing,Additive-Fixed,3,16,150016,Success (Reached Max Time),3.5322646948025453,98
+racing,Additive-Fixed,3,17,150017,Success (Reached Max Time),3.343610875779052,96
+racing,Additive-Fixed,3,18,150018,Success (Reached Max Time),3.5437359290021266,99
+racing,Additive-Fixed,3,19,150019,Success (Reached Max Time),3.271207767001662,99
+racing,Additive-Fixed,3,20,150020,Success (Reached Max Time),3.063666545605937,98
+racing,Additive-Fixed,3,21,150021,Success (Reached Max Time),3.1184007794644804,97
+racing,Additive-Fixed,3,22,150022,Success (Reached Max Time),4.179281834031207,99
+racing,Additive-Fixed,3,23,150023,Success (Reached Max Time),3.282248463636718,98
+racing,Additive-Fixed,3,24,150024,Success (Reached Max Time),3.8709799410584758,98
+racing,Additive-Fixed,3,25,150025,Success (Reached Max Time),3.567590187942395,97
+racing,Additive-Fixed,3,26,150026,Success (Reached Max Time),4.189390929795921,99
+racing,Additive-Fixed,3,27,150027,Success (Reached Max Time),3.3906347840666298,98
+racing,Additive-Fixed,3,28,150028,Success (Reached Max Time),3.3042367622892255,98
+racing,Additive-Fixed,3,29,150029,Collision (Crash),4.217010518730895,14
+racing,Additive-Fixed,3,30,150030,Collision (Crash),4.115557983099467,38
+racing,Additive-Fixed,3,31,150031,Success (Reached Max Time),3.5092726088109543,97
+racing,Additive-Fixed,3,32,150032,Success (Reached Max Time),2.90589702119069,97
+racing,Additive-Fixed,3,33,150033,Success (Reached Max Time),3.4701791962439423,99
+racing,Additive-Fixed,3,34,150034,Success (Reached Max Time),4.161353308201738,99
+racing,Additive-Fixed,3,35,150035,Undershoot Turn (轉向不足),4.068001198256357,32
+racing,Additive-Fixed,3,36,150036,Collision (Crash),3.6454684390633685,8
+racing,Additive-Fixed,3,37,150037,Success (Reached Max Time),3.9442184877170963,99
+racing,Additive-Fixed,3,38,150038,Collision (Crash),3.7455625134031396,92
+racing,Additive-Fixed,3,39,150039,Success (Reached Max Time),3.9866172084212157,99
+racing,Additive-Fixed,3,40,150040,Success (Reached Max Time),3.541746387200456,98
+racing,Additive-Fixed,3,41,150041,Success (Reached Max Time),3.826961673075321,98
+racing,Additive-Fixed,3,42,150042,Success (Reached Max Time),3.3736537987486184,96
+racing,Additive-Fixed,3,43,150043,Success (Reached Max Time),3.4008807106629573,98
+racing,Additive-Fixed,3,44,150044,Collision (Crash),3.7872951409240057,86
+racing,Additive-Fixed,3,45,150045,Collision (Crash),4.1219738073715835,86
+racing,Additive-Fixed,3,46,150046,Success (Reached Max Time),3.14087027475833,97
+racing,Additive-Fixed,3,47,150047,Success (Reached Max Time),3.76846949338697,99
+racing,Additive-Fixed,3,48,150048,Success (Reached Max Time),3.417729242486261,98
+racing,Additive-Fixed,3,49,150049,Success (Reached Max Time),3.3914485013169537,97
+racing,Additive-Fixed,4,0,150000,Success (Reached Max Time),3.516042024153529,111
+racing,Additive-Fixed,4,1,150001,Success (Reached Max Time),3.074293242975015,111
+racing,Additive-Fixed,4,2,150002,Success (Reached Max Time),4.220144390734081,111
+racing,Additive-Fixed,4,3,150003,Collision (Crash),4.120242851095439,26
+racing,Additive-Fixed,4,4,150004,Success (Reached Max Time),4.188402012264723,111
+racing,Additive-Fixed,4,5,150005,Collision (Crash),3.9852989102953718,74
+racing,Additive-Fixed,4,6,150006,Success (Reached Max Time),4.045974089272919,111
+racing,Additive-Fixed,4,7,150007,Success (Reached Max Time),3.5057116616975175,111
+racing,Additive-Fixed,4,8,150008,Collision (Crash),3.160850791931954,87
+racing,Additive-Fixed,4,9,150009,Collision (Crash),4.112315959981928,14
+racing,Additive-Fixed,4,10,150010,Success (Reached Max Time),4.16996440542742,110
+racing,Additive-Fixed,4,11,150011,Success (Reached Max Time),4.264978372830225,111
+racing,Additive-Fixed,4,12,150012,Success (Reached Max Time),4.07014798958654,111
+racing,Additive-Fixed,4,13,150013,Success (Reached Max Time),3.395383175761177,111
+racing,Additive-Fixed,4,14,150014,Collision (Crash),3.7036512244896724,10
+racing,Additive-Fixed,4,15,150015,Collision (Crash),4.121139133999116,13
+racing,Additive-Fixed,4,16,150016,Collision (Oversteering Spin),2.2385900115851314,16
+racing,Additive-Fixed,4,17,150017,Success (Reached Max Time),3.62374989088105,110
+racing,Additive-Fixed,4,18,150018,Success (Reached Max Time),3.8332086761698707,111
+racing,Additive-Fixed,4,19,150019,Success (Reached Max Time),3.959305966109837,111
+racing,Additive-Fixed,4,20,150020,Success (Reached Max Time),3.5113986008065083,111
+racing,Additive-Fixed,4,21,150021,Collision (Crash),4.03774219775357,20
+racing,Additive-Fixed,4,22,150022,Success (Reached Max Time),3.733711271690417,111
+racing,Additive-Fixed,4,23,150023,Success (Reached Max Time),3.047999536372147,112
+racing,Additive-Fixed,4,24,150024,Success (Reached Max Time),3.723360832564521,111
+racing,Additive-Fixed,4,25,150025,Collision (Crash),3.380479438124667,21
+racing,Additive-Fixed,4,26,150026,Success (Reached Max Time),4.096347386938215,111
+racing,Additive-Fixed,4,27,150027,Collision (Crash),3.468840371519135,51
+racing,Additive-Fixed,4,28,150028,Success (Reached Max Time),3.7189324355617046,111
+racing,Additive-Fixed,4,29,150029,Collision (Crash),4.6071487151063915,63
+racing,Additive-Fixed,4,30,150030,Success (Reached Max Time),3.3015913558589634,111
+racing,Additive-Fixed,4,31,150031,Undershoot Turn (轉向不足),2.362775158753668,25
+racing,Additive-Fixed,4,32,150032,Success (Reached Max Time),4.197898437577854,110
+racing,Additive-Fixed,4,33,150033,Collision (Crash),4.183729924396704,96
+racing,Additive-Fixed,4,34,150034,Success (Reached Max Time),4.088814618934919,111
+racing,Additive-Fixed,4,35,150035,Success (Reached Max Time),3.5780034803989933,111
+racing,Additive-Fixed,4,36,150036,Success (Reached Max Time),3.4344594134495092,111
+racing,Additive-Fixed,4,37,150037,Success (Reached Max Time),4.070801138151792,110
+racing,Additive-Fixed,4,38,150038,Success (Reached Max Time),3.458778385140433,111
+racing,Additive-Fixed,4,39,150039,Success (Reached Max Time),3.527994095860579,111
+racing,Additive-Fixed,4,40,150040,Collision (Crash),4.434664761320219,74
+racing,Additive-Fixed,4,41,150041,Success (Reached Max Time),3.9358514004989136,110
+racing,Additive-Fixed,4,42,150042,Success (Reached Max Time),3.860496154102439,111
+racing,Additive-Fixed,4,43,150043,Success (Reached Max Time),4.0670751996099215,111
+racing,Additive-Fixed,4,44,150044,Collision (Crash),3.0714100537499296,8
+racing,Additive-Fixed,4,45,150045,Success (Reached Max Time),3.8391719979065284,109
+racing,Additive-Fixed,4,46,150046,Success (Reached Max Time),3.3944072791394473,111
+racing,Additive-Fixed,4,47,150047,Success (Reached Max Time),4.055647013935047,110
+racing,Additive-Fixed,4,48,150048,Success (Reached Max Time),3.889169291368208,109
+racing,Additive-Fixed,4,49,150049,Success (Reached Max Time),4.3463194344813365,109
+racing,Additive-Fixed,5,0,150000,Success (Reached Max Time),3.611751072257353,96
+racing,Additive-Fixed,5,1,150001,Success (Reached Max Time),3.237196272383854,96
+racing,Additive-Fixed,5,2,150002,Success (Reached Max Time),3.6051537102635,96
+racing,Additive-Fixed,5,3,150003,Success (Reached Max Time),3.5279131149497482,98
+racing,Additive-Fixed,5,4,150004,Collision (Crash),3.0662369190520695,65
+racing,Additive-Fixed,5,5,150005,Success (Reached Max Time),3.709555894595227,97
+racing,Additive-Fixed,5,6,150006,Success (Reached Max Time),3.5992151447611533,96
+racing,Additive-Fixed,5,7,150007,Success (Reached Max Time),3.3418542614780087,97
+racing,Additive-Fixed,5,8,150008,Collision (Oversteering Spin),5.901282901679568,23
+racing,Additive-Fixed,5,9,150009,Success (Reached Max Time),3.124078151716723,96
+racing,Additive-Fixed,5,10,150010,Success (Reached Max Time),3.9144816824460738,97
+racing,Additive-Fixed,5,11,150011,Collision (Crash),2.762597281832636,64
+racing,Additive-Fixed,5,12,150012,Success (Reached Max Time),3.43125347298787,96
+racing,Additive-Fixed,5,13,150013,Success (Reached Max Time),3.4433928769408295,97
+racing,Additive-Fixed,5,14,150014,Success (Reached Max Time),3.453524613475161,96
+racing,Additive-Fixed,5,15,150015,Success (Reached Max Time),3.370853321715046,98
+racing,Additive-Fixed,5,16,150016,Success (Reached Max Time),3.573276054148213,97
+racing,Additive-Fixed,5,17,150017,Success (Reached Max Time),3.742926502708702,97
+racing,Additive-Fixed,5,18,150018,Success (Reached Max Time),3.5841587498711442,96
+racing,Additive-Fixed,5,19,150019,Success (Reached Max Time),3.4365676022461216,97
+racing,Additive-Fixed,5,20,150020,Success (Reached Max Time),3.1215951222697957,96
+racing,Additive-Fixed,5,21,150021,Success (Reached Max Time),3.6392764222681087,97
+racing,Additive-Fixed,5,22,150022,Success (Reached Max Time),3.351292869940956,97
+racing,Additive-Fixed,5,23,150023,Collision (Crash),2.932292092332115,69
+racing,Additive-Fixed,5,24,150024,Success (Reached Max Time),3.6492991170894205,96
+racing,Additive-Fixed,5,25,150025,Collision (Crash),2.886419376211515,59
+racing,Additive-Fixed,5,26,150026,Success (Reached Max Time),3.190128849506734,96
+racing,Additive-Fixed,5,27,150027,Success (Reached Max Time),3.8185438827614497,97
+racing,Additive-Fixed,5,28,150028,Success (Reached Max Time),3.758798981989646,96
+racing,Additive-Fixed,5,29,150029,Success (Reached Max Time),3.771741993258336,97
+racing,Additive-Fixed,5,30,150030,Success (Reached Max Time),3.5267421377556474,96
+racing,Additive-Fixed,5,31,150031,Success (Reached Max Time),3.7706728951981887,96
+racing,Additive-Fixed,5,32,150032,Collision (Crash),3.0396559996336827,23
+racing,Additive-Fixed,5,33,150033,Success (Reached Max Time),3.1230829313012944,96
+racing,Additive-Fixed,5,34,150034,Success (Reached Max Time),3.7720482260828025,96
+racing,Additive-Fixed,5,35,150035,Success (Reached Max Time),3.603562498242127,96
+racing,Additive-Fixed,5,36,150036,Success (Reached Max Time),2.981758896548357,96
+racing,Additive-Fixed,5,37,150037,Success (Reached Max Time),3.789187284987713,96
+racing,Additive-Fixed,5,38,150038,Success (Reached Max Time),2.874059941858083,95
+racing,Additive-Fixed,5,39,150039,Collision (Crash),3.6547191599646736,8
+racing,Additive-Fixed,5,40,150040,Success (Reached Max Time),3.520908939075295,97
+racing,Additive-Fixed,5,41,150041,Collision (Crash),4.278738922270525,63
+racing,Additive-Fixed,5,42,150042,Success (Reached Max Time),3.868212346672255,97
+racing,Additive-Fixed,5,43,150043,Success (Reached Max Time),3.7217492698952994,96
+racing,Additive-Fixed,5,44,150044,Collision (Crash),3.143696160732406,2
+racing,Additive-Fixed,5,45,150045,Success (Reached Max Time),3.9405610312525465,96
+racing,Additive-Fixed,5,46,150046,Success (Reached Max Time),3.639220730007609,96
+racing,Additive-Fixed,5,47,150047,Collision (Oversteering Spin),2.5892163014687775,6
+racing,Additive-Fixed,5,48,150048,Success (Reached Max Time),3.5529977259571353,99
+racing,Additive-Fixed,5,49,150049,Success (Reached Max Time),3.8165092589230314,96
+racing,Additive-Fixed,6,0,150000,Success (Reached Max Time),3.4579044741931746,105
+racing,Additive-Fixed,6,1,150001,Success (Reached Max Time),3.918762315539267,105
+racing,Additive-Fixed,6,2,150002,Success (Reached Max Time),3.6264152083762635,102
+racing,Additive-Fixed,6,3,150003,Collision (Crash),3.6419021323464422,29
+racing,Additive-Fixed,6,4,150004,Success (Reached Max Time),3.544132304793061,105
+racing,Additive-Fixed,6,5,150005,Success (Reached Max Time),3.380468295203773,105
+racing,Additive-Fixed,6,6,150006,Success (Reached Max Time),3.0850345395779937,103
+racing,Additive-Fixed,6,7,150007,Collision (Crash),3.273789239113832,15
+racing,Additive-Fixed,6,8,150008,Success (Reached Max Time),2.876941129510539,103
+racing,Additive-Fixed,6,9,150009,Success (Reached Max Time),3.1864449251688627,103
+racing,Additive-Fixed,6,10,150010,Success (Reached Max Time),2.9887566881105756,103
+racing,Additive-Fixed,6,11,150011,Collision (Crash),2.846250806975488,29
+racing,Additive-Fixed,6,12,150012,Success (Reached Max Time),3.161319637748593,103
+racing,Additive-Fixed,6,13,150013,Success (Reached Max Time),3.171060795240941,103
+racing,Additive-Fixed,6,14,150014,Out of Bounds (Normal Flight),3.4720018787923808,10
+racing,Additive-Fixed,6,15,150015,Success (Reached Max Time),3.9046801592426896,105
+racing,Additive-Fixed,6,16,150016,Success (Reached Max Time),3.4113203496828666,103
+racing,Additive-Fixed,6,17,150017,Collision (Crash),2.9427257040236405,97
+racing,Additive-Fixed,6,18,150018,Collision (Oversteering Spin),5.409212145015935,74
+racing,Additive-Fixed,6,19,150019,Success (Reached Max Time),3.379679197734455,102
+racing,Additive-Fixed,6,20,150020,Success (Reached Max Time),3.099610302192398,103
+racing,Additive-Fixed,6,21,150021,Collision (Crash),3.9238500474947346,98
+racing,Additive-Fixed,6,22,150022,Collision (Crash),3.16549064473338,29
+racing,Additive-Fixed,6,23,150023,Collision (Crash),3.22404495337748,11
+racing,Additive-Fixed,6,24,150024,Success (Reached Max Time),3.369441627458022,103
+racing,Additive-Fixed,6,25,150025,Success (Reached Max Time),3.9162685747728485,105
+racing,Additive-Fixed,6,26,150026,Success (Reached Max Time),3.7251986658107574,105
+racing,Additive-Fixed,6,27,150027,Success (Reached Max Time),3.1483211512703435,102
+racing,Additive-Fixed,6,28,150028,Success (Reached Max Time),3.7307439475479955,104
+racing,Additive-Fixed,6,29,150029,Success (Reached Max Time),3.2562349317537476,102
+racing,Additive-Fixed,6,30,150030,Collision (Crash),3.194608487932124,29
+racing,Additive-Fixed,6,31,150031,Collision (Crash),3.303727500145741,23
+racing,Additive-Fixed,6,32,150032,Success (Reached Max Time),3.3660849826778305,104
+racing,Additive-Fixed,6,33,150033,Success (Reached Max Time),3.4593446170723468,102
+racing,Additive-Fixed,6,34,150034,Success (Reached Max Time),3.7312372717330997,105
+racing,Additive-Fixed,6,35,150035,Success (Reached Max Time),3.223526868368689,104
+racing,Additive-Fixed,6,36,150036,Success (Reached Max Time),3.5807824320934714,102
+racing,Additive-Fixed,6,37,150037,Collision (Crash),3.3433308747607264,21
+racing,Additive-Fixed,6,38,150038,Collision (Crash),2.8259124318237476,35
+racing,Additive-Fixed,6,39,150039,Collision (Crash),4.336548743409439,26
+racing,Additive-Fixed,6,40,150040,Success (Reached Max Time),2.7672994809480898,103
+racing,Additive-Fixed,6,41,150041,Success (Reached Max Time),3.382300580153935,102
+racing,Additive-Fixed,6,42,150042,Success (Reached Max Time),3.6428347094520355,104
+racing,Additive-Fixed,6,43,150043,Success (Reached Max Time),3.0016922102681733,104
+racing,Additive-Fixed,6,44,150044,Collision (Crash),3.2819540634475977,28
+racing,Additive-Fixed,6,45,150045,Success (Reached Max Time),3.0108441371669,103
+racing,Additive-Fixed,6,46,150046,Collision (Crash),3.3464017913808117,75
+racing,Additive-Fixed,6,47,150047,Collision (Crash),3.4166791810109722,73
+racing,Additive-Fixed,6,48,150048,Success (Reached Max Time),3.253209690409991,102
+racing,Additive-Fixed,6,49,150049,Success (Reached Max Time),3.838768187073928,105
+racing,Additive-Fixed,7,0,150000,Success (Reached Max Time),3.4683565162688503,112
+racing,Additive-Fixed,7,1,150001,Success (Reached Max Time),2.955688401942903,113
+racing,Additive-Fixed,7,2,150002,Success (Reached Max Time),2.978474790217517,112
+racing,Additive-Fixed,7,3,150003,Success (Reached Max Time),4.093667578484013,111
+racing,Additive-Fixed,7,4,150004,Success (Reached Max Time),3.098541295390563,113
+racing,Additive-Fixed,7,5,150005,Collision (Crash),3.1733827085739588,45
+racing,Additive-Fixed,7,6,150006,Success (Reached Max Time),3.972856143296841,111
+racing,Additive-Fixed,7,7,150007,Success (Reached Max Time),4.195700201248035,111
+racing,Additive-Fixed,7,8,150008,Success (Reached Max Time),4.208520940491789,111
+racing,Additive-Fixed,7,9,150009,Success (Reached Max Time),3.6741367996145575,111
+racing,Additive-Fixed,7,10,150010,Success (Reached Max Time),3.6297622045584306,111
+racing,Additive-Fixed,7,11,150011,Success (Reached Max Time),2.8488558093709444,112
+racing,Additive-Fixed,7,12,150012,Success (Reached Max Time),4.36422132206827,111
+racing,Additive-Fixed,7,13,150013,Collision (Crash),3.32720697186538,45
+racing,Additive-Fixed,7,14,150014,Success (Reached Max Time),4.095299560411661,111
+racing,Additive-Fixed,7,15,150015,Collision (Oversteering Spin),2.607697140533279,28
+racing,Additive-Fixed,7,16,150016,Success (Reached Max Time),3.888814325939674,110
+racing,Additive-Fixed,7,17,150017,Success (Reached Max Time),3.1120786250476438,113
+racing,Additive-Fixed,7,18,150018,Success (Reached Max Time),2.6788798528482958,112
+racing,Additive-Fixed,7,19,150019,Collision (Crash),3.5362179800637534,81
+racing,Additive-Fixed,7,20,150020,Success (Reached Max Time),2.962297293464,113
+racing,Additive-Fixed,7,21,150021,Success (Reached Max Time),3.0275505969626675,113
+racing,Additive-Fixed,7,22,150022,Collision (Crash),3.2161839682861437,39
+racing,Additive-Fixed,7,23,150023,Success (Reached Max Time),3.4607951099697707,111
+racing,Additive-Fixed,7,24,150024,Success (Reached Max Time),3.6474466441628484,111
+racing,Additive-Fixed,7,25,150025,Success (Reached Max Time),3.067684848912076,112
+racing,Additive-Fixed,7,26,150026,Success (Reached Max Time),4.405973127029276,111
+racing,Additive-Fixed,7,27,150027,Success (Reached Max Time),3.0698084873495723,112
+racing,Additive-Fixed,7,28,150028,Success (Reached Max Time),3.1297675834772476,112
+racing,Additive-Fixed,7,29,150029,Collision (Crash),2.957789124533795,16
+racing,Additive-Fixed,7,30,150030,Success (Reached Max Time),3.3033745196766824,113
+racing,Additive-Fixed,7,31,150031,Success (Reached Max Time),3.709713936030695,111
+racing,Additive-Fixed,7,32,150032,Collision (Crash),3.5284283179279017,90
+racing,Additive-Fixed,7,33,150033,Success (Reached Max Time),2.8083436326892657,112
+racing,Additive-Fixed,7,34,150034,Success (Reached Max Time),3.513171589294678,111
+racing,Additive-Fixed,7,35,150035,Success (Reached Max Time),3.1490168945675503,112
+racing,Additive-Fixed,7,36,150036,Collision (Crash),4.061282790656137,26
+racing,Additive-Fixed,7,37,150037,Success (Reached Max Time),2.65751203094662,112
+racing,Additive-Fixed,7,38,150038,Collision (Crash),4.599228351089501,8
+racing,Additive-Fixed,7,39,150039,Success (Reached Max Time),3.32342605073879,112
+racing,Additive-Fixed,7,40,150040,Success (Reached Max Time),2.7871677600664335,112
+racing,Additive-Fixed,7,41,150041,Success (Reached Max Time),3.31327526314635,114
+racing,Additive-Fixed,7,42,150042,Success (Reached Max Time),2.8024113173473206,112
+racing,Additive-Fixed,7,43,150043,Success (Reached Max Time),4.355865157989266,111
+racing,Additive-Fixed,7,44,150044,Success (Reached Max Time),3.242549511198344,112
+racing,Additive-Fixed,7,45,150045,Success (Reached Max Time),3.113338285699654,112
+racing,Additive-Fixed,7,46,150046,Success (Reached Max Time),3.7268565076477644,111
+racing,Additive-Fixed,7,47,150047,Success (Reached Max Time),4.126992314028662,111
+racing,Additive-Fixed,7,48,150048,Collision (Crash),3.0827925476830504,9
+racing,Additive-Fixed,7,49,150049,Success (Reached Max Time),3.0423751380167126,113
+racing,Additive-Fixed,8,0,150000,Success (Reached Max Time),3.1654868013435076,96
+racing,Additive-Fixed,8,1,150001,Success (Reached Max Time),3.27345871994381,96
+racing,Additive-Fixed,8,2,150002,Success (Reached Max Time),3.710165552544614,96
+racing,Additive-Fixed,8,3,150003,Success (Reached Max Time),3.443928724172684,97
+racing,Additive-Fixed,8,4,150004,Success (Reached Max Time),3.437415499575394,97
+racing,Additive-Fixed,8,5,150005,Success (Reached Max Time),3.507023323361875,99
+racing,Additive-Fixed,8,6,150006,Success (Reached Max Time),3.046712729269578,96
+racing,Additive-Fixed,8,7,150007,Success (Reached Max Time),3.104642841479706,98
+racing,Additive-Fixed,8,8,150008,Success (Reached Max Time),3.670194840817814,97
+racing,Additive-Fixed,8,9,150009,Success (Reached Max Time),3.1004808757518236,98
+racing,Additive-Fixed,8,10,150010,Success (Reached Max Time),3.3595681500160137,97
+racing,Additive-Fixed,8,11,150011,Success (Reached Max Time),3.3892685962212212,98
+racing,Additive-Fixed,8,12,150012,Collision (Crash),4.0576919245268455,80
+racing,Additive-Fixed,8,13,150013,Success (Reached Max Time),3.3458411777501764,97
+racing,Additive-Fixed,8,14,150014,Success (Reached Max Time),3.421754077738494,97
+racing,Additive-Fixed,8,15,150015,Success (Reached Max Time),3.5158549742042426,97
+racing,Additive-Fixed,8,16,150016,Success (Reached Max Time),3.1810134237260117,97
+racing,Additive-Fixed,8,17,150017,Success (Reached Max Time),3.2208202747473456,97
+racing,Additive-Fixed,8,18,150018,Success (Reached Max Time),3.687711132525873,98
+racing,Additive-Fixed,8,19,150019,Success (Reached Max Time),3.4592538842260794,97
+racing,Additive-Fixed,8,20,150020,Collision (Crash),4.032279033880617,26
+racing,Additive-Fixed,8,21,150021,Success (Reached Max Time),3.5219469232529823,96
+racing,Additive-Fixed,8,22,150022,Success (Reached Max Time),3.5721460170812698,98
+racing,Additive-Fixed,8,23,150023,Success (Reached Max Time),3.2490206874496343,98
+racing,Additive-Fixed,8,24,150024,Success (Reached Max Time),3.279547347065488,98
+racing,Additive-Fixed,8,25,150025,Success (Reached Max Time),3.380647079541786,97
+racing,Additive-Fixed,8,26,150026,Success (Reached Max Time),3.099793811850372,97
+racing,Additive-Fixed,8,27,150027,Success (Reached Max Time),3.4140177525717093,98
+racing,Additive-Fixed,8,28,150028,Success (Reached Max Time),3.731356201921797,98
+racing,Additive-Fixed,8,29,150029,Success (Reached Max Time),3.432964010312902,96
+racing,Additive-Fixed,8,30,150030,Success (Reached Max Time),3.533201624508362,98
+racing,Additive-Fixed,8,31,150031,Success (Reached Max Time),3.2546663503014064,97
+racing,Additive-Fixed,8,32,150032,Success (Reached Max Time),3.6676296094904157,97
+racing,Additive-Fixed,8,33,150033,Success (Reached Max Time),3.16683344434038,97
+racing,Additive-Fixed,8,34,150034,Collision (Crash),3.4172904619322235,38
+racing,Additive-Fixed,8,35,150035,Success (Reached Max Time),3.390342047441354,97
+racing,Additive-Fixed,8,36,150036,Success (Reached Max Time),3.2612111485171926,97
+racing,Additive-Fixed,8,37,150037,Success (Reached Max Time),3.3331094538643,98
+racing,Additive-Fixed,8,38,150038,Success (Reached Max Time),3.62387519854142,96
+racing,Additive-Fixed,8,39,150039,Success (Reached Max Time),3.073252281632485,97
+racing,Additive-Fixed,8,40,150040,Success (Reached Max Time),3.781264247114705,97
+racing,Additive-Fixed,8,41,150041,Success (Reached Max Time),3.2120783514506455,98
+racing,Additive-Fixed,8,42,150042,Success (Reached Max Time),3.6927859765155158,96
+racing,Additive-Fixed,8,43,150043,Success (Reached Max Time),3.1392267277406005,97
+racing,Additive-Fixed,8,44,150044,Success (Reached Max Time),3.725680732077753,96
+racing,Additive-Fixed,8,45,150045,Success (Reached Max Time),3.774559794771791,99
+racing,Additive-Fixed,8,46,150046,Success (Reached Max Time),3.2612729146696484,98
+racing,Additive-Fixed,8,47,150047,Collision (Crash),3.5721967963821606,20
+racing,Additive-Fixed,8,48,150048,Success (Reached Max Time),3.4988934186666896,96
+racing,Additive-Fixed,8,49,150049,Success (Reached Max Time),3.295423946783806,97
+racing,Additive-Fixed,9,0,150000,Collision (Crash),2.685908763954557,52
+racing,Additive-Fixed,9,1,150001,Success (Reached Max Time),4.128138677723991,109
+racing,Additive-Fixed,9,2,150002,Success (Reached Max Time),4.03017230137313,110
+racing,Additive-Fixed,9,3,150003,Collision (Crash),3.288565306251845,48
+racing,Additive-Fixed,9,4,150004,Success (Reached Max Time),4.73186303374877,111
+racing,Additive-Fixed,9,5,150005,Success (Reached Max Time),4.126381435378933,111
+racing,Additive-Fixed,9,6,150006,Success (Reached Max Time),3.856171153812057,109
+racing,Additive-Fixed,9,7,150007,Success (Reached Max Time),3.8938752882427865,108
+racing,Additive-Fixed,9,8,150008,Success (Reached Max Time),4.060384008047617,109
+racing,Additive-Fixed,9,9,150009,Success (Reached Max Time),4.5440671937827055,111
+racing,Additive-Fixed,9,10,150010,Success (Reached Max Time),3.4430982310100293,108
+racing,Additive-Fixed,9,11,150011,Success (Reached Max Time),4.223730839183497,111
+racing,Additive-Fixed,9,12,150012,Success (Reached Max Time),4.5060044458890625,110
+racing,Additive-Fixed,9,13,150013,Success (Reached Max Time),3.72533231025471,109
+racing,Additive-Fixed,9,14,150014,Success (Reached Max Time),4.577032465502593,111
+racing,Additive-Fixed,9,15,150015,Success (Reached Max Time),4.21157371173376,110
+racing,Additive-Fixed,9,16,150016,Collision (Crash),3.081703783273286,35
+racing,Additive-Fixed,9,17,150017,Success (Reached Max Time),3.6267998731954885,110
+racing,Additive-Fixed,9,18,150018,Success (Reached Max Time),3.1803470690215025,112
+racing,Additive-Fixed,9,19,150019,Success (Reached Max Time),4.457665978506121,111
+racing,Additive-Fixed,9,20,150020,Success (Reached Max Time),3.3648999529550636,111
+racing,Additive-Fixed,9,21,150021,Success (Reached Max Time),3.4986964934204514,108
+racing,Additive-Fixed,9,22,150022,Success (Reached Max Time),4.550212963738826,109
+racing,Additive-Fixed,9,23,150023,Success (Reached Max Time),3.5296000061652966,108
+racing,Additive-Fixed,9,24,150024,Success (Reached Max Time),4.594824845366591,111
+racing,Additive-Fixed,9,25,150025,Success (Reached Max Time),4.55429660931368,111
+racing,Additive-Fixed,9,26,150026,Success (Reached Max Time),4.742730887894751,111
+racing,Additive-Fixed,9,27,150027,Success (Reached Max Time),4.568373724362513,111
+racing,Additive-Fixed,9,28,150028,Success (Reached Max Time),4.464306485373768,111
+racing,Additive-Fixed,9,29,150029,Success (Reached Max Time),3.5848655836871677,109
+racing,Additive-Fixed,9,30,150030,Collision (Crash),4.582002054536934,100
+racing,Additive-Fixed,9,31,150031,Success (Reached Max Time),3.798674403933097,109
+racing,Additive-Fixed,9,32,150032,Success (Reached Max Time),4.144639564124381,111
+racing,Additive-Fixed,9,33,150033,Collision (Crash),2.0973639223091114,53
+racing,Additive-Fixed,9,34,150034,Success (Reached Max Time),4.225332988015229,110
+racing,Additive-Fixed,9,35,150035,Undershoot Turn (轉向不足),2.1143441607094724,77
+racing,Additive-Fixed,9,36,150036,Success (Reached Max Time),4.677130309120729,111
+racing,Additive-Fixed,9,37,150037,Collision (Crash),2.87865847080126,40
+racing,Additive-Fixed,9,38,150038,Success (Reached Max Time),4.091292074620523,110
+racing,Additive-Fixed,9,39,150039,Success (Reached Max Time),3.828981164207085,108
+racing,Additive-Fixed,9,40,150040,Success (Reached Max Time),4.182201065697884,110
+racing,Additive-Fixed,9,41,150041,Success (Reached Max Time),4.654585434259497,111
+racing,Additive-Fixed,9,42,150042,Success (Reached Max Time),3.7169697127540426,111
+racing,Additive-Fixed,9,43,150043,Success (Reached Max Time),4.178471028959173,109
+racing,Additive-Fixed,9,44,150044,Success (Reached Max Time),3.2103272337355055,111
+racing,Additive-Fixed,9,45,150045,Success (Reached Max Time),3.756409099570151,108
+racing,Additive-Fixed,9,46,150046,Success (Reached Max Time),3.8566700582057267,111
+racing,Additive-Fixed,9,47,150047,Success (Reached Max Time),3.9963627544101747,109
+racing,Additive-Fixed,9,48,150048,Success (Reached Max Time),3.6549443629624285,109
+racing,Additive-Fixed,9,49,150049,Success (Reached Max Time),4.048714106077826,109
+racing,Additive-Step,0,0,150000,Success (Reached Max Time),3.29107551321387,108
+racing,Additive-Step,0,1,150001,Collision (Oversteering Spin),3.0722728916420694,21
+racing,Additive-Step,0,2,150002,Success (Reached Max Time),3.215859969211131,108
+racing,Additive-Step,0,3,150003,Success (Reached Max Time),3.3399962258196636,108
+racing,Additive-Step,0,4,150004,Success (Reached Max Time),3.1829117720789744,108
+racing,Additive-Step,0,5,150005,Success (Reached Max Time),3.4912262101783136,108
+racing,Additive-Step,0,6,150006,Success (Reached Max Time),3.8216803465821054,108
+racing,Additive-Step,0,7,150007,Success (Reached Max Time),2.809446207032827,107
+racing,Additive-Step,0,8,150008,Success (Reached Max Time),3.615615860691829,109
+racing,Additive-Step,0,9,150009,Success (Reached Max Time),3.047433326573429,109
+racing,Additive-Step,0,10,150010,Success (Reached Max Time),3.6869582215385717,108
+racing,Additive-Step,0,11,150011,Success (Reached Max Time),3.0872819451823252,108
+racing,Additive-Step,0,12,150012,Success (Reached Max Time),4.035238850036293,108
+racing,Additive-Step,0,13,150013,Collision (Crash),3.32259674849574,9
+racing,Additive-Step,0,14,150014,Success (Reached Max Time),4.086987134574179,110
+racing,Additive-Step,0,15,150015,Success (Reached Max Time),3.6000272014154797,108
+racing,Additive-Step,0,16,150016,Success (Reached Max Time),3.6747145102159995,108
+racing,Additive-Step,0,17,150017,Collision (Crash),3.3018475853114664,45
+racing,Additive-Step,0,18,150018,Success (Reached Max Time),3.407178327835585,108
+racing,Additive-Step,0,19,150019,Success (Reached Max Time),3.607027745429923,110
+racing,Additive-Step,0,20,150020,Success (Reached Max Time),3.0824278814601036,107
+racing,Additive-Step,0,21,150021,Success (Reached Max Time),3.096419917682794,107
+racing,Additive-Step,0,22,150022,Success (Reached Max Time),2.9754713792578453,108
+racing,Additive-Step,0,23,150023,Success (Reached Max Time),3.5525867685421644,108
+racing,Additive-Step,0,24,150024,Success (Reached Max Time),3.2382624096358814,108
+racing,Additive-Step,0,25,150025,Success (Reached Max Time),3.449306227708568,107
+racing,Additive-Step,0,26,150026,Success (Reached Max Time),3.2456338080562435,108
+racing,Additive-Step,0,27,150027,Success (Reached Max Time),3.3420971747726504,108
+racing,Additive-Step,0,28,150028,Success (Reached Max Time),3.61860933405382,108
+racing,Additive-Step,0,29,150029,Success (Reached Max Time),3.582676778752348,108
+racing,Additive-Step,0,30,150030,Success (Reached Max Time),3.663571727289919,108
+racing,Additive-Step,0,31,150031,Success (Reached Max Time),3.6922282182292263,108
+racing,Additive-Step,0,32,150032,Success (Reached Max Time),2.991281928460171,110
+racing,Additive-Step,0,33,150033,Success (Reached Max Time),3.1661226650314083,108
+racing,Additive-Step,0,34,150034,Collision (Crash),4.138635955783233,32
+racing,Additive-Step,0,35,150035,Success (Reached Max Time),3.5113559412853927,108
+racing,Additive-Step,0,36,150036,Success (Reached Max Time),3.686781822577552,108
+racing,Additive-Step,0,37,150037,Success (Reached Max Time),3.8924607648040848,108
+racing,Additive-Step,0,38,150038,Success (Reached Max Time),2.8306225496196493,108
+racing,Additive-Step,0,39,150039,Success (Reached Max Time),3.5792919558503926,108
+racing,Additive-Step,0,40,150040,Success (Reached Max Time),3.5997588238220417,108
+racing,Additive-Step,0,41,150041,Success (Reached Max Time),3.8878633779728524,110
+racing,Additive-Step,0,42,150042,Success (Reached Max Time),3.4441442515904623,108
+racing,Additive-Step,0,43,150043,Success (Reached Max Time),3.729980333909304,110
+racing,Additive-Step,0,44,150044,Success (Reached Max Time),3.6649620773718845,109
+racing,Additive-Step,0,45,150045,Success (Reached Max Time),3.1274357731531106,108
+racing,Additive-Step,0,46,150046,Success (Reached Max Time),3.3967280563244207,108
+racing,Additive-Step,0,47,150047,Success (Reached Max Time),3.6700099954356324,108
+racing,Additive-Step,0,48,150048,Success (Reached Max Time),3.660353498887712,109
+racing,Additive-Step,0,49,150049,Success (Reached Max Time),3.5494095171121933,108
+racing,Additive-Step,1,0,150000,Success (Reached Max Time),2.9584895799863054,96
+racing,Additive-Step,1,1,150001,Success (Reached Max Time),2.8467694192456894,96
+racing,Additive-Step,1,2,150002,Success (Reached Max Time),2.561365097659025,94
+racing,Additive-Step,1,3,150003,Success (Reached Max Time),2.4628063291783433,95
+racing,Additive-Step,1,4,150004,Success (Reached Max Time),2.6357499360746597,94
+racing,Additive-Step,1,5,150005,Success (Reached Max Time),2.710651334072548,95
+racing,Additive-Step,1,6,150006,Success (Reached Max Time),2.5487379513557116,95
+racing,Additive-Step,1,7,150007,Success (Reached Max Time),2.630766470799168,96
+racing,Additive-Step,1,8,150008,Success (Reached Max Time),2.3116100942310123,95
+racing,Additive-Step,1,9,150009,Success (Reached Max Time),2.481425388403213,95
+racing,Additive-Step,1,10,150010,Success (Reached Max Time),3.073640965694559,96
+racing,Additive-Step,1,11,150011,Collision (Crash),3.3789808981586518,2
+racing,Additive-Step,1,12,150012,Success (Reached Max Time),2.564374294053208,95
+racing,Additive-Step,1,13,150013,Success (Reached Max Time),2.720561360925803,95
+racing,Additive-Step,1,14,150014,Success (Reached Max Time),3.316722855237907,96
+racing,Additive-Step,1,15,150015,Success (Reached Max Time),2.935504229943755,94
+racing,Additive-Step,1,16,150016,Success (Reached Max Time),2.720465989565525,95
+racing,Additive-Step,1,17,150017,Success (Reached Max Time),3.0993570914017883,96
+racing,Additive-Step,1,18,150018,Success (Reached Max Time),2.540622291452106,95
+racing,Additive-Step,1,19,150019,Success (Reached Max Time),2.6673970799376305,94
+racing,Additive-Step,1,20,150020,Success (Reached Max Time),2.8285388570762153,95
+racing,Additive-Step,1,21,150021,Success (Reached Max Time),3.4860548646036595,96
+racing,Additive-Step,1,22,150022,Success (Reached Max Time),2.464566658765347,95
+racing,Additive-Step,1,23,150023,Success (Reached Max Time),2.1281026824658476,95
+racing,Additive-Step,1,24,150024,Success (Reached Max Time),2.5835610460383873,95
+racing,Additive-Step,1,25,150025,Success (Reached Max Time),3.26849634754758,96
+racing,Additive-Step,1,26,150026,Success (Reached Max Time),2.8754915730470376,96
+racing,Additive-Step,1,27,150027,Success (Reached Max Time),3.06042037210153,96
+racing,Additive-Step,1,28,150028,Success (Reached Max Time),2.7564551036546403,95
+racing,Additive-Step,1,29,150029,Success (Reached Max Time),2.985654781383093,96
+racing,Additive-Step,1,30,150030,Success (Reached Max Time),2.7324630717973344,95
+racing,Additive-Step,1,31,150031,Success (Reached Max Time),2.7049806576434254,95
+racing,Additive-Step,1,32,150032,Success (Reached Max Time),2.6151831909748045,95
+racing,Additive-Step,1,33,150033,Success (Reached Max Time),2.673964970144833,95
+racing,Additive-Step,1,34,150034,Success (Reached Max Time),2.4663377404527362,95
+racing,Additive-Step,1,35,150035,Success (Reached Max Time),2.343115733659216,95
+racing,Additive-Step,1,36,150036,Success (Reached Max Time),2.8036633372770283,95
+racing,Additive-Step,1,37,150037,Success (Reached Max Time),3.1623717407489904,96
+racing,Additive-Step,1,38,150038,Success (Reached Max Time),2.6010399386494276,96
+racing,Additive-Step,1,39,150039,Success (Reached Max Time),2.9029780666034304,94
+racing,Additive-Step,1,40,150040,Success (Reached Max Time),3.4467696378158794,96
+racing,Additive-Step,1,41,150041,Success (Reached Max Time),2.338871542638087,94
+racing,Additive-Step,1,42,150042,Success (Reached Max Time),2.781541078935334,95
+racing,Additive-Step,1,43,150043,Success (Reached Max Time),3.0525717828777266,96
+racing,Additive-Step,1,44,150044,Success (Reached Max Time),2.861978129682775,94
+racing,Additive-Step,1,45,150045,Success (Reached Max Time),2.811642532955376,95
+racing,Additive-Step,1,46,150046,Success (Reached Max Time),2.6322942830787484,95
+racing,Additive-Step,1,47,150047,Success (Reached Max Time),3.2569874554471205,96
+racing,Additive-Step,1,48,150048,Success (Reached Max Time),3.4840574076469237,96
+racing,Additive-Step,1,49,150049,Success (Reached Max Time),2.711718601698019,93
+racing,Additive-Step,2,0,150000,Success (Reached Max Time),2.0411072366964387,88
+racing,Additive-Step,2,1,150001,Collision (Crash),2.591758017879936,52
+racing,Additive-Step,2,2,150002,Success (Reached Max Time),2.6637016320337596,88
+racing,Additive-Step,2,3,150003,Success (Reached Max Time),2.0484822395028597,88
+racing,Additive-Step,2,4,150004,Success (Reached Max Time),2.97900345384608,87
+racing,Additive-Step,2,5,150005,Success (Reached Max Time),2.448737670644889,87
+racing,Additive-Step,2,6,150006,Collision (Crash),3.2399314706527798,12
+racing,Additive-Step,2,7,150007,Success (Reached Max Time),2.886183103526149,87
+racing,Additive-Step,2,8,150008,Success (Reached Max Time),2.5102929608170075,87
+racing,Additive-Step,2,9,150009,Collision (Crash),2.176249370024656,46
+racing,Additive-Step,2,10,150010,Success (Reached Max Time),2.338487681853588,88
+racing,Additive-Step,2,11,150011,Success (Reached Max Time),2.376245375925422,88
+racing,Additive-Step,2,12,150012,Collision (Crash),3.7255885994467692,14
+racing,Additive-Step,2,13,150013,Collision (Crash),2.9402924507877803,17
+racing,Additive-Step,2,14,150014,Success (Reached Max Time),2.2129993063129594,88
+racing,Additive-Step,2,15,150015,Collision (Crash),2.303073316200263,40
+racing,Additive-Step,2,16,150016,Collision (Crash),2.365261288217792,10
+racing,Additive-Step,2,17,150017,Collision (Crash),2.7303136499094003,42
+racing,Additive-Step,2,18,150018,Success (Reached Max Time),2.3304850335704326,88
+racing,Additive-Step,2,19,150019,Success (Reached Max Time),2.4434741925110934,87
+racing,Additive-Step,2,20,150020,Collision (Crash),3.4381487088244955,6
+racing,Additive-Step,2,21,150021,Success (Reached Max Time),3.4946969434705326,87
+racing,Additive-Step,2,22,150022,Success (Reached Max Time),2.583106164238202,87
+racing,Additive-Step,2,23,150023,Collision (Oversteering Spin),2.42754245885202,11
+racing,Additive-Step,2,24,150024,Success (Reached Max Time),2.3260413341958794,87
+racing,Additive-Step,2,25,150025,Success (Reached Max Time),2.968368293825997,87
+racing,Additive-Step,2,26,150026,Success (Reached Max Time),3.2867514557472646,87
+racing,Additive-Step,2,27,150027,Success (Reached Max Time),2.7575873889440463,87
+racing,Additive-Step,2,28,150028,Success (Reached Max Time),2.044231752004117,88
+racing,Additive-Step,2,29,150029,Success (Reached Max Time),2.2509934025958107,86
+racing,Additive-Step,2,30,150030,Success (Reached Max Time),2.0115795658743645,87
+racing,Additive-Step,2,31,150031,Collision (Crash),2.4842650967187225,40
+racing,Additive-Step,2,32,150032,Success (Reached Max Time),2.0872911733720976,89
+racing,Additive-Step,2,33,150033,Undershoot Turn (轉向不足),2.573521933569857,12
+racing,Additive-Step,2,34,150034,Success (Reached Max Time),2.0824900337439987,88
+racing,Additive-Step,2,35,150035,Collision (Crash),2.5204604375790027,3
+racing,Additive-Step,2,36,150036,Collision (Crash),2.210315027946741,46
+racing,Additive-Step,2,37,150037,Collision (Crash),4.202268869840525,50
+racing,Additive-Step,2,38,150038,Collision (Crash),2.6709979887938347,23
+racing,Additive-Step,2,39,150039,Success (Reached Max Time),2.5562290064827007,87
+racing,Additive-Step,2,40,150040,Collision (Crash),2.973029311833888,15
+racing,Additive-Step,2,41,150041,Collision (Crash),2.485475649845582,22
+racing,Additive-Step,2,42,150042,Collision (Crash),2.043110105498688,7
+racing,Additive-Step,2,43,150043,Undershoot Turn (轉向不足),1.7665066672950573,13
+racing,Additive-Step,2,44,150044,Collision (Crash),2.58856262387831,43
+racing,Additive-Step,2,45,150045,Success (Reached Max Time),2.2892056264369054,87
+racing,Additive-Step,2,46,150046,Collision (Crash),2.1120271927126364,52
+racing,Additive-Step,2,47,150047,Collision (Crash),2.6491948718054172,46
+racing,Additive-Step,2,48,150048,Success (Reached Max Time),3.351878663819518,87
+racing,Additive-Step,2,49,150049,Collision (Crash),2.042377587719895,19
+racing,Additive-Step,3,0,150000,Success (Reached Max Time),3.6090764561542565,98
+racing,Additive-Step,3,1,150001,Success (Reached Max Time),2.6517470652793347,101
+racing,Additive-Step,3,2,150002,Success (Reached Max Time),3.2881881599031115,102
+racing,Additive-Step,3,3,150003,Success (Reached Max Time),2.8981438146465117,101
+racing,Additive-Step,3,4,150004,Success (Reached Max Time),3.438016342020781,99
+racing,Additive-Step,3,5,150005,Success (Reached Max Time),2.3843604255673614,100
+racing,Additive-Step,3,6,150006,Success (Reached Max Time),3.5387720372943927,97
+racing,Additive-Step,3,7,150007,Success (Reached Max Time),2.782946128427277,101
+racing,Additive-Step,3,8,150008,Collision (Crash),4.1499151323807615,75
+racing,Additive-Step,3,9,150009,Success (Reached Max Time),4.195150134506655,99
+racing,Additive-Step,3,10,150010,Success (Reached Max Time),2.2800687302780553,100
+racing,Additive-Step,3,11,150011,Success (Reached Max Time),3.1564823408623592,102
+racing,Additive-Step,3,12,150012,Success (Reached Max Time),3.0934843914817187,101
+racing,Additive-Step,3,13,150013,Success (Reached Max Time),2.798221771519251,101
+racing,Additive-Step,3,14,150014,Success (Reached Max Time),3.1441590721145753,101
+racing,Additive-Step,3,15,150015,Success (Reached Max Time),2.9090582897423434,101
+racing,Additive-Step,3,16,150016,Success (Reached Max Time),3.2680188761129765,99
+racing,Additive-Step,3,17,150017,Success (Reached Max Time),2.8793693027414102,100
+racing,Additive-Step,3,18,150018,Success (Reached Max Time),2.8323244833331835,99
+racing,Additive-Step,3,19,150019,Success (Reached Max Time),2.827081287734593,100
+racing,Additive-Step,3,20,150020,Success (Reached Max Time),3.151270711834722,102
+racing,Additive-Step,3,21,150021,Success (Reached Max Time),2.4657893756078124,100
+racing,Additive-Step,3,22,150022,Success (Reached Max Time),2.4607527965248397,100
+racing,Additive-Step,3,23,150023,Success (Reached Max Time),2.6313632991985076,101
+racing,Additive-Step,3,24,150024,Success (Reached Max Time),2.576820596886783,101
+racing,Additive-Step,3,25,150025,Success (Reached Max Time),3.215756051833546,101
+racing,Additive-Step,3,26,150026,Success (Reached Max Time),2.786229536923065,100
+racing,Additive-Step,3,27,150027,Success (Reached Max Time),2.502083856022238,100
+racing,Additive-Step,3,28,150028,Success (Reached Max Time),3.0887868998592123,100
+racing,Additive-Step,3,29,150029,Success (Reached Max Time),3.2331690947855893,102
+racing,Additive-Step,3,30,150030,Collision (Crash),4.499557188543687,80
+racing,Additive-Step,3,31,150031,Success (Reached Max Time),4.048221900947747,99
+racing,Additive-Step,3,32,150032,Success (Reached Max Time),2.4386169101106137,100
+racing,Additive-Step,3,33,150033,Success (Reached Max Time),2.432399144792473,100
+racing,Additive-Step,3,34,150034,Success (Reached Max Time),2.98788259804637,99
+racing,Additive-Step,3,35,150035,Success (Reached Max Time),3.2932051878938244,99
+racing,Additive-Step,3,36,150036,Success (Reached Max Time),2.9031140864207496,102
+racing,Additive-Step,3,37,150037,Success (Reached Max Time),3.327047030164896,102
+racing,Additive-Step,3,38,150038,Collision (Crash),4.434976167556444,15
+racing,Additive-Step,3,39,150039,Success (Reached Max Time),2.965334662077362,101
+racing,Additive-Step,3,40,150040,Success (Reached Max Time),2.8068207391298516,100
+racing,Additive-Step,3,41,150041,Success (Reached Max Time),2.6001831500035353,100
+racing,Additive-Step,3,42,150042,Success (Reached Max Time),3.022074376330824,102
+racing,Additive-Step,3,43,150043,Success (Reached Max Time),2.9256605463851155,102
+racing,Additive-Step,3,44,150044,Success (Reached Max Time),2.5658774519045475,101
+racing,Additive-Step,3,45,150045,Success (Reached Max Time),2.861895233593816,102
+racing,Additive-Step,3,46,150046,Success (Reached Max Time),3.1990391282160906,99
+racing,Additive-Step,3,47,150047,Success (Reached Max Time),3.4872125743799955,99
+racing,Additive-Step,3,48,150048,Success (Reached Max Time),3.7288040391777346,99
+racing,Additive-Step,3,49,150049,Success (Reached Max Time),3.7970936220549767,99
+racing,Additive-Step,4,0,150000,Collision (Crash),4.004903930393014,74
+racing,Additive-Step,4,1,150001,Success (Reached Max Time),3.066224410292068,101
+racing,Additive-Step,4,2,150002,Success (Reached Max Time),3.7683546284558864,102
+racing,Additive-Step,4,3,150003,Success (Reached Max Time),2.8463162652456626,102
+racing,Additive-Step,4,4,150004,Collision (Crash),4.425364264017086,4
+racing,Additive-Step,4,5,150005,Collision (Crash),2.0241078829290635,9
+racing,Additive-Step,4,6,150006,Collision (Crash),3.9511790323955314,12
+racing,Additive-Step,4,7,150007,Success (Reached Max Time),3.3224439276881976,102
+racing,Additive-Step,4,8,150008,Success (Reached Max Time),3.163684952272904,102
+racing,Additive-Step,4,9,150009,Collision (Crash),4.076552293811079,32
+racing,Additive-Step,4,10,150010,Success (Reached Max Time),3.5269676598862736,103
+racing,Additive-Step,4,11,150011,Success (Reached Max Time),2.7878355175324057,101
+racing,Additive-Step,4,12,150012,Success (Reached Max Time),3.6628556979850933,102
+racing,Additive-Step,4,13,150013,Success (Reached Max Time),3.829566622325874,102
+racing,Additive-Step,4,14,150014,Collision (Crash),4.246477195032006,14
+racing,Additive-Step,4,15,150015,Success (Reached Max Time),2.916224901362759,102
+racing,Additive-Step,4,16,150016,Success (Reached Max Time),3.5040683246800044,102
+racing,Additive-Step,4,17,150017,Success (Reached Max Time),3.372291146198958,103
+racing,Additive-Step,4,18,150018,Success (Reached Max Time),3.377462402600062,102
+racing,Additive-Step,4,19,150019,Collision (Crash),4.062649132027073,21
+racing,Additive-Step,4,20,150020,Success (Reached Max Time),3.211978605854914,102
+racing,Additive-Step,4,21,150021,Collision (Crash),3.3635223747479217,21
+racing,Additive-Step,4,22,150022,Collision (Crash),4.207313162029141,74
+racing,Additive-Step,4,23,150023,Collision (Crash),2.5205746286775432,40
+racing,Additive-Step,4,24,150024,Success (Reached Max Time),2.8181885730902834,101
+racing,Additive-Step,4,25,150025,Success (Reached Max Time),3.4472685633430316,102
+racing,Additive-Step,4,26,150026,Success (Reached Max Time),3.1118342953544014,102
+racing,Additive-Step,4,27,150027,Success (Reached Max Time),3.4707368456265666,102
+racing,Additive-Step,4,28,150028,Success (Reached Max Time),3.0721405470440417,103
+racing,Additive-Step,4,29,150029,Success (Reached Max Time),3.4396948592655483,102
+racing,Additive-Step,4,30,150030,Collision (Crash),6.6984891770349435,10
+racing,Additive-Step,4,31,150031,Success (Reached Max Time),2.5961967152182037,102
+racing,Additive-Step,4,32,150032,Success (Reached Max Time),3.2404734797845434,102
+racing,Additive-Step,4,33,150033,Collision (Crash),2.6353744716171397,88
+racing,Additive-Step,4,34,150034,Collision (Crash),3.9886376284186746,38
+racing,Additive-Step,4,35,150035,Success (Reached Max Time),3.6580456760770543,102
+racing,Additive-Step,4,36,150036,Collision (Crash),3.4405540747291323,24
+racing,Additive-Step,4,37,150037,Collision (Crash),3.542276961262239,45
+racing,Additive-Step,4,38,150038,Success (Reached Max Time),3.338009392219451,102
+racing,Additive-Step,4,39,150039,Success (Reached Max Time),3.5798546018607835,102
+racing,Additive-Step,4,40,150040,Success (Reached Max Time),2.9601655676309604,101
+racing,Additive-Step,4,41,150041,Success (Reached Max Time),3.2228980095355855,102
+racing,Additive-Step,4,42,150042,Success (Reached Max Time),3.4837609166179484,103
+racing,Additive-Step,4,43,150043,Collision (Crash),4.181344588404332,38
+racing,Additive-Step,4,44,150044,Success (Reached Max Time),2.981516748311993,102
+racing,Additive-Step,4,45,150045,Collision (Crash),4.383694807601074,39
+racing,Additive-Step,4,46,150046,Collision (Crash),2.9928285749545966,101
+racing,Additive-Step,4,47,150047,Collision (Crash),3.5500693834232004,30
+racing,Additive-Step,4,48,150048,Success (Reached Max Time),2.812933459469191,101
+racing,Additive-Step,4,49,150049,Success (Reached Max Time),2.7566012984723405,102
+racing,Additive-Step,5,0,150000,Success (Reached Max Time),2.935360702546999,101
+racing,Additive-Step,5,1,150001,Success (Reached Max Time),3.2661676036977445,102
+racing,Additive-Step,5,2,150002,Success (Reached Max Time),3.002191358225994,102
+racing,Additive-Step,5,3,150003,Success (Reached Max Time),3.100167175854611,102
+racing,Additive-Step,5,4,150004,Success (Reached Max Time),2.5502716953534015,101
+racing,Additive-Step,5,5,150005,Success (Reached Max Time),2.893995453797824,102
+racing,Additive-Step,5,6,150006,Success (Reached Max Time),2.340064547358249,101
+racing,Additive-Step,5,7,150007,Success (Reached Max Time),2.8615126465244045,101
+racing,Additive-Step,5,8,150008,Success (Reached Max Time),2.682554400336217,101
+racing,Additive-Step,5,9,150009,Success (Reached Max Time),3.2226464477665,102
+racing,Additive-Step,5,10,150010,Success (Reached Max Time),3.583193730641145,102
+racing,Additive-Step,5,11,150011,Success (Reached Max Time),3.03499792084979,102
+racing,Additive-Step,5,12,150012,Success (Reached Max Time),3.7101760310368856,102
+racing,Additive-Step,5,13,150013,Success (Reached Max Time),2.5566804355189796,101
+racing,Additive-Step,5,14,150014,Success (Reached Max Time),3.32643834348952,102
+racing,Additive-Step,5,15,150015,Success (Reached Max Time),2.725765056977276,102
+racing,Additive-Step,5,16,150016,Success (Reached Max Time),2.8744637664886152,101
+racing,Additive-Step,5,17,150017,Success (Reached Max Time),3.3185954983697217,102
+racing,Additive-Step,5,18,150018,Success (Reached Max Time),3.2819265468757046,102
+racing,Additive-Step,5,19,150019,Success (Reached Max Time),2.7503904787481672,101
+racing,Additive-Step,5,20,150020,Success (Reached Max Time),3.6187397379235033,102
+racing,Additive-Step,5,21,150021,Success (Reached Max Time),3.5742847113513725,102
+racing,Additive-Step,5,22,150022,Success (Reached Max Time),2.606201602318552,101
+racing,Additive-Step,5,23,150023,Success (Reached Max Time),2.706877594215347,101
+racing,Additive-Step,5,24,150024,Success (Reached Max Time),2.9341638731495294,102
+racing,Additive-Step,5,25,150025,Success (Reached Max Time),2.749040745324859,101
+racing,Additive-Step,5,26,150026,Collision (Crash),3.123484890394877,15
+racing,Additive-Step,5,27,150027,Success (Reached Max Time),3.073401204207919,102
+racing,Additive-Step,5,28,150028,Success (Reached Max Time),3.158537602342848,102
+racing,Additive-Step,5,29,150029,Success (Reached Max Time),3.440254791464444,102
+racing,Additive-Step,5,30,150030,Success (Reached Max Time),2.756133984004685,101
+racing,Additive-Step,5,31,150031,Success (Reached Max Time),2.569800095547898,101
+racing,Additive-Step,5,32,150032,Success (Reached Max Time),2.516283480771474,101
+racing,Additive-Step,5,33,150033,Success (Reached Max Time),2.746602949099533,101
+racing,Additive-Step,5,34,150034,Success (Reached Max Time),3.0775747737780326,102
+racing,Additive-Step,5,35,150035,Success (Reached Max Time),2.8470049965486197,102
+racing,Additive-Step,5,36,150036,Success (Reached Max Time),2.880037626490134,101
+racing,Additive-Step,5,37,150037,Success (Reached Max Time),3.51955717110052,102
+racing,Additive-Step,5,38,150038,Success (Reached Max Time),3.140943862546146,102
+racing,Additive-Step,5,39,150039,Success (Reached Max Time),3.2614664602916896,102
+racing,Additive-Step,5,40,150040,Success (Reached Max Time),2.630023791853635,102
+racing,Additive-Step,5,41,150041,Success (Reached Max Time),2.59377142120131,101
+racing,Additive-Step,5,42,150042,Success (Reached Max Time),3.6964456755355584,102
+racing,Additive-Step,5,43,150043,Success (Reached Max Time),2.634616169420073,101
+racing,Additive-Step,5,44,150044,Success (Reached Max Time),2.5239799101574665,101
+racing,Additive-Step,5,45,150045,Success (Reached Max Time),2.9230958382698753,102
+racing,Additive-Step,5,46,150046,Success (Reached Max Time),3.384822897507493,102
+racing,Additive-Step,5,47,150047,Success (Reached Max Time),3.495338734008597,102
+racing,Additive-Step,5,48,150048,Success (Reached Max Time),3.2240211975091455,102
+racing,Additive-Step,5,49,150049,Success (Reached Max Time),2.07083823741547,101
+racing,Additive-Step,6,0,150000,Collision (Crash),3.1790482802161684,69
+racing,Additive-Step,6,1,150001,Success (Reached Max Time),3.7132960217008435,97
+racing,Additive-Step,6,2,150002,Success (Reached Max Time),2.8165714163688755,97
+racing,Additive-Step,6,3,150003,Success (Reached Max Time),3.1260135333544796,96
+racing,Additive-Step,6,4,150004,Success (Reached Max Time),3.063561606123449,96
+racing,Additive-Step,6,5,150005,Success (Reached Max Time),3.301619959670604,97
+racing,Additive-Step,6,6,150006,Success (Reached Max Time),3.06370182847351,96
+racing,Additive-Step,6,7,150007,Success (Reached Max Time),2.8992345132223116,97
+racing,Additive-Step,6,8,150008,Success (Reached Max Time),3.5526697903413913,97
+racing,Additive-Step,6,9,150009,Success (Reached Max Time),3.1766761052536245,96
+racing,Additive-Step,6,10,150010,Success (Reached Max Time),3.878103214012353,99
+racing,Additive-Step,6,11,150011,Success (Reached Max Time),2.97836052122442,96
+racing,Additive-Step,6,12,150012,Success (Reached Max Time),3.338620160891112,97
+racing,Additive-Step,6,13,150013,Success (Reached Max Time),4.158647013616216,98
+racing,Additive-Step,6,14,150014,Success (Reached Max Time),3.229514000261751,96
+racing,Additive-Step,6,15,150015,Success (Reached Max Time),3.198391916164505,97
+racing,Additive-Step,6,16,150016,Success (Reached Max Time),3.1077013107469087,97
+racing,Additive-Step,6,17,150017,Success (Reached Max Time),3.0504554504770764,97
+racing,Additive-Step,6,18,150018,Success (Reached Max Time),2.8459697435317914,96
+racing,Additive-Step,6,19,150019,Success (Reached Max Time),3.3427613023876614,97
+racing,Additive-Step,6,20,150020,Success (Reached Max Time),3.6389339828905034,98
+racing,Additive-Step,6,21,150021,Collision (Crash),2.974590445152096,5
+racing,Additive-Step,6,22,150022,Success (Reached Max Time),3.325346269987181,96
+racing,Additive-Step,6,23,150023,Collision (Crash),2.8424617341146377,15
+racing,Additive-Step,6,24,150024,Success (Reached Max Time),3.354926403862335,97
+racing,Additive-Step,6,25,150025,Success (Reached Max Time),3.4874260244546096,98
+racing,Additive-Step,6,26,150026,Collision (Crash),1.5647793442423965,22
+racing,Additive-Step,6,27,150027,Collision (Crash),3.8472531726970143,55
+racing,Additive-Step,6,28,150028,Success (Reached Max Time),3.6434125067054013,97
+racing,Additive-Step,6,29,150029,Undershoot Turn (轉向不足),3.3629405757258137,81
+racing,Additive-Step,6,30,150030,Success (Reached Max Time),3.2169798807096806,97
+racing,Additive-Step,6,31,150031,Success (Reached Max Time),3.5216044877541877,97
+racing,Additive-Step,6,32,150032,Success (Reached Max Time),3.726708096453962,98
+racing,Additive-Step,6,33,150033,Success (Reached Max Time),3.8188467587868593,97
+racing,Additive-Step,6,34,150034,Success (Reached Max Time),3.539829550531775,97
+racing,Additive-Step,6,35,150035,Success (Reached Max Time),3.1363040372318416,96
+racing,Additive-Step,6,36,150036,Success (Reached Max Time),3.2343327848943217,96
+racing,Additive-Step,6,37,150037,Success (Reached Max Time),2.658788317858648,96
+racing,Additive-Step,6,38,150038,Success (Reached Max Time),3.648748825431796,99
+racing,Additive-Step,6,39,150039,Success (Reached Max Time),3.3447232274725742,97
+racing,Additive-Step,6,40,150040,Success (Reached Max Time),3.1399610001056764,97
+racing,Additive-Step,6,41,150041,Success (Reached Max Time),3.3560485956101878,96
+racing,Additive-Step,6,42,150042,Collision (Crash),3.5807207445760407,14
+racing,Additive-Step,6,43,150043,Collision (Crash),3.1029184025679295,39
+racing,Additive-Step,6,44,150044,Success (Reached Max Time),3.008910571615013,96
+racing,Additive-Step,6,45,150045,Success (Reached Max Time),3.206763729326286,97
+racing,Additive-Step,6,46,150046,Success (Reached Max Time),2.923094059508116,96
+racing,Additive-Step,6,47,150047,Success (Reached Max Time),3.6252114078977455,97
+racing,Additive-Step,6,48,150048,Collision (Crash),3.357230183683459,87
+racing,Additive-Step,6,49,150049,Collision (Crash),3.129622085796496,9
+racing,Additive-Step,7,0,150000,Success (Reached Max Time),3.625710786658705,98
+racing,Additive-Step,7,1,150001,Success (Reached Max Time),3.2756463893337817,96
+racing,Additive-Step,7,2,150002,Success (Reached Max Time),3.282704477090124,96
+racing,Additive-Step,7,3,150003,Success (Reached Max Time),3.3725495495437787,97
+racing,Additive-Step,7,4,150004,Success (Reached Max Time),3.0209773112707135,96
+racing,Additive-Step,7,5,150005,Success (Reached Max Time),3.527575726752188,97
+racing,Additive-Step,7,6,150006,Success (Reached Max Time),3.1526939318674914,96
+racing,Additive-Step,7,7,150007,Success (Reached Max Time),3.0198759217554545,96
+racing,Additive-Step,7,8,150008,Collision (Crash),2.8706794838452234,15
+racing,Additive-Step,7,9,150009,Success (Reached Max Time),3.7951466521101964,97
+racing,Additive-Step,7,10,150010,Success (Reached Max Time),3.2950346304387423,97
+racing,Additive-Step,7,11,150011,Success (Reached Max Time),3.3904956036722385,98
+racing,Additive-Step,7,12,150012,Success (Reached Max Time),3.4209829294581553,97
+racing,Additive-Step,7,13,150013,Success (Reached Max Time),3.156332147538858,96
+racing,Additive-Step,7,14,150014,Success (Reached Max Time),3.4347737452464213,97
+racing,Additive-Step,7,15,150015,Success (Reached Max Time),3.478001226725998,97
+racing,Additive-Step,7,16,150016,Success (Reached Max Time),3.573255514195501,98
+racing,Additive-Step,7,17,150017,Collision (Crash),2.9115422470673833,23
+racing,Additive-Step,7,18,150018,Success (Reached Max Time),3.5077784893063226,96
+racing,Additive-Step,7,19,150019,Success (Reached Max Time),3.5103795768678996,98
+racing,Additive-Step,7,20,150020,Success (Reached Max Time),3.5880776315581917,97
+racing,Additive-Step,7,21,150021,Success (Reached Max Time),3.4791667538354836,96
+racing,Additive-Step,7,22,150022,Success (Reached Max Time),3.531215633664734,97
+racing,Additive-Step,7,23,150023,Success (Reached Max Time),3.366008917349718,97
+racing,Additive-Step,7,24,150024,Success (Reached Max Time),3.489580093856704,97
+racing,Additive-Step,7,25,150025,Success (Reached Max Time),3.7895630600802517,99
+racing,Additive-Step,7,26,150026,Success (Reached Max Time),3.5540431133695995,98
+racing,Additive-Step,7,27,150027,Success (Reached Max Time),4.1633236033567025,99
+racing,Additive-Step,7,28,150028,Collision (Crash),4.208563221396994,20
+racing,Additive-Step,7,29,150029,Collision (Crash),4.081044725018657,38
+racing,Additive-Step,7,30,150030,Success (Reached Max Time),3.5870431076316494,96
+racing,Additive-Step,7,31,150031,Success (Reached Max Time),3.4245893640190235,97
+racing,Additive-Step,7,32,150032,Success (Reached Max Time),3.8218228140127075,96
+racing,Additive-Step,7,33,150033,Success (Reached Max Time),3.2260355533680976,96
+racing,Additive-Step,7,34,150034,Success (Reached Max Time),2.670070306013168,96
+racing,Additive-Step,7,35,150035,Success (Reached Max Time),3.466430489225145,97
+racing,Additive-Step,7,36,150036,Collision (Crash),3.026202111870302,29
+racing,Additive-Step,7,37,150037,Success (Reached Max Time),3.157457177068393,97
+racing,Additive-Step,7,38,150038,Success (Reached Max Time),3.4543091222189424,97
+racing,Additive-Step,7,39,150039,Success (Reached Max Time),3.4931514706515014,96
+racing,Additive-Step,7,40,150040,Success (Reached Max Time),3.634782472565063,97
+racing,Additive-Step,7,41,150041,Success (Reached Max Time),3.790126310227085,97
+racing,Additive-Step,7,42,150042,Collision (Crash),3.4693141615737395,37
+racing,Additive-Step,7,43,150043,Collision (Crash),2.7156918537473906,22
+racing,Additive-Step,7,44,150044,Success (Reached Max Time),3.1563600801913596,97
+racing,Additive-Step,7,45,150045,Success (Reached Max Time),3.574352350455947,97
+racing,Additive-Step,7,46,150046,Success (Reached Max Time),3.6189641389654477,98
+racing,Additive-Step,7,47,150047,Success (Reached Max Time),3.3816845461851233,96
+racing,Additive-Step,7,48,150048,Success (Reached Max Time),3.280449249848558,98
+racing,Additive-Step,7,49,150049,Success (Reached Max Time),3.4802490699418853,97
+racing,Additive-Step,8,0,150000,Success (Reached Max Time),2.3323615229027457,94
+racing,Additive-Step,8,1,150001,Success (Reached Max Time),2.5347513045849577,95
+racing,Additive-Step,8,2,150002,Success (Reached Max Time),2.9685800182784217,95
+racing,Additive-Step,8,3,150003,Success (Reached Max Time),2.648337959245658,95
+racing,Additive-Step,8,4,150004,Success (Reached Max Time),2.6571855125533905,94
+racing,Additive-Step,8,5,150005,Success (Reached Max Time),2.6739803244227422,94
+racing,Additive-Step,8,6,150006,Success (Reached Max Time),2.539508404597134,94
+racing,Additive-Step,8,7,150007,Success (Reached Max Time),2.748559050687591,95
+racing,Additive-Step,8,8,150008,Success (Reached Max Time),2.854092248669753,95
+racing,Additive-Step,8,9,150009,Success (Reached Max Time),2.3507550055864534,94
+racing,Additive-Step,8,10,150010,Success (Reached Max Time),3.0290185634411166,94
+racing,Additive-Step,8,11,150011,Success (Reached Max Time),2.5238126653904,95
+racing,Additive-Step,8,12,150012,Success (Reached Max Time),2.60898020299263,94
+racing,Additive-Step,8,13,150013,Success (Reached Max Time),2.3565350308206674,94
+racing,Additive-Step,8,14,150014,Success (Reached Max Time),2.7067740638199767,93
+racing,Additive-Step,8,15,150015,Success (Reached Max Time),2.477346561236341,95
+racing,Additive-Step,8,16,150016,Success (Reached Max Time),2.577172175287204,95
+racing,Additive-Step,8,17,150017,Success (Reached Max Time),2.550832488001628,95
+racing,Additive-Step,8,18,150018,Success (Reached Max Time),2.424022197579504,94
+racing,Additive-Step,8,19,150019,Success (Reached Max Time),2.6356708070651496,95
+racing,Additive-Step,8,20,150020,Success (Reached Max Time),2.319902814148231,95
+racing,Additive-Step,8,21,150021,Success (Reached Max Time),2.3763452864855954,94
+racing,Additive-Step,8,22,150022,Success (Reached Max Time),2.86316277809086,94
+racing,Additive-Step,8,23,150023,Success (Reached Max Time),2.270676361513928,94
+racing,Additive-Step,8,24,150024,Success (Reached Max Time),2.4103427401916915,94
+racing,Additive-Step,8,25,150025,Success (Reached Max Time),2.5212929284705865,94
+racing,Additive-Step,8,26,150026,Success (Reached Max Time),2.503734452694854,94
+racing,Additive-Step,8,27,150027,Success (Reached Max Time),3.1785296952662128,94
+racing,Additive-Step,8,28,150028,Success (Reached Max Time),2.6995553751374404,95
+racing,Additive-Step,8,29,150029,Success (Reached Max Time),2.9025349455374383,95
+racing,Additive-Step,8,30,150030,Success (Reached Max Time),2.435599799557225,94
+racing,Additive-Step,8,31,150031,Success (Reached Max Time),2.5832235325939767,94
+racing,Additive-Step,8,32,150032,Success (Reached Max Time),2.2364671266562346,94
+racing,Additive-Step,8,33,150033,Success (Reached Max Time),2.6056031330934277,95
+racing,Additive-Step,8,34,150034,Success (Reached Max Time),2.651365921103085,95
+racing,Additive-Step,8,35,150035,Success (Reached Max Time),2.497875663021137,95
+racing,Additive-Step,8,36,150036,Success (Reached Max Time),2.8284497321896307,94
+racing,Additive-Step,8,37,150037,Success (Reached Max Time),2.6319485920522836,95
+racing,Additive-Step,8,38,150038,Success (Reached Max Time),2.8414467027521675,95
+racing,Additive-Step,8,39,150039,Success (Reached Max Time),2.445992212183954,94
+racing,Additive-Step,8,40,150040,Success (Reached Max Time),2.6785929563027633,95
+racing,Additive-Step,8,41,150041,Success (Reached Max Time),2.45715160380674,95
+racing,Additive-Step,8,42,150042,Success (Reached Max Time),2.594873134814757,95
+racing,Additive-Step,8,43,150043,Success (Reached Max Time),2.945311078973215,95
+racing,Additive-Step,8,44,150044,Success (Reached Max Time),2.6312341303567135,95
+racing,Additive-Step,8,45,150045,Success (Reached Max Time),2.5326873456328793,94
+racing,Additive-Step,8,46,150046,Success (Reached Max Time),2.2061802872188214,94
+racing,Additive-Step,8,47,150047,Success (Reached Max Time),2.7312550780427816,95
+racing,Additive-Step,8,48,150048,Success (Reached Max Time),2.180062367747152,94
+racing,Additive-Step,8,49,150049,Success (Reached Max Time),2.8268800675966475,95
+racing,Additive-Step,9,0,150000,Success (Reached Max Time),3.3168961262533907,102
+racing,Additive-Step,9,1,150001,Success (Reached Max Time),2.8364856757151085,101
+racing,Additive-Step,9,2,150002,Success (Reached Max Time),3.2756551671966547,102
+racing,Additive-Step,9,3,150003,Success (Reached Max Time),3.90608872199865,105
+racing,Additive-Step,9,4,150004,Collision (Crash),3.0721416927856855,17
+racing,Additive-Step,9,5,150005,Success (Reached Max Time),2.8502789517611857,101
+racing,Additive-Step,9,6,150006,Success (Reached Max Time),2.7680129877463417,101
+racing,Additive-Step,9,7,150007,Success (Reached Max Time),3.1277630328945945,102
+racing,Additive-Step,9,8,150008,Success (Reached Max Time),3.317890246549387,103
+racing,Additive-Step,9,9,150009,Success (Reached Max Time),4.000093765520523,103
+racing,Additive-Step,9,10,150010,Success (Reached Max Time),4.063071840081167,103
+racing,Additive-Step,9,11,150011,Success (Reached Max Time),2.444673375010498,101
+racing,Additive-Step,9,12,150012,Success (Reached Max Time),2.7400909856458204,101
+racing,Additive-Step,9,13,150013,Success (Reached Max Time),2.5847883251533874,100
+racing,Additive-Step,9,14,150014,Success (Reached Max Time),3.9630336583823067,104
+racing,Additive-Step,9,15,150015,Success (Reached Max Time),2.6207655072269285,101
+racing,Additive-Step,9,16,150016,Success (Reached Max Time),2.746300498293769,101
+racing,Additive-Step,9,17,150017,Success (Reached Max Time),3.4147244184927055,102
+racing,Additive-Step,9,18,150018,Success (Reached Max Time),2.6909369752199765,101
+racing,Additive-Step,9,19,150019,Success (Reached Max Time),2.4016519540010237,101
+racing,Additive-Step,9,20,150020,Success (Reached Max Time),2.699776361244133,101
+racing,Additive-Step,9,21,150021,Success (Reached Max Time),2.7341107454110594,102
+racing,Additive-Step,9,22,150022,Success (Reached Max Time),4.1005247145199295,102
+racing,Additive-Step,9,23,150023,Success (Reached Max Time),3.9177573552789657,102
+racing,Additive-Step,9,24,150024,Success (Reached Max Time),2.6694049039629895,101
+racing,Additive-Step,9,25,150025,Success (Reached Max Time),3.879561118649978,102
+racing,Additive-Step,9,26,150026,Success (Reached Max Time),3.5586501335255982,102
+racing,Additive-Step,9,27,150027,Success (Reached Max Time),3.1495787574567737,100
+racing,Additive-Step,9,28,150028,Success (Reached Max Time),2.810315796512817,101
+racing,Additive-Step,9,29,150029,Success (Reached Max Time),3.121876063773216,102
+racing,Additive-Step,9,30,150030,Success (Reached Max Time),2.5986533080425547,100
+racing,Additive-Step,9,31,150031,Collision (Crash),3.3128412823010507,50
+racing,Additive-Step,9,32,150032,Success (Reached Max Time),3.360827386822658,102
+racing,Additive-Step,9,33,150033,Success (Reached Max Time),2.6611316769435125,101
+racing,Additive-Step,9,34,150034,Success (Reached Max Time),3.3341972304260974,102
+racing,Additive-Step,9,35,150035,Collision (Crash),3.9982235607552794,9
+racing,Additive-Step,9,36,150036,Success (Reached Max Time),2.8566078656897784,101
+racing,Additive-Step,9,37,150037,Success (Reached Max Time),3.639738328706076,102
+racing,Additive-Step,9,38,150038,Success (Reached Max Time),3.0016055379906605,100
+racing,Additive-Step,9,39,150039,Success (Reached Max Time),3.454258852200908,103
+racing,Additive-Step,9,40,150040,Success (Reached Max Time),2.457332052328868,100
+racing,Additive-Step,9,41,150041,Success (Reached Max Time),2.750957676459524,101
+racing,Additive-Step,9,42,150042,Success (Reached Max Time),2.9428649999030796,99
+racing,Additive-Step,9,43,150043,Success (Reached Max Time),3.1730888583071475,102
+racing,Additive-Step,9,44,150044,Success (Reached Max Time),2.918426118575328,101
+racing,Additive-Step,9,45,150045,Success (Reached Max Time),2.880157273870773,101
+racing,Additive-Step,9,46,150046,Success (Reached Max Time),3.938178040816271,102
+racing,Additive-Step,9,47,150047,Success (Reached Max Time),3.8507874074869224,103
+racing,Additive-Step,9,48,150048,Success (Reached Max Time),2.864334108662235,101
+racing,Additive-Step,9,49,150049,Success (Reached Max Time),3.8156171226480358,103
+racing,PBRS,0,0,150000,Collision (Crash),2.8331036338906124,9
+racing,PBRS,0,1,150001,Collision (Crash),2.6570748032150022,3
+racing,PBRS,0,2,150002,Collision (Crash),3.263788169005094,81
+racing,PBRS,0,3,150003,Collision (Crash),2.6781580907682105,47
+racing,PBRS,0,4,150004,Undershoot Turn (轉向不足),3.41410532985494,9
+racing,PBRS,0,5,150005,Collision (Crash),1.5189320653721883,10
+racing,PBRS,0,6,150006,Collision (Crash),3.144479281576481,63
+racing,PBRS,0,7,150007,Collision (Crash),3.41254132126319,27
+racing,PBRS,0,8,150008,Success (Reached Max Time),2.4009967619752834,95
+racing,PBRS,0,9,150009,Collision (Crash),3.1299239234776626,15
+racing,PBRS,0,10,150010,Collision (Crash),3.7661066518477053,9
+racing,PBRS,0,11,150011,Collision (Crash),3.1748600351287464,9
+racing,PBRS,0,12,150012,Collision (Crash),2.8019797903273176,17
+racing,PBRS,0,13,150013,Collision (Crash),3.374060759842252,9
+racing,PBRS,0,14,150014,Collision (Crash),3.0908965147561203,17
+racing,PBRS,0,15,150015,Collision (Crash),2.3948058282133733,22
+racing,PBRS,0,16,150016,Collision (Crash),3.5257390624425144,15
+racing,PBRS,0,17,150017,Collision (Crash),3.4315082525979257,34
+racing,PBRS,0,18,150018,Collision (Crash),2.6433716584575033,21
+racing,PBRS,0,19,150019,Undershoot Turn (轉向不足),2.0524065435821846,15
+racing,PBRS,0,20,150020,Collision (Crash),2.4757418703941227,21
+racing,PBRS,0,21,150021,Collision (Crash),3.8916031602892613,26
+racing,PBRS,0,22,150022,Collision (Crash),2.7302652146397333,39
+racing,PBRS,0,23,150023,Collision (Crash),2.380935206862563,10
+racing,PBRS,0,24,150024,Collision (Crash),2.546702663643608,46
+racing,PBRS,0,25,150025,Collision (Crash),3.1871022484181983,15
+racing,PBRS,0,26,150026,Collision (Crash),3.0599421389377577,9
+racing,PBRS,0,27,150027,Collision (Crash),2.696235135928083,23
+racing,PBRS,0,28,150028,Collision (Crash),1.573344282315416,9
+racing,PBRS,0,29,150029,Collision (Crash),2.992130682354036,45
+racing,PBRS,0,30,150030,Collision (Crash),3.9179326536479255,8
+racing,PBRS,0,31,150031,Collision (Crash),3.229027027005709,15
+racing,PBRS,0,32,150032,Collision (Crash),2.8738504415822845,27
+racing,PBRS,0,33,150033,Collision (Crash),3.100214055145637,88
+racing,PBRS,0,34,150034,Collision (Crash),4.313208872322076,8
+racing,PBRS,0,35,150035,Success (Reached Max Time),2.5028731326777596,93
+racing,PBRS,0,36,150036,Collision (Crash),2.568609958239634,33
+racing,PBRS,0,37,150037,Collision (Oversteering Spin),1.9146487106469074,52
+racing,PBRS,0,38,150038,Collision (Crash),3.18044390280985,9
+racing,PBRS,0,39,150039,Collision (Crash),4.257128950588735,8
+racing,PBRS,0,40,150040,Collision (Crash),2.765540736144134,34
+racing,PBRS,0,41,150041,Collision (Crash),2.8461502612418683,17
+racing,PBRS,0,42,150042,Success (Reached Max Time),2.750831821858633,95
+racing,PBRS,0,43,150043,Undershoot Turn (轉向不足),3.7739344427716857,10
+racing,PBRS,0,44,150044,Collision (Crash),3.4967719753312627,51
+racing,PBRS,0,45,150045,Collision (Crash),2.995645544387488,21
+racing,PBRS,0,46,150046,Collision (Crash),3.0361032356846342,57
+racing,PBRS,0,47,150047,Collision (Crash),3.2345267259996904,41
+racing,PBRS,0,48,150048,Collision (Crash),4.037806390196002,14
+racing,PBRS,0,49,150049,Out of Bounds (Normal Flight),5.744324573766641,12
+racing,PBRS,1,0,150000,Success (Reached Max Time),4.092113315269725,110
+racing,PBRS,1,1,150001,Success (Reached Max Time),4.448066050572981,111
+racing,PBRS,1,2,150002,Success (Reached Max Time),4.486455561377449,111
+racing,PBRS,1,3,150003,Success (Reached Max Time),4.265918958313111,110
+racing,PBRS,1,4,150004,Collision (Oversteering Spin),2.8346207760926974,18
+racing,PBRS,1,5,150005,Collision (Crash),2.564590533931453,83
+racing,PBRS,1,6,150006,Success (Reached Max Time),4.216348229542258,111
+racing,PBRS,1,7,150007,Success (Reached Max Time),4.515727180365493,111
+racing,PBRS,1,8,150008,Success (Reached Max Time),4.466355568550278,110
+racing,PBRS,1,9,150009,Success (Reached Max Time),4.457483517785621,110
+racing,PBRS,1,10,150010,Success (Reached Max Time),4.6001109331128065,110
+racing,PBRS,1,11,150011,Success (Reached Max Time),4.251376641675772,110
+racing,PBRS,1,12,150012,Success (Reached Max Time),4.954860586320569,111
+racing,PBRS,1,13,150013,Success (Reached Max Time),4.568336920909508,110
+racing,PBRS,1,14,150014,Collision (Crash),2.733989156084637,5
+racing,PBRS,1,15,150015,Success (Reached Max Time),3.689434164314168,111
+racing,PBRS,1,16,150016,Success (Reached Max Time),4.309185310083541,111
+racing,PBRS,1,17,150017,Success (Reached Max Time),4.60901301844899,110
+racing,PBRS,1,18,150018,Success (Reached Max Time),3.6322683443708508,111
+racing,PBRS,1,19,150019,Success (Reached Max Time),4.079118334905396,111
+racing,PBRS,1,20,150020,Success (Reached Max Time),4.545221610123446,110
+racing,PBRS,1,21,150021,Success (Reached Max Time),4.337445583720392,110
+racing,PBRS,1,22,150022,Success (Reached Max Time),3.405227472972575,111
+racing,PBRS,1,23,150023,Success (Reached Max Time),4.029745678875347,111
+racing,PBRS,1,24,150024,Collision (Crash),3.8486074737266507,6
+racing,PBRS,1,25,150025,Undershoot Turn (轉向不足),3.5797932823295424,32
+racing,PBRS,1,26,150026,Success (Reached Max Time),4.425632110416243,110
+racing,PBRS,1,27,150027,Success (Reached Max Time),4.633019216740993,111
+racing,PBRS,1,28,150028,Success (Reached Max Time),4.1251294800903455,110
+racing,PBRS,1,29,150029,Success (Reached Max Time),3.2687510664693806,111
+racing,PBRS,1,30,150030,Success (Reached Max Time),3.989014377835138,111
+racing,PBRS,1,31,150031,Success (Reached Max Time),4.788949841857481,111
+racing,PBRS,1,32,150032,Success (Reached Max Time),4.992001798216643,110
+racing,PBRS,1,33,150033,Success (Reached Max Time),3.410568292134581,111
+racing,PBRS,1,34,150034,Success (Reached Max Time),3.7739133364463626,111
+racing,PBRS,1,35,150035,Success (Reached Max Time),4.191429041112672,110
+racing,PBRS,1,36,150036,Success (Reached Max Time),4.792888272416233,111
+racing,PBRS,1,37,150037,Success (Reached Max Time),4.286352441639891,109
+racing,PBRS,1,38,150038,Success (Reached Max Time),4.049257117397266,111
+racing,PBRS,1,39,150039,Success (Reached Max Time),4.1373136754126865,111
+racing,PBRS,1,40,150040,Success (Reached Max Time),4.498698498662064,111
+racing,PBRS,1,41,150041,Success (Reached Max Time),4.247911124911799,110
+racing,PBRS,1,42,150042,Success (Reached Max Time),4.6706186435075265,110
+racing,PBRS,1,43,150043,Success (Reached Max Time),4.3345845578547575,111
+racing,PBRS,1,44,150044,Success (Reached Max Time),4.71032725072306,111
+racing,PBRS,1,45,150045,Success (Reached Max Time),4.076010985065988,110
+racing,PBRS,1,46,150046,Undershoot Turn (轉向不足),2.817697918063261,10
+racing,PBRS,1,47,150047,Collision (Oversteering Spin),1.6443787710886033,63
+racing,PBRS,1,48,150048,Success (Reached Max Time),4.34208366022022,110
+racing,PBRS,1,49,150049,Collision (Crash),4.009747054524598,18
+racing,PBRS,2,0,150000,Collision (Crash),3.138566351287,36
+racing,PBRS,2,1,150001,Undershoot Turn (轉向不足),2.453048103375262,12
+racing,PBRS,2,2,150002,Collision (Crash),2.0301595059068656,25
+racing,PBRS,2,3,150003,Collision (Crash),2.7011706759119267,22
+racing,PBRS,2,4,150004,Collision (Crash),3.004735836490671,9
+racing,PBRS,2,5,150005,Collision (Crash),2.5437774556714605,6
+racing,PBRS,2,6,150006,Success (Reached Max Time),3.4019520009421114,92
+racing,PBRS,2,7,150007,Collision (Crash),2.6841240918263485,16
+racing,PBRS,2,8,150008,Collision (Crash),3.3517011661231675,9
+racing,PBRS,2,9,150009,Success (Reached Max Time),2.7062153189175224,91
+racing,PBRS,2,10,150010,Collision (Crash),2.165747131696324,30
+racing,PBRS,2,11,150011,Collision (Crash),3.1526357857511167,21
+racing,PBRS,2,12,150012,Collision (Crash),2.635894617800119,11
+racing,PBRS,2,13,150013,Success (Reached Max Time),3.1999523756073147,92
+racing,PBRS,2,14,150014,Undershoot Turn (轉向不足),2.4453815009521827,5
+racing,PBRS,2,15,150015,Success (Reached Max Time),3.128932044241051,91
+racing,PBRS,2,16,150016,Collision (Crash),2.990446768188279,9
+racing,PBRS,2,17,150017,Collision (Crash),2.03359299942433,23
+racing,PBRS,2,18,150018,Collision (Crash),2.570712065498153,12
+racing,PBRS,2,19,150019,Collision (Crash),2.7072602265232537,27
+racing,PBRS,2,20,150020,Collision (Crash),2.6301675399829705,15
+racing,PBRS,2,21,150021,Collision (Crash),4.2705749235225205,26
+racing,PBRS,2,22,150022,Success (Reached Max Time),4.311656841971599,93
+racing,PBRS,2,23,150023,Collision (Crash),2.342661784154418,12
+racing,PBRS,2,24,150024,Success (Reached Max Time),2.576893284876985,91
+racing,PBRS,2,25,150025,Collision (Crash),2.9871280644340747,63
+racing,PBRS,2,26,150026,Success (Reached Max Time),3.4017387829324015,92
+racing,PBRS,2,27,150027,Collision (Crash),3.5793869356151418,9
+racing,PBRS,2,28,150028,Success (Reached Max Time),2.982715466104603,92
+racing,PBRS,2,29,150029,Collision (Crash),3.1053993415031083,15
+racing,PBRS,2,30,150030,Collision (Crash),2.526304002160079,12
+racing,PBRS,2,31,150031,Collision (Crash),2.3255333657515265,6
+racing,PBRS,2,32,150032,Undershoot Turn (轉向不足),2.5599981896094284,53
+racing,PBRS,2,33,150033,Collision (Crash),2.708385380777035,47
+racing,PBRS,2,34,150034,Collision (Crash),2.9677885374477326,54
+racing,PBRS,2,35,150035,Success (Reached Max Time),2.592064548705985,90
+racing,PBRS,2,36,150036,Collision (Crash),3.106763469931318,18
+racing,PBRS,2,37,150037,Collision (Crash),2.695905655921465,36
+racing,PBRS,2,38,150038,Collision (Crash),3.003054601430854,75
+racing,PBRS,2,39,150039,Success (Reached Max Time),2.78817549952761,90
+racing,PBRS,2,40,150040,Collision (Crash),2.5980031288532013,5
+racing,PBRS,2,41,150041,Collision (Crash),3.232538470118114,51
+racing,PBRS,2,42,150042,Collision (Crash),3.020639888916683,16
+racing,PBRS,2,43,150043,Success (Reached Max Time),2.5936098536764973,91
+racing,PBRS,2,44,150044,Collision (Crash),3.0519120550858765,9
+racing,PBRS,2,45,150045,Collision (Crash),3.1001423530610532,75
+racing,PBRS,2,46,150046,Collision (Crash),2.7104183464264366,7
+racing,PBRS,2,47,150047,Success (Reached Max Time),3.6055027696170154,92
+racing,PBRS,2,48,150048,Collision (Crash),3.7644241308031865,14
+racing,PBRS,2,49,150049,Undershoot Turn (轉向不足),2.1223241325744526,42
+racing,PBRS,3,0,150000,Collision (Crash),4.600095372258995,32
+racing,PBRS,3,1,150001,Collision (Crash),4.246227105793073,14
+racing,PBRS,3,2,150002,Success (Reached Max Time),3.641900405651425,108
+racing,PBRS,3,3,150003,Success (Reached Max Time),3.2519558388031387,108
+racing,PBRS,3,4,150004,Success (Reached Max Time),2.8385999832323123,107
+racing,PBRS,3,5,150005,Success (Reached Max Time),3.5211298555136987,108
+racing,PBRS,3,6,150006,Success (Reached Max Time),3.59357615634537,108
+racing,PBRS,3,7,150007,Collision (Oversteering Spin),3.437727899150119,15
+racing,PBRS,3,8,150008,Success (Reached Max Time),3.2815793868008023,108
+racing,PBRS,3,9,150009,Collision (Crash),3.0819388066471376,15
+racing,PBRS,3,10,150010,Collision (Crash),3.95927041319728,63
+racing,PBRS,3,11,150011,Success (Reached Max Time),3.039156564020627,108
+racing,PBRS,3,12,150012,Success (Reached Max Time),3.2169252876794965,107
+racing,PBRS,3,13,150013,Success (Reached Max Time),3.081612184179783,107
+racing,PBRS,3,14,150014,Collision (Crash),4.255921128075794,13
+racing,PBRS,3,15,150015,Collision (Crash),3.815405200863297,48
+racing,PBRS,3,16,150016,Success (Reached Max Time),3.0863543024084867,108
+racing,PBRS,3,17,150017,Collision (Crash),4.006360173432638,91
+racing,PBRS,3,18,150018,Collision (Crash),2.450012473774616,34
+racing,PBRS,3,19,150019,Success (Reached Max Time),3.9539838254531934,108
+racing,PBRS,3,20,150020,Collision (Crash),2.706606664249005,70
+racing,PBRS,3,21,150021,Collision (Crash),4.065291064605591,37
+racing,PBRS,3,22,150022,Success (Reached Max Time),3.5683825232189457,108
+racing,PBRS,3,23,150023,Success (Reached Max Time),4.003825952636545,108
+racing,PBRS,3,24,150024,Success (Reached Max Time),2.8557496604332497,107
+racing,PBRS,3,25,150025,Success (Reached Max Time),3.771016220166831,108
+racing,PBRS,3,26,150026,Success (Reached Max Time),3.966947500225648,108
+racing,PBRS,3,27,150027,Undershoot Turn (轉向不足),5.298442435962275,81
+racing,PBRS,3,28,150028,Success (Reached Max Time),2.5488729065656157,107
+racing,PBRS,3,29,150029,Success (Reached Max Time),2.7201741862581925,107
+racing,PBRS,3,30,150030,Success (Reached Max Time),3.859502641740255,108
+racing,PBRS,3,31,150031,Collision (Crash),4.197294583630158,56
+racing,PBRS,3,32,150032,Collision (Crash),2.833740941580451,57
+racing,PBRS,3,33,150033,Success (Reached Max Time),3.334092436459872,108
+racing,PBRS,3,34,150034,Collision (Crash),4.504427513223865,8
+racing,PBRS,3,35,150035,Collision (Crash),3.2345775584207064,69
+racing,PBRS,3,36,150036,Success (Reached Max Time),3.4363396590763418,108
+racing,PBRS,3,37,150037,Success (Reached Max Time),2.579520103219315,106
+racing,PBRS,3,38,150038,Collision (Crash),3.048907845521679,51
+racing,PBRS,3,39,150039,Success (Reached Max Time),3.0922991839711234,107
+racing,PBRS,3,40,150040,Collision (Crash),4.2596643925127005,49
+racing,PBRS,3,41,150041,Collision (Crash),3.1393609856087896,15
+racing,PBRS,3,42,150042,Collision (Crash),3.146659606180755,15
+racing,PBRS,3,43,150043,Success (Reached Max Time),3.7415748766189667,108
+racing,PBRS,3,44,150044,Success (Reached Max Time),3.7011367382186147,108
+racing,PBRS,3,45,150045,Collision (Crash),3.14787292723341,57
+racing,PBRS,3,46,150046,Success (Reached Max Time),3.6942184320976628,108
+racing,PBRS,3,47,150047,Success (Reached Max Time),2.9827671944499046,107
+racing,PBRS,3,48,150048,Collision (Crash),4.166410289928608,18
+racing,PBRS,3,49,150049,Collision (Crash),3.894731092999636,79
+racing,PBRS,4,0,150000,Collision (Crash),2.605757636900509,52
+racing,PBRS,4,1,150001,Collision (Crash),4.447897720344758,14
+racing,PBRS,4,2,150002,Success (Reached Max Time),3.7575957460111207,98
+racing,PBRS,4,3,150003,Collision (Crash),2.981270015940327,16
+racing,PBRS,4,4,150004,Collision (Crash),2.887079645133103,57
+racing,PBRS,4,5,150005,Collision (Crash),2.9528651018454184,64
+racing,PBRS,4,6,150006,Collision (Crash),2.9866881685042723,21
+racing,PBRS,4,7,150007,Collision (Crash),4.577302516963754,57
+racing,PBRS,4,8,150008,Success (Reached Max Time),3.8555862059280552,99
+racing,PBRS,4,9,150009,Success (Reached Max Time),3.3987173258894754,97
+racing,PBRS,4,10,150010,Success (Reached Max Time),3.611270385893508,98
+racing,PBRS,4,11,150011,Collision (Crash),2.9939581399786332,3
+racing,PBRS,4,12,150012,Collision (Crash),3.611911542079868,62
+racing,PBRS,4,13,150013,Collision (Crash),2.7169410843424884,52
+racing,PBRS,4,14,150014,Success (Reached Max Time),3.7025227637311167,96
+racing,PBRS,4,15,150015,Success (Reached Max Time),3.326593398694547,96
+racing,PBRS,4,16,150016,Success (Reached Max Time),2.801383573440302,96
+racing,PBRS,4,17,150017,Success (Reached Max Time),3.304971249404063,97
+racing,PBRS,4,18,150018,Success (Reached Max Time),3.1099857638461965,97
+racing,PBRS,4,19,150019,Collision (Crash),4.405879554844794,98
+racing,PBRS,4,20,150020,Success (Reached Max Time),3.4467073762059015,97
+racing,PBRS,4,21,150021,Collision (Crash),4.484124245986539,8
+racing,PBRS,4,22,150022,Success (Reached Max Time),3.266885056483342,97
+racing,PBRS,4,23,150023,Collision (Crash),2.565392357925294,76
+racing,PBRS,4,24,150024,Success (Reached Max Time),3.4014259616793994,99
+racing,PBRS,4,25,150025,Collision (Crash),3.289917372054441,6
+racing,PBRS,4,26,150026,Success (Reached Max Time),3.025190646595041,96
+racing,PBRS,4,27,150027,Success (Reached Max Time),3.4873817879103606,98
+racing,PBRS,4,28,150028,Collision (Crash),2.664646099557501,58
+racing,PBRS,4,29,150029,Collision (Crash),4.333431570171761,74
+racing,PBRS,4,30,150030,Success (Reached Max Time),2.920975425198369,98
+racing,PBRS,4,31,150031,Success (Reached Max Time),3.2185383570954103,96
+racing,PBRS,4,32,150032,Success (Reached Max Time),3.8279532275886696,99
+racing,PBRS,4,33,150033,Success (Reached Max Time),3.4132237228689464,96
+racing,PBRS,4,34,150034,Collision (Crash),4.29210103270934,8
+racing,PBRS,4,35,150035,Collision (Crash),3.9943867781979834,56
+racing,PBRS,4,36,150036,Success (Reached Max Time),4.033174404991137,98
+racing,PBRS,4,37,150037,Success (Reached Max Time),3.482254074943709,98
+racing,PBRS,4,38,150038,Collision (Crash),3.270883199636281,63
+racing,PBRS,4,39,150039,Success (Reached Max Time),3.7899875579000257,98
+racing,PBRS,4,40,150040,Success (Reached Max Time),3.0580536903507287,96
+racing,PBRS,4,41,150041,Success (Reached Max Time),3.726116939730232,98
+racing,PBRS,4,42,150042,Success (Reached Max Time),2.649404322747527,96
+racing,PBRS,4,43,150043,Collision (Crash),3.5280109443353846,7
+racing,PBRS,4,44,150044,Collision (Crash),4.327762545994195,32
+racing,PBRS,4,45,150045,Success (Reached Max Time),3.426673958865954,98
+racing,PBRS,4,46,150046,Collision (Crash),3.2160374503458584,5
+racing,PBRS,4,47,150047,Collision (Crash),2.80079092323436,34
+racing,PBRS,4,48,150048,Collision (Crash),3.8021026282821553,25
+racing,PBRS,4,49,150049,Success (Reached Max Time),3.4457342185180853,97
+racing,PBRS,5,0,150000,Collision (Crash),3.289508280726866,33
+racing,PBRS,5,1,150001,Collision (Crash),3.3486404934665703,45
+racing,PBRS,5,2,150002,Success (Reached Max Time),2.1060088599973814,100
+racing,PBRS,5,3,150003,Success (Reached Max Time),2.5171530362398533,100
+racing,PBRS,5,4,150004,Success (Reached Max Time),4.517878842156861,99
+racing,PBRS,5,5,150005,Success (Reached Max Time),3.523624191157473,99
+racing,PBRS,5,6,150006,Success (Reached Max Time),2.9486129003860584,99
+racing,PBRS,5,7,150007,Success (Reached Max Time),3.4980791450352138,98
+racing,PBRS,5,8,150008,Success (Reached Max Time),3.7635391553483966,98
+racing,PBRS,5,9,150009,Success (Reached Max Time),3.1192340901414797,99
+racing,PBRS,5,10,150010,Success (Reached Max Time),2.2208409501651056,100
+racing,PBRS,5,11,150011,Success (Reached Max Time),4.04576055847686,99
+racing,PBRS,5,12,150012,Success (Reached Max Time),3.593744942558653,98
+racing,PBRS,5,13,150013,Collision (Crash),2.288843426953423,45
+racing,PBRS,5,14,150014,Success (Reached Max Time),3.11597382070833,98
+racing,PBRS,5,15,150015,Undershoot Turn (轉向不足),2.7147624787434967,83
+racing,PBRS,5,16,150016,Collision (Crash),4.034572608991321,86
+racing,PBRS,5,17,150017,Success (Reached Max Time),3.382537307439511,98
+racing,PBRS,5,18,150018,Success (Reached Max Time),3.734763900124437,99
+racing,PBRS,5,19,150019,Success (Reached Max Time),2.664559778135537,101
+racing,PBRS,5,20,150020,Success (Reached Max Time),3.3392191867043057,99
+racing,PBRS,5,21,150021,Success (Reached Max Time),3.4532974281372977,99
+racing,PBRS,5,22,150022,Success (Reached Max Time),2.593584046543802,100
+racing,PBRS,5,23,150023,Collision (Crash),4.2115362974465365,32
+racing,PBRS,5,24,150024,Success (Reached Max Time),3.8566381057206676,99
+racing,PBRS,5,25,150025,Collision (Crash),3.778743679090236,28
+racing,PBRS,5,26,150026,Success (Reached Max Time),3.721310199336299,98
+racing,PBRS,5,27,150027,Collision (Crash),2.6884848012342295,4
+racing,PBRS,5,28,150028,Success (Reached Max Time),3.211946772941299,98
+racing,PBRS,5,29,150029,Collision (Crash),3.663206413726098,57
+racing,PBRS,5,30,150030,Success (Reached Max Time),4.140122819324221,99
+racing,PBRS,5,31,150031,Collision (Crash),4.023490058025551,92
+racing,PBRS,5,32,150032,Collision (Crash),4.067106179973027,57
+racing,PBRS,5,33,150033,Collision (Crash),2.8981592905208435,15
+racing,PBRS,5,34,150034,Success (Reached Max Time),3.6052878863918574,99
+racing,PBRS,5,35,150035,Success (Reached Max Time),3.430305475315605,99
+racing,PBRS,5,36,150036,Collision (Crash),4.381610138656384,50
+racing,PBRS,5,37,150037,Success (Reached Max Time),2.557004161349385,100
+racing,PBRS,5,38,150038,Collision (Crash),3.2486767387324953,9
+racing,PBRS,5,39,150039,Success (Reached Max Time),2.706522817367921,100
+racing,PBRS,5,40,150040,Success (Reached Max Time),4.086922127712483,99
+racing,PBRS,5,41,150041,Collision (Crash),3.6462621724404873,52
+racing,PBRS,5,42,150042,Collision (Crash),4.147594900233929,9
+racing,PBRS,5,43,150043,Success (Reached Max Time),3.729085510755663,98
+racing,PBRS,5,44,150044,Collision (Crash),4.544825228652356,80
+racing,PBRS,5,45,150045,Success (Reached Max Time),2.826864188009292,97
+racing,PBRS,5,46,150046,Success (Reached Max Time),3.0044946695235155,98
+racing,PBRS,5,47,150047,Success (Reached Max Time),3.4523130392964303,99
+racing,PBRS,5,48,150048,Success (Reached Max Time),3.8408045661087074,99
+racing,PBRS,5,49,150049,Success (Reached Max Time),2.5029184532997646,101
+racing,PBRS,6,0,150000,Collision (Crash),3.46466168418526,39
+racing,PBRS,6,1,150001,Success (Reached Max Time),2.7252989682899034,101
+racing,PBRS,6,2,150002,Success (Reached Max Time),3.018497058643412,102
+racing,PBRS,6,3,150003,Success (Reached Max Time),2.3171356843428543,101
+racing,PBRS,6,4,150004,Success (Reached Max Time),4.3956198812136105,102
+racing,PBRS,6,5,150005,Success (Reached Max Time),2.9209515201683995,101
+racing,PBRS,6,6,150006,Success (Reached Max Time),3.1275101099338096,102
+racing,PBRS,6,7,150007,Success (Reached Max Time),2.7304697072657667,100
+racing,PBRS,6,8,150008,Collision (Crash),0.654198201600998,16
+racing,PBRS,6,9,150009,Success (Reached Max Time),3.417934253451812,103
+racing,PBRS,6,10,150010,Collision (Crash),5.571645812344799,64
+racing,PBRS,6,11,150011,Success (Reached Max Time),2.7384965049209575,101
+racing,PBRS,6,12,150012,Collision (Crash),2.605054772563409,100
+racing,PBRS,6,13,150013,Collision (Crash),4.6499217359718275,44
+racing,PBRS,6,14,150014,Success (Reached Max Time),2.4067315447347384,100
+racing,PBRS,6,15,150015,Success (Reached Max Time),2.3248234950083457,99
+racing,PBRS,6,16,150016,Collision (Crash),1.5114585964034515,9
+racing,PBRS,6,17,150017,Collision (Crash),2.477382825517553,4
+racing,PBRS,6,18,150018,Success (Reached Max Time),2.852873834874434,100
+racing,PBRS,6,19,150019,Collision (Crash),3.69247220102835,96
+racing,PBRS,6,20,150020,Success (Reached Max Time),2.7064090863503494,101
+racing,PBRS,6,21,150021,Collision (Crash),3.092927062143891,23
+racing,PBRS,6,22,150022,Collision (Crash),3.1760901097084893,4
+racing,PBRS,6,23,150023,Success (Reached Max Time),2.7183779612295798,100
+racing,PBRS,6,24,150024,Success (Reached Max Time),1.9025910763042535,100
+racing,PBRS,6,25,150025,Collision (Crash),3.416861077181551,35
+racing,PBRS,6,26,150026,Success (Reached Max Time),2.8034974188067125,100
+racing,PBRS,6,27,150027,Collision (Crash),4.277274498446485,32
+racing,PBRS,6,28,150028,Collision (Crash),4.467357384187518,25
+racing,PBRS,6,29,150029,Success (Reached Max Time),3.512580500474718,102
+racing,PBRS,6,30,150030,Success (Reached Max Time),2.9731277725028464,101
+racing,PBRS,6,31,150031,Success (Reached Max Time),2.674138918618947,99
+racing,PBRS,6,32,150032,Collision (Crash),4.446489181492864,15
+racing,PBRS,6,33,150033,Collision (Crash),3.776067700697166,60
+racing,PBRS,6,34,150034,Success (Reached Max Time),2.2076132409041755,101
+racing,PBRS,6,35,150035,Collision (Crash),3.6893236365224324,99
+racing,PBRS,6,36,150036,Success (Reached Max Time),2.670496051041435,101
+racing,PBRS,6,37,150037,Success (Reached Max Time),1.44036689117255,100
+racing,PBRS,6,38,150038,Success (Reached Max Time),2.3871087128044763,100
+racing,PBRS,6,39,150039,Success (Reached Max Time),3.253138203133042,100
+racing,PBRS,6,40,150040,Collision (Crash),4.14374359022665,36
+racing,PBRS,6,41,150041,Collision (Crash),1.5318135751781783,87
+racing,PBRS,6,42,150042,Success (Reached Max Time),2.588496375689795,101
+racing,PBRS,6,43,150043,Success (Reached Max Time),2.4671616957595774,100
+racing,PBRS,6,44,150044,Collision (Crash),2.923729974463704,4
+racing,PBRS,6,45,150045,Collision (Crash),3.0082301621558294,5
+racing,PBRS,6,46,150046,Success (Reached Max Time),2.517770747052851,101
+racing,PBRS,6,47,150047,Success (Reached Max Time),2.662019175958796,99
+racing,PBRS,6,48,150048,Success (Reached Max Time),3.1391681610816615,99
+racing,PBRS,6,49,150049,Success (Reached Max Time),3.342913213264126,102
+racing,PBRS,7,0,150000,Success (Reached Max Time),4.195600869478068,111
+racing,PBRS,7,1,150001,Success (Reached Max Time),4.140885465678228,111
+racing,PBRS,7,2,150002,Success (Reached Max Time),4.534215811078286,110
+racing,PBRS,7,3,150003,Success (Reached Max Time),3.7519581570462472,111
+racing,PBRS,7,4,150004,Success (Reached Max Time),3.810188846280388,111
+racing,PBRS,7,5,150005,Success (Reached Max Time),3.204424281082264,111
+racing,PBRS,7,6,150006,Success (Reached Max Time),3.9576524067627092,111
+racing,PBRS,7,7,150007,Success (Reached Max Time),4.147607357204804,111
+racing,PBRS,7,8,150008,Success (Reached Max Time),3.9854850440190206,111
+racing,PBRS,7,9,150009,Collision (Crash),2.9774579106299166,83
+racing,PBRS,7,10,150010,Success (Reached Max Time),4.333202158407402,111
+racing,PBRS,7,11,150011,Success (Reached Max Time),3.794047146219374,111
+racing,PBRS,7,12,150012,Collision (Crash),3.1313872583248386,5
+racing,PBRS,7,13,150013,Success (Reached Max Time),3.645644623437635,111
+racing,PBRS,7,14,150014,Success (Reached Max Time),4.332868362350511,111
+racing,PBRS,7,15,150015,Success (Reached Max Time),4.2180965151617675,111
+racing,PBRS,7,16,150016,Success (Reached Max Time),3.7124764521434312,111
+racing,PBRS,7,17,150017,Success (Reached Max Time),4.417115425367007,111
+racing,PBRS,7,18,150018,Success (Reached Max Time),3.9746753820059566,111
+racing,PBRS,7,19,150019,Success (Reached Max Time),4.494580058881171,110
+racing,PBRS,7,20,150020,Success (Reached Max Time),4.5752596679191795,110
+racing,PBRS,7,21,150021,Success (Reached Max Time),4.403441741644164,111
+racing,PBRS,7,22,150022,Success (Reached Max Time),4.207835181066273,111
+racing,PBRS,7,23,150023,Success (Reached Max Time),4.403973942586136,110
+racing,PBRS,7,24,150024,Success (Reached Max Time),3.6101403313520875,111
+racing,PBRS,7,25,150025,Collision (Crash),3.019517211568595,29
+racing,PBRS,7,26,150026,Undershoot Turn (轉向不足),2.338730170561893,40
+racing,PBRS,7,27,150027,Collision (Crash),3.5274958649104327,6
+racing,PBRS,7,28,150028,Success (Reached Max Time),4.363672578666226,111
+racing,PBRS,7,29,150029,Success (Reached Max Time),4.1998678316339175,111
+racing,PBRS,7,30,150030,Success (Reached Max Time),3.2917824356475434,111
+racing,PBRS,7,31,150031,Success (Reached Max Time),4.394366785858817,110
+racing,PBRS,7,32,150032,Success (Reached Max Time),4.15556289597468,110
+racing,PBRS,7,33,150033,Success (Reached Max Time),4.268194661495427,111
+racing,PBRS,7,34,150034,Success (Reached Max Time),4.033228802434459,111
+racing,PBRS,7,35,150035,Collision (Crash),3.0390353955561453,89
+racing,PBRS,7,36,150036,Success (Reached Max Time),4.410952400146806,110
+racing,PBRS,7,37,150037,Success (Reached Max Time),4.71545665231739,110
+racing,PBRS,7,38,150038,Success (Reached Max Time),4.852413338519297,111
+racing,PBRS,7,39,150039,Success (Reached Max Time),4.2093639361326725,109
+racing,PBRS,7,40,150040,Success (Reached Max Time),4.416277876545961,111
+racing,PBRS,7,41,150041,Success (Reached Max Time),2.8475015652348477,112
+racing,PBRS,7,42,150042,Success (Reached Max Time),4.2151103819261735,110
+racing,PBRS,7,43,150043,Success (Reached Max Time),4.038189825702637,111
+racing,PBRS,7,44,150044,Success (Reached Max Time),4.518825959789342,111
+racing,PBRS,7,45,150045,Collision (Crash),3.2147460629481315,9
+racing,PBRS,7,46,150046,Success (Reached Max Time),4.395128581943009,111
+racing,PBRS,7,47,150047,Success (Reached Max Time),3.970183406789983,111
+racing,PBRS,7,48,150048,Success (Reached Max Time),3.7387834541645084,111
+racing,PBRS,7,49,150049,Success (Reached Max Time),4.115243547810809,111
+racing,PBRS,8,0,150000,Success (Reached Max Time),3.264730629364456,90
+racing,PBRS,8,1,150001,Collision (Crash),3.111468992305843,49
+racing,PBRS,8,2,150002,Collision (Crash),4.323218071542418,52
+racing,PBRS,8,3,150003,Success (Reached Max Time),3.816236414559852,93
+racing,PBRS,8,4,150004,Collision (Crash),2.26552101896464,76
+racing,PBRS,8,5,150005,Collision (Crash),3.689660846154632,7
+racing,PBRS,8,6,150006,Collision (Crash),3.7171334404635314,44
+racing,PBRS,8,7,150007,Collision (Crash),3.072317804743124,17
+racing,PBRS,8,8,150008,Success (Reached Max Time),3.3127657557694548,91
+racing,PBRS,8,9,150009,Collision (Oversteering Spin),1.6506972676798868,4
+racing,PBRS,8,10,150010,Collision (Crash),3.9795203737815923,50
+racing,PBRS,8,11,150011,Collision (Oversteering Spin),1.8956736689235674,21
+racing,PBRS,8,12,150012,Collision (Crash),3.839467400849302,8
+racing,PBRS,8,13,150013,Success (Reached Max Time),3.672117983835155,93
+racing,PBRS,8,14,150014,Success (Reached Max Time),3.520558676166534,93
+racing,PBRS,8,15,150015,Collision (Crash),4.099884490839866,80
+racing,PBRS,8,16,150016,Success (Reached Max Time),3.4860072597658935,91
+racing,PBRS,8,17,150017,Success (Reached Max Time),3.668496098817362,93
+racing,PBRS,8,18,150018,Success (Reached Max Time),3.8047254716245216,92
+racing,PBRS,8,19,150019,Collision (Crash),2.805873708998627,9
+racing,PBRS,8,20,150020,Success (Reached Max Time),3.3045527318234242,92
+racing,PBRS,8,21,150021,Collision (Crash),3.953102957121266,62
+racing,PBRS,8,22,150022,Collision (Crash),2.1499913769568013,10
+racing,PBRS,8,23,150023,Success (Reached Max Time),3.111850815148215,92
+racing,PBRS,8,24,150024,Success (Reached Max Time),3.600195051005307,93
+racing,PBRS,8,25,150025,Success (Reached Max Time),3.032145051575761,91
+racing,PBRS,8,26,150026,Collision (Crash),4.071306602854047,38
+racing,PBRS,8,27,150027,Collision (Crash),3.2455543760870196,15
+racing,PBRS,8,28,150028,Success (Reached Max Time),3.575940931861958,90
+racing,PBRS,8,29,150029,Collision (Crash),2.9309343725113814,45
+racing,PBRS,8,30,150030,Success (Reached Max Time),3.2585917474087696,91
+racing,PBRS,8,31,150031,Collision (Crash),1.8493271197527474,10
+racing,PBRS,8,32,150032,Collision (Crash),4.330040871751928,15
+racing,PBRS,8,33,150033,Collision (Crash),2.8737690628008177,45
+racing,PBRS,8,34,150034,Success (Reached Max Time),3.197100244042199,91
+racing,PBRS,8,35,150035,Success (Reached Max Time),3.659378790258261,92
+racing,PBRS,8,36,150036,Collision (Crash),2.6640048116649253,48
+racing,PBRS,8,37,150037,Collision (Crash),2.8521054046066077,21
+racing,PBRS,8,38,150038,Collision (Crash),2.785475152179846,57
+racing,PBRS,8,39,150039,Collision (Crash),2.9093239392974226,79
+racing,PBRS,8,40,150040,Collision (Crash),2.2768848521759626,55
+racing,PBRS,8,41,150041,Collision (Crash),3.071995274785838,55
+racing,PBRS,8,42,150042,Collision (Crash),3.043833038316939,81
+racing,PBRS,8,43,150043,Success (Reached Max Time),3.427130872257046,91
+racing,PBRS,8,44,150044,Collision (Crash),2.5626801303580673,40
+racing,PBRS,8,45,150045,Success (Reached Max Time),3.8521158580330015,92
+racing,PBRS,8,46,150046,Success (Reached Max Time),2.973039475076305,90
+racing,PBRS,8,47,150047,Collision (Crash),2.475306826204107,82
+racing,PBRS,8,48,150048,Collision (Crash),3.922893952791005,15
+racing,PBRS,8,49,150049,Collision (Crash),3.8549001713874,39
+racing,PBRS,9,0,150000,Success (Reached Max Time),3.848416039093128,105
+racing,PBRS,9,1,150001,Success (Reached Max Time),3.781961979210076,105
+racing,PBRS,9,2,150002,Collision (Crash),2.83121875852349,22
+racing,PBRS,9,3,150003,Success (Reached Max Time),3.1911595907169024,106
+racing,PBRS,9,4,150004,Collision (Crash),2.507034736667517,35
+racing,PBRS,9,5,150005,Success (Reached Max Time),3.470803077825849,105
+racing,PBRS,9,6,150006,Success (Reached Max Time),3.5141938639781616,105
+racing,PBRS,9,7,150007,Success (Reached Max Time),4.07436936912713,105
+racing,PBRS,9,8,150008,Success (Reached Max Time),2.643408925057629,106
+racing,PBRS,9,9,150009,Collision (Crash),3.7339230872757976,33
+racing,PBRS,9,10,150010,Success (Reached Max Time),3.84406072881466,105
+racing,PBRS,9,11,150011,Success (Reached Max Time),3.8002709925522646,104
+racing,PBRS,9,12,150012,Success (Reached Max Time),2.824751375166339,106
+racing,PBRS,9,13,150013,Collision (Crash),4.15997694955117,40
+racing,PBRS,9,14,150014,Success (Reached Max Time),3.218028623895605,105
+racing,PBRS,9,15,150015,Success (Reached Max Time),2.475317568288535,106
+racing,PBRS,9,16,150016,Success (Reached Max Time),2.5729320354013185,106
+racing,PBRS,9,17,150017,Success (Reached Max Time),4.106683819289108,105
+racing,PBRS,9,18,150018,Success (Reached Max Time),2.6426957756337988,106
+racing,PBRS,9,19,150019,Success (Reached Max Time),4.289366038477827,105
+racing,PBRS,9,20,150020,Collision (Crash),3.3620284174583577,9
+racing,PBRS,9,21,150021,Success (Reached Max Time),3.6011081781727765,105
+racing,PBRS,9,22,150022,Success (Reached Max Time),4.1530326050639115,105
+racing,PBRS,9,23,150023,Collision (Crash),3.174642012722124,29
+racing,PBRS,9,24,150024,Success (Reached Max Time),4.196058232845109,104
+racing,PBRS,9,25,150025,Collision (Crash),3.54835812434691,45
+racing,PBRS,9,26,150026,Undershoot Turn (轉向不足),3.5449440052984014,98
+racing,PBRS,9,27,150027,Success (Reached Max Time),4.71505983315695,105
+racing,PBRS,9,28,150028,Success (Reached Max Time),3.2160460641430935,105
+racing,PBRS,9,29,150029,Success (Reached Max Time),3.910514657138774,105
+racing,PBRS,9,30,150030,Success (Reached Max Time),2.656339419065374,106
+racing,PBRS,9,31,150031,Success (Reached Max Time),3.8466714856659148,105
+racing,PBRS,9,32,150032,Success (Reached Max Time),3.6186716004338235,105
+racing,PBRS,9,33,150033,Success (Reached Max Time),4.315923514746056,105
+racing,PBRS,9,34,150034,Collision (Crash),3.2901683783700664,87
+racing,PBRS,9,35,150035,Success (Reached Max Time),2.9849782038172568,105
+racing,PBRS,9,36,150036,Success (Reached Max Time),3.1639423766467516,103
+racing,PBRS,9,37,150037,Collision (Crash),3.4027150039042495,69
+racing,PBRS,9,38,150038,Success (Reached Max Time),3.0808563890945027,102
+racing,PBRS,9,39,150039,Success (Reached Max Time),2.938806782977775,106
+racing,PBRS,9,40,150040,Success (Reached Max Time),3.7702570474961528,105
+racing,PBRS,9,41,150041,Success (Reached Max Time),3.4836532961393614,105
+racing,PBRS,9,42,150042,Success (Reached Max Time),3.5603053181579556,105
+racing,PBRS,9,43,150043,Success (Reached Max Time),4.0273765245675675,104
+racing,PBRS,9,44,150044,Success (Reached Max Time),2.704085476965806,106
+racing,PBRS,9,45,150045,Success (Reached Max Time),3.0735590614278516,105
+racing,PBRS,9,46,150046,Undershoot Turn (轉向不足),3.789575573966946,51
+racing,PBRS,9,47,150047,Success (Reached Max Time),4.2248965794062965,105
+racing,PBRS,9,48,150048,Success (Reached Max Time),3.6530551298401095,104
+racing,PBRS,9,49,150049,Success (Reached Max Time),4.1030653317425605,104

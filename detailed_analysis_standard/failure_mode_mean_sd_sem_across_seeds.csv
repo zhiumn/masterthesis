@@ -1,0 +1,49 @@
+Scene,Method,Termination Reason,Mean_Percentage,SD_Percentage,Num_Seeds,SEM_Percentage
+standard,Additive-Fixed,Collision (Crash),25.2,12.514880032274469,10,3.9575525545748875
+standard,Additive-Fixed,Collision (Oversteering Spin),1.0,1.0540925533894598,10,0.3333333333333333
+standard,Additive-Fixed,Insufficient Speed (Timeout),0.0,0.0,10,0.0
+standard,Additive-Fixed,Missed Gates (Unknown),0.0,0.0,10,0.0
+standard,Additive-Fixed,Out of Bounds (Deviated),0.0,0.0,10,0.0
+standard,Additive-Fixed,Out of Bounds (Normal Flight),1.6,2.4585451886114367,10,0.77746025264604
+standard,Additive-Fixed,Overshoot Turn (轉向過度),0.0,0.0,10,0.0
+standard,Additive-Fixed,Stall (速度不足),0.0,0.0,10,0.0
+standard,Additive-Fixed,Stuck in Local Minima,0.0,0.0,10,0.0
+standard,Additive-Fixed,Success (Reached Max Time),71.2,14.366627996854376,10,4.5431266766402185
+standard,Additive-Fixed,Undershoot Turn (轉向不足),1.0,1.4142135623730951,10,0.4472135954999579
+standard,Additive-Fixed,Unknown / Success,0.0,0.0,10,0.0
+standard,Additive-Step,Collision (Crash),19.8,12.523755205386458,10,3.9603591307411046
+standard,Additive-Step,Collision (Oversteering Spin),1.4,1.8973665961010275,10,0.6
+standard,Additive-Step,Insufficient Speed (Timeout),0.0,0.0,10,0.0
+standard,Additive-Step,Missed Gates (Unknown),0.0,0.0,10,0.0
+standard,Additive-Step,Out of Bounds (Deviated),0.0,0.0,10,0.0
+standard,Additive-Step,Out of Bounds (Normal Flight),0.2,0.6324555320336759,10,0.19999999999999998
+standard,Additive-Step,Overshoot Turn (轉向過度),0.0,0.0,10,0.0
+standard,Additive-Step,Stall (速度不足),0.0,0.0,10,0.0
+standard,Additive-Step,Stuck in Local Minima,0.0,0.0,10,0.0
+standard,Additive-Step,Success (Reached Max Time),78.0,13.9522996909709,10,4.412104562073146
+standard,Additive-Step,Undershoot Turn (轉向不足),0.6,0.9660917830792959,10,0.30550504633038933
+standard,Additive-Step,Unknown / Success,0.0,0.0,10,0.0
+standard,Base Only,Collision (Crash),39.4,28.22213473302275,10,8.924622618849993
+standard,Base Only,Collision (Oversteering Spin),1.0,1.4142135623730951,10,0.4472135954999579
+standard,Base Only,Insufficient Speed (Timeout),0.0,0.0,10,0.0
+standard,Base Only,Missed Gates (Unknown),0.0,0.0,10,0.0
+standard,Base Only,Out of Bounds (Deviated),0.0,0.0,10,0.0
+standard,Base Only,Out of Bounds (Normal Flight),4.2,4.366539438350084,10,1.380821011813865
+standard,Base Only,Overshoot Turn (轉向過度),0.0,0.0,10,0.0
+standard,Base Only,Stall (速度不足),0.0,0.0,10,0.0
+standard,Base Only,Stuck in Local Minima,0.0,0.0,10,0.0
+standard,Base Only,Success (Reached Max Time),53.8,33.551949769474405,10,10.61005812111005
+standard,Base Only,Undershoot Turn (轉向不足),1.6,3.0983866769659336,10,0.9797958971132712
+standard,Base Only,Unknown / Success,0.0,0.0,10,0.0
+standard,PBRS,Collision (Crash),38.2,21.02802362985589,10,6.649644936218607
+standard,PBRS,Collision (Oversteering Spin),1.0,1.0540925533894598,10,0.3333333333333333
+standard,PBRS,Insufficient Speed (Timeout),0.0,0.0,10,0.0
+standard,PBRS,Missed Gates (Unknown),0.0,0.0,10,0.0
+standard,PBRS,Out of Bounds (Deviated),0.0,0.0,10,0.0
+standard,PBRS,Out of Bounds (Normal Flight),1.2,1.6865480854231356,10,0.5333333333333333
+standard,PBRS,Overshoot Turn (轉向過度),0.0,0.0,10,0.0
+standard,PBRS,Stall (速度不足),0.0,0.0,10,0.0
+standard,PBRS,Stuck in Local Minima,0.0,0.0,10,0.0
+standard,PBRS,Success (Reached Max Time),58.4,23.281847960255313,10,7.362366769215212
+standard,PBRS,Undershoot Turn (轉向不足),1.2,2.5298221281347035,10,0.7999999999999999
+standard,PBRS,Unknown / Success,0.0,0.0,10,0.0

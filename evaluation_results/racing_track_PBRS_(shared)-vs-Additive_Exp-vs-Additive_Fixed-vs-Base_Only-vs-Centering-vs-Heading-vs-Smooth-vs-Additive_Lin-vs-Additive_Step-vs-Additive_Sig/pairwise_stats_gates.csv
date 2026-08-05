@@ -1,0 +1,48 @@
+Method_A,Method_B,N_A,N_B,Delta,Hedges_g,p_raw,p_holm,Significance
+PBRS (shared),Additive-Exp,10,10,14.61,1.3843,0.006939,0.287301,n.s.
+PBRS (shared),Additive-Fixed,10,10,10.44,1.7258,0.000787,0.033849,*
+PBRS (shared),Base Only,10,10,9.21,0.8758,0.062724,1,n.s.
+PBRS (shared),Centering,10,10,13.91,2.3579,0.000032,0.001428,**
+PBRS (shared),Heading,10,10,5.16,0.6312,0.161435,1,n.s.
+PBRS (shared),Smooth,10,10,9.41,0.8194,0.080315,1,n.s.
+PBRS (shared),Additive-Lin,10,10,14.26,1.884,0.000458,0.020139,*
+PBRS (shared),Additive-Step,10,10,13.72,1.2683,0.011719,0.468755,n.s.
+PBRS (shared),Additive-Sig,10,10,14.65,1.3877,0.006841,0.287301,n.s.
+Additive-Exp,Additive-Fixed,10,10,-4.16,-0.394,0.375156,1,n.s.
+Additive-Exp,Base Only,10,10,-5.39,-0.3958,0.367677,1,n.s.
+Additive-Exp,Centering,10,10,-0.7,-0.0668,0.878668,1,n.s.
+Additive-Exp,Heading,10,10,-9.44,-0.7923,0.082459,1,n.s.
+Additive-Exp,Smooth,10,10,-5.2,-0.3612,0.410272,1,n.s.
+Additive-Exp,Additive-Lin,10,10,-0.34,-0.0297,0.945571,1,n.s.
+Additive-Exp,Additive-Step,10,10,-0.89,-0.0641,0.882753,1,n.s.
+Additive-Exp,Additive-Sig,10,10,0.04,0.0032,0.994082,1,n.s.
+Additive-Fixed,Base Only,10,10,-1.23,-0.1167,0.789666,1,n.s.
+Additive-Fixed,Centering,10,10,3.46,0.5842,0.189457,1,n.s.
+Additive-Fixed,Heading,10,10,-5.28,-0.6433,0.153931,1,n.s.
+Additive-Fixed,Smooth,10,10,-1.03,-0.0897,0.83761,1,n.s.
+Additive-Fixed,Additive-Lin,10,10,3.82,0.5032,0.257348,1,n.s.
+Additive-Fixed,Additive-Step,10,10,3.28,0.3024,0.493398,1,n.s.
+Additive-Fixed,Additive-Sig,10,10,4.21,0.3979,0.37057,1,n.s.
+Base Only,Centering,10,10,4.69,0.4492,0.314707,1,n.s.
+Base Only,Heading,10,10,-4.05,-0.3405,0.437983,1,n.s.
+Base Only,Smooth,10,10,0.2,0.0138,0.974682,1,n.s.
+Base Only,Additive-Lin,10,10,5.05,0.4402,0.319906,1,n.s.
+Base Only,Additive-Step,10,10,4.51,0.3257,0.456857,1,n.s.
+Base Only,Additive-Sig,10,10,5.44,0.3989,0.364036,1,n.s.
+Centering,Heading,10,10,-8.74,-1.0803,0.023908,0.932424,n.s.
+Centering,Smooth,10,10,-4.5,-0.3937,0.376777,1,n.s.
+Centering,Additive-Lin,10,10,0.36,0.0479,0.912401,1,n.s.
+Centering,Additive-Step,10,10,-0.19,-0.0175,0.968102,1,n.s.
+Centering,Additive-Sig,10,10,0.74,0.0709,0.871191,1,n.s.
+Heading,Smooth,10,10,4.25,0.333,0.448579,1,n.s.
+Heading,Additive-Lin,10,10,9.1,0.9699,0.036285,1,n.s.
+Heading,Additive-Step,10,10,8.55,0.7039,0.119648,1,n.s.
+Heading,Additive-Sig,10,10,9.49,0.7956,0.081299,1,n.s.
+Smooth,Additive-Lin,10,10,4.85,0.3925,0.374457,1,n.s.
+Smooth,Additive-Step,10,10,4.31,0.2954,0.499193,1,n.s.
+Smooth,Additive-Sig,10,10,5.24,0.3641,0.40654,1,n.s.
+Additive-Lin,Additive-Step,10,10,-0.55,-0.0465,0.915034,1,n.s.
+Additive-Lin,Additive-Sig,10,10,0.39,0.0335,0.938613,1,n.s.
+Additive-Step,Additive-Sig,10,10,0.93,0.0672,0.877034,1,n.s.
+,,,,,,,,
+,,,,,,,racing track,

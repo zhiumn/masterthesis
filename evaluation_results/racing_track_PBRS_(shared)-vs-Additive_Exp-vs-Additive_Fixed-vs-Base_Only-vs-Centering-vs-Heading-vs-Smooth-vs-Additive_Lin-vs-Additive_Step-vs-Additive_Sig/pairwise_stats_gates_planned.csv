@@ -1,0 +1,11 @@
+Family,Method_A,Method_B,N_A,N_B,Delta,Hedges_g,p_raw,p_holm,Significance
+Family A,PBRS (shared),Additive-Fixed,10,10,10.44,1.7258,0.000787,0.003935,**
+Family A,PBRS (shared),Additive-Step,10,10,13.72,1.2683,0.011719,0.046876,*
+Family A,Additive-Fixed,Base Only,10,10,-1.23,-0.1167,0.789666,1,n.s.
+Family A,Additive-Fixed,Additive-Step,10,10,3.28,0.3024,0.493398,1,n.s.
+Family A,Base Only,Additive-Step,10,10,4.51,0.3257,0.456857,1,n.s.
+Family B,Base Only,Centering,10,10,4.69,0.4492,0.314707,0.944121,n.s.
+Family B,Base Only,Heading,10,10,-4.05,-0.3405,0.437983,0.944121,n.s.
+Family B,Base Only,Smooth,10,10,0.2,0.0138,0.974682,0.974682,n.s.
+,,,,,,,,,
+,,,,,,,,racing track,

@@ -1,0 +1,46 @@
+Method_A,Method_B,N_A,N_B,Delta,Hedges_g,p_raw,p_holm,Significance
+PBRS (shared),Additive-Exp,10,10,-0.71,-0.5503,0.221666,1.000000,n.s.
+PBRS (shared),Additive-Fixed,10,10,-1.01,-0.7382,0.105540,1.000000,n.s.
+PBRS (shared),Base Only,10,10,-0.73,-0.5534,0.218249,1.000000,n.s.
+PBRS (shared),+Centering,10,10,-0.57,-0.4161,0.347091,1.000000,n.s.
+PBRS (shared),+Heading,10,10,-0.49,-0.3907,0.379726,1.000000,n.s.
+PBRS (shared),+Smooth,10,10,-1.28,-1.0282,0.034847,1.000000,n.s.
+PBRS (shared),Additive-Lin,10,10,-0.97,-0.7781,0.095723,1.000000,n.s.
+PBRS (shared),Additive-Step,10,10,-0.77,-0.6333,0.168304,1.000000,n.s.
+PBRS (shared),Additive-Sig,10,10,-1.07,-0.8544,0.070008,1.000000,n.s.
+Additive-Exp,Additive-Fixed,10,10,-0.30,-0.3330,0.447594,1.000000,n.s.
+Additive-Exp,Base Only,10,10,-0.01,-0.0181,0.966670,1.000000,n.s.
+Additive-Exp,+Centering,10,10,0.15,0.1651,0.704705,1.000000,n.s.
+Additive-Exp,+Heading,10,10,0.22,0.2970,0.497097,1.000000,n.s.
+Additive-Exp,+Smooth,10,10,-0.56,-0.8208,0.072627,1.000000,n.s.
+Additive-Exp,Additive-Lin,10,10,-0.26,-0.3701,0.399564,1.000000,n.s.
+Additive-Exp,Additive-Step,10,10,-0.06,-0.0955,0.826432,1.000000,n.s.
+Additive-Exp,Additive-Sig,10,10,-0.36,-0.5060,0.253383,1.000000,n.s.
+Additive-Fixed,Base Only,10,10,0.29,0.3074,0.482501,1.000000,n.s.
+Additive-Fixed,+Centering,10,10,0.45,0.4488,0.308590,1.000000,n.s.
+Additive-Fixed,+Heading,10,10,0.52,0.6011,0.179835,1.000000,n.s.
+Additive-Fixed,+Smooth,10,10,-0.26,-0.3211,0.465556,1.000000,n.s.
+Additive-Fixed,Additive-Lin,10,10,0.04,0.0505,0.907782,1.000000,n.s.
+Additive-Fixed,Additive-Step,10,10,0.24,0.2986,0.497903,1.000000,n.s.
+Additive-Fixed,Additive-Sig,10,10,-0.06,-0.0722,0.868279,1.000000,n.s.
+Base Only,+Centering,10,10,0.16,0.1761,0.685860,1.000000,n.s.
+Base Only,+Heading,10,10,0.23,0.3032,0.488433,1.000000,n.s.
+Base Only,+Smooth,10,10,-0.55,-0.7602,0.094914,1.000000,n.s.
+Base Only,Additive-Lin,10,10,-0.24,-0.3324,0.448859,1.000000,n.s.
+Base Only,Additive-Step,10,10,-0.05,-0.0691,0.873987,1.000000,n.s.
+Base Only,Additive-Sig,10,10,-0.35,-0.4632,0.294780,1.000000,n.s.
++Centering,+Heading,10,10,0.07,0.0846,0.845959,1.000000,n.s.
++Centering,+Smooth,10,10,-0.71,-0.8819,0.057715,1.000000,n.s.
++Centering,Additive-Lin,10,10,-0.40,-0.4966,0.264442,1.000000,n.s.
++Centering,Additive-Step,10,10,-0.21,-0.2683,0.541563,1.000000,n.s.
++Centering,Additive-Sig,10,10,-0.51,-0.6126,0.172476,1.000000,n.s.
++Heading,+Smooth,10,10,-0.78,-1.2330,0.010172,0.457744,n.s.
++Heading,Additive-Lin,10,10,-0.48,-0.7377,0.102389,1.000000,n.s.
++Heading,Additive-Step,10,10,-0.28,-0.4683,0.289912,1.000000,n.s.
++Heading,Additive-Sig,10,10,-0.58,-0.8736,0.056404,1.000000,n.s.
++Smooth,Additive-Lin,10,10,0.31,0.5161,0.243885,1.000000,n.s.
++Smooth,Additive-Step,10,10,0.50,0.9255,0.044770,1.000000,n.s.
++Smooth,Additive-Sig,10,10,0.20,0.3318,0.448713,1.000000,n.s.
+Additive-Lin,Additive-Step,10,10,0.20,0.3527,0.421390,1.000000,n.s.
+Additive-Lin,Additive-Sig,10,10,-0.10,-0.1652,0.704220,1.000000,n.s.
+Additive-Step,Additive-Sig,10,10,-0.30,-0.5193,0.241919,1.000000,n.s.

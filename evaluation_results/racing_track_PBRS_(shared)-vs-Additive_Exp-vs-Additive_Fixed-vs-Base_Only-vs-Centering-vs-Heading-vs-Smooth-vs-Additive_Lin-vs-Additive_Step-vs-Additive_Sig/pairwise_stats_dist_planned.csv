@@ -1,0 +1,9 @@
+Family,Method_A,Method_B,N_A,N_B,Delta,Hedges_g,p_raw,p_holm,Significance
+Family A,PBRS (shared),Additive-Fixed,10,10,-0.0,-0.1905,0.6622,1.0,n.s.
+Family A,PBRS (shared),Additive-Step,10,10,-0.01,-0.5738,0.197226,0.9861300000000001,n.s.
+Family A,Additive-Fixed,Base Only,10,10,-0.01,-0.333,0.447054,1.0,n.s.
+Family A,Additive-Fixed,Additive-Step,10,10,-0.0,-0.3218,0.462318,1.0,n.s.
+Family A,Base Only,Additive-Step,10,10,0.0,0.0508,0.90693,1.0,n.s.
+Family B,Base Only,+Centering,10,10,-0.0,-0.217,0.619243,1.0,n.s.
+Family B,Base Only,+Heading,10,10,0.01,0.3728,0.395573,1.0,n.s.
+Family B,Base Only,+Smooth,10,10,-0.0,-0.1238,0.77594,1.0,n.s.

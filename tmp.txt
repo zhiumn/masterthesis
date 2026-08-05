@@ -1,0 +1,8 @@
+=== Training Summary ===
+models\sharp_ablation_A0 | Seeds: 5 | Gates: 10.69 | Jerk: 19.071
+models\sharp_ablation_A1 | Seeds: 5 | Gates: 18.31 | Jerk: 19.560
+models\sharp_ablation_A2 | Seeds: 5 | Gates: 20.67 | Jerk: 19.021
+models\sharp_ablation_A3 | Seeds: 5 | Gates: 16.05 | Jerk: 19.381
+models\sharp_ablation_P4 | Seeds: 5 | Gates: 26.04 | Jerk: 19.322
+models\sharp_ablation_P5 | Seeds: 5 | Gates: 25.34 | Jerk: 19.578
+models\sharp_ablation_P6 | Seeds: 5 | Gates: 25.56 | Jerk: 19.411

@@ -1,0 +1,481 @@
+Scene,Method,Train Seed,Termination Reason,Count,Total Episodes,Proportion,Percentage
+sharp,Additive-Fixed,0,Success (Reached Max Time),9,50,0.18,18.0
+sharp,Additive-Fixed,0,Collision (Crash),32,50,0.64,64.0
+sharp,Additive-Fixed,0,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Additive-Fixed,0,Out of Bounds (Normal Flight),7,50,0.14,14.000000000000002
+sharp,Additive-Fixed,0,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,0,Undershoot Turn (轉向不足),1,50,0.02,2.0
+sharp,Additive-Fixed,0,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,0,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,0,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,0,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,0,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,0,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,1,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Additive-Fixed,1,Collision (Crash),35,50,0.7,70.0
+sharp,Additive-Fixed,1,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Additive-Fixed,1,Out of Bounds (Normal Flight),14,50,0.28,28.000000000000004
+sharp,Additive-Fixed,1,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,1,Undershoot Turn (轉向不足),1,50,0.02,2.0
+sharp,Additive-Fixed,1,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,1,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,1,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,1,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,1,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,1,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,2,Success (Reached Max Time),10,50,0.2,20.0
+sharp,Additive-Fixed,2,Collision (Crash),30,50,0.6,60.0
+sharp,Additive-Fixed,2,Collision (Oversteering Spin),7,50,0.14,14.000000000000002
+sharp,Additive-Fixed,2,Out of Bounds (Normal Flight),3,50,0.06,6.0
+sharp,Additive-Fixed,2,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,2,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Fixed,2,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,2,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,2,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,2,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,2,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,2,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,3,Success (Reached Max Time),1,50,0.02,2.0
+sharp,Additive-Fixed,3,Collision (Crash),39,50,0.78,78.0
+sharp,Additive-Fixed,3,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Additive-Fixed,3,Out of Bounds (Normal Flight),7,50,0.14,14.000000000000002
+sharp,Additive-Fixed,3,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,3,Undershoot Turn (轉向不足),2,50,0.04,4.0
+sharp,Additive-Fixed,3,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,3,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,3,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,3,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,3,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,3,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,4,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Additive-Fixed,4,Collision (Crash),38,50,0.76,76.0
+sharp,Additive-Fixed,4,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Additive-Fixed,4,Out of Bounds (Normal Flight),5,50,0.1,10.0
+sharp,Additive-Fixed,4,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,4,Undershoot Turn (轉向不足),6,50,0.12,12.0
+sharp,Additive-Fixed,4,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,4,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,4,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,4,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,4,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,4,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,5,Success (Reached Max Time),41,50,0.82,82.0
+sharp,Additive-Fixed,5,Collision (Crash),9,50,0.18,18.0
+sharp,Additive-Fixed,5,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Additive-Fixed,5,Out of Bounds (Normal Flight),0,50,0.0,0.0
+sharp,Additive-Fixed,5,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,5,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Fixed,5,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,5,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,5,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,5,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,5,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,5,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,6,Success (Reached Max Time),28,50,0.56,56.00000000000001
+sharp,Additive-Fixed,6,Collision (Crash),18,50,0.36,36.0
+sharp,Additive-Fixed,6,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Additive-Fixed,6,Out of Bounds (Normal Flight),2,50,0.04,4.0
+sharp,Additive-Fixed,6,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,6,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Fixed,6,Overshoot Turn (轉向過度),1,50,0.02,2.0
+sharp,Additive-Fixed,6,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,6,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,6,Insufficient Speed (Timeout),1,50,0.02,2.0
+sharp,Additive-Fixed,6,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,6,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,7,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Additive-Fixed,7,Collision (Crash),34,50,0.68,68.0
+sharp,Additive-Fixed,7,Collision (Oversteering Spin),3,50,0.06,6.0
+sharp,Additive-Fixed,7,Out of Bounds (Normal Flight),12,50,0.24,24.0
+sharp,Additive-Fixed,7,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,7,Undershoot Turn (轉向不足),1,50,0.02,2.0
+sharp,Additive-Fixed,7,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,7,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,7,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,7,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,7,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,7,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,8,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Additive-Fixed,8,Collision (Crash),41,50,0.82,82.0
+sharp,Additive-Fixed,8,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Additive-Fixed,8,Out of Bounds (Normal Flight),6,50,0.12,12.0
+sharp,Additive-Fixed,8,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,8,Undershoot Turn (轉向不足),2,50,0.04,4.0
+sharp,Additive-Fixed,8,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,8,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,8,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,8,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,8,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,8,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Fixed,9,Success (Reached Max Time),31,50,0.62,62.0
+sharp,Additive-Fixed,9,Collision (Crash),15,50,0.3,30.0
+sharp,Additive-Fixed,9,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Additive-Fixed,9,Out of Bounds (Normal Flight),2,50,0.04,4.0
+sharp,Additive-Fixed,9,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Fixed,9,Undershoot Turn (轉向不足),1,50,0.02,2.0
+sharp,Additive-Fixed,9,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Fixed,9,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Fixed,9,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Fixed,9,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Fixed,9,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Fixed,9,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,0,Success (Reached Max Time),35,50,0.7,70.0
+sharp,Additive-Step,0,Collision (Crash),15,50,0.3,30.0
+sharp,Additive-Step,0,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Additive-Step,0,Out of Bounds (Normal Flight),0,50,0.0,0.0
+sharp,Additive-Step,0,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,0,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Step,0,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,0,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,0,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,0,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,0,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,0,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,1,Success (Reached Max Time),18,50,0.36,36.0
+sharp,Additive-Step,1,Collision (Crash),30,50,0.6,60.0
+sharp,Additive-Step,1,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Additive-Step,1,Out of Bounds (Normal Flight),1,50,0.02,2.0
+sharp,Additive-Step,1,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,1,Undershoot Turn (轉向不足),1,50,0.02,2.0
+sharp,Additive-Step,1,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,1,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,1,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,1,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,1,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,1,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,2,Success (Reached Max Time),30,50,0.6,60.0
+sharp,Additive-Step,2,Collision (Crash),18,50,0.36,36.0
+sharp,Additive-Step,2,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Additive-Step,2,Out of Bounds (Normal Flight),1,50,0.02,2.0
+sharp,Additive-Step,2,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,2,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Step,2,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,2,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,2,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,2,Insufficient Speed (Timeout),1,50,0.02,2.0
+sharp,Additive-Step,2,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,2,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,3,Success (Reached Max Time),16,50,0.32,32.0
+sharp,Additive-Step,3,Collision (Crash),33,50,0.66,66.0
+sharp,Additive-Step,3,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Additive-Step,3,Out of Bounds (Normal Flight),0,50,0.0,0.0
+sharp,Additive-Step,3,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,3,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Step,3,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,3,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,3,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,3,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,3,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,3,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,4,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Additive-Step,4,Collision (Crash),40,50,0.8,80.0
+sharp,Additive-Step,4,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Additive-Step,4,Out of Bounds (Normal Flight),9,50,0.18,18.0
+sharp,Additive-Step,4,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,4,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Step,4,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,4,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,4,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,4,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,4,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,4,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,5,Success (Reached Max Time),3,50,0.06,6.0
+sharp,Additive-Step,5,Collision (Crash),39,50,0.78,78.0
+sharp,Additive-Step,5,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Additive-Step,5,Out of Bounds (Normal Flight),7,50,0.14,14.000000000000002
+sharp,Additive-Step,5,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,5,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Step,5,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,5,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,5,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,5,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,5,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,5,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,6,Success (Reached Max Time),6,50,0.12,12.0
+sharp,Additive-Step,6,Collision (Crash),29,50,0.58,57.99999999999999
+sharp,Additive-Step,6,Collision (Oversteering Spin),3,50,0.06,6.0
+sharp,Additive-Step,6,Out of Bounds (Normal Flight),6,50,0.12,12.0
+sharp,Additive-Step,6,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,6,Undershoot Turn (轉向不足),6,50,0.12,12.0
+sharp,Additive-Step,6,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,6,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,6,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,6,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,6,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,6,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,7,Success (Reached Max Time),20,50,0.4,40.0
+sharp,Additive-Step,7,Collision (Crash),24,50,0.48,48.0
+sharp,Additive-Step,7,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Additive-Step,7,Out of Bounds (Normal Flight),4,50,0.08,8.0
+sharp,Additive-Step,7,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,7,Undershoot Turn (轉向不足),2,50,0.04,4.0
+sharp,Additive-Step,7,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,7,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,7,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,7,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,7,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,7,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,8,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Additive-Step,8,Collision (Crash),29,50,0.58,57.99999999999999
+sharp,Additive-Step,8,Collision (Oversteering Spin),2,50,0.04,4.0
+sharp,Additive-Step,8,Out of Bounds (Normal Flight),18,50,0.36,36.0
+sharp,Additive-Step,8,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,8,Undershoot Turn (轉向不足),1,50,0.02,2.0
+sharp,Additive-Step,8,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,8,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,8,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,8,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,8,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,8,Unknown / Success,0,50,0.0,0.0
+sharp,Additive-Step,9,Success (Reached Max Time),1,50,0.02,2.0
+sharp,Additive-Step,9,Collision (Crash),34,50,0.68,68.0
+sharp,Additive-Step,9,Collision (Oversteering Spin),2,50,0.04,4.0
+sharp,Additive-Step,9,Out of Bounds (Normal Flight),13,50,0.26,26.0
+sharp,Additive-Step,9,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Additive-Step,9,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Additive-Step,9,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Additive-Step,9,Stall (速度不足),0,50,0.0,0.0
+sharp,Additive-Step,9,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Additive-Step,9,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Additive-Step,9,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Additive-Step,9,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,0,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Base Only,0,Collision (Crash),36,50,0.72,72.0
+sharp,Base Only,0,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Base Only,0,Out of Bounds (Normal Flight),14,50,0.28,28.000000000000004
+sharp,Base Only,0,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,0,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Base Only,0,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,0,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,0,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,0,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,0,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,0,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,1,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Base Only,1,Collision (Crash),33,50,0.66,66.0
+sharp,Base Only,1,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Base Only,1,Out of Bounds (Normal Flight),17,50,0.34,34.0
+sharp,Base Only,1,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,1,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Base Only,1,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,1,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,1,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,1,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,1,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,1,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,2,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Base Only,2,Collision (Crash),33,50,0.66,66.0
+sharp,Base Only,2,Collision (Oversteering Spin),3,50,0.06,6.0
+sharp,Base Only,2,Out of Bounds (Normal Flight),14,50,0.28,28.000000000000004
+sharp,Base Only,2,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,2,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Base Only,2,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,2,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,2,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,2,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,2,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,2,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,3,Success (Reached Max Time),29,50,0.58,57.99999999999999
+sharp,Base Only,3,Collision (Crash),21,50,0.42,42.0
+sharp,Base Only,3,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Base Only,3,Out of Bounds (Normal Flight),0,50,0.0,0.0
+sharp,Base Only,3,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,3,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Base Only,3,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,3,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,3,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,3,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,3,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,3,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,4,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Base Only,4,Collision (Crash),36,50,0.72,72.0
+sharp,Base Only,4,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Base Only,4,Out of Bounds (Normal Flight),14,50,0.28,28.000000000000004
+sharp,Base Only,4,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,4,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Base Only,4,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,4,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,4,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,4,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,4,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,4,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,5,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Base Only,5,Collision (Crash),35,50,0.7,70.0
+sharp,Base Only,5,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Base Only,5,Out of Bounds (Normal Flight),12,50,0.24,24.0
+sharp,Base Only,5,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,5,Undershoot Turn (轉向不足),3,50,0.06,6.0
+sharp,Base Only,5,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,5,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,5,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,5,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,5,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,5,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,6,Success (Reached Max Time),2,50,0.04,4.0
+sharp,Base Only,6,Collision (Crash),40,50,0.8,80.0
+sharp,Base Only,6,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,Base Only,6,Out of Bounds (Normal Flight),3,50,0.06,6.0
+sharp,Base Only,6,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,6,Undershoot Turn (轉向不足),4,50,0.08,8.0
+sharp,Base Only,6,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,6,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,6,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,6,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,6,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,6,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,7,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Base Only,7,Collision (Crash),33,50,0.66,66.0
+sharp,Base Only,7,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Base Only,7,Out of Bounds (Normal Flight),17,50,0.34,34.0
+sharp,Base Only,7,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,7,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,Base Only,7,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,7,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,7,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,7,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,7,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,7,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,8,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Base Only,8,Collision (Crash),34,50,0.68,68.0
+sharp,Base Only,8,Collision (Oversteering Spin),2,50,0.04,4.0
+sharp,Base Only,8,Out of Bounds (Normal Flight),13,50,0.26,26.0
+sharp,Base Only,8,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,8,Undershoot Turn (轉向不足),1,50,0.02,2.0
+sharp,Base Only,8,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,8,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,8,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,8,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,8,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,8,Unknown / Success,0,50,0.0,0.0
+sharp,Base Only,9,Success (Reached Max Time),0,50,0.0,0.0
+sharp,Base Only,9,Collision (Crash),31,50,0.62,62.0
+sharp,Base Only,9,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,Base Only,9,Out of Bounds (Normal Flight),18,50,0.36,36.0
+sharp,Base Only,9,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,Base Only,9,Undershoot Turn (轉向不足),1,50,0.02,2.0
+sharp,Base Only,9,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,Base Only,9,Stall (速度不足),0,50,0.0,0.0
+sharp,Base Only,9,Stuck in Local Minima,0,50,0.0,0.0
+sharp,Base Only,9,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,Base Only,9,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,Base Only,9,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,0,Success (Reached Max Time),0,50,0.0,0.0
+sharp,PBRS,0,Collision (Crash),38,50,0.76,76.0
+sharp,PBRS,0,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,PBRS,0,Out of Bounds (Normal Flight),10,50,0.2,20.0
+sharp,PBRS,0,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,0,Undershoot Turn (轉向不足),2,50,0.04,4.0
+sharp,PBRS,0,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,0,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,0,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,0,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,0,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,0,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,1,Success (Reached Max Time),0,50,0.0,0.0
+sharp,PBRS,1,Collision (Crash),33,50,0.66,66.0
+sharp,PBRS,1,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,PBRS,1,Out of Bounds (Normal Flight),2,50,0.04,4.0
+sharp,PBRS,1,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,1,Undershoot Turn (轉向不足),15,50,0.3,30.0
+sharp,PBRS,1,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,1,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,1,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,1,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,1,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,1,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,2,Success (Reached Max Time),0,50,0.0,0.0
+sharp,PBRS,2,Collision (Crash),36,50,0.72,72.0
+sharp,PBRS,2,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,PBRS,2,Out of Bounds (Normal Flight),13,50,0.26,26.0
+sharp,PBRS,2,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,2,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,PBRS,2,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,2,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,2,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,2,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,2,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,2,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,3,Success (Reached Max Time),3,50,0.06,6.0
+sharp,PBRS,3,Collision (Crash),43,50,0.86,86.0
+sharp,PBRS,3,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,PBRS,3,Out of Bounds (Normal Flight),3,50,0.06,6.0
+sharp,PBRS,3,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,3,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,PBRS,3,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,3,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,3,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,3,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,3,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,3,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,4,Success (Reached Max Time),1,50,0.02,2.0
+sharp,PBRS,4,Collision (Crash),36,50,0.72,72.0
+sharp,PBRS,4,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,PBRS,4,Out of Bounds (Normal Flight),12,50,0.24,24.0
+sharp,PBRS,4,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,4,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,PBRS,4,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,4,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,4,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,4,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,4,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,4,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,5,Success (Reached Max Time),0,50,0.0,0.0
+sharp,PBRS,5,Collision (Crash),31,50,0.62,62.0
+sharp,PBRS,5,Collision (Oversteering Spin),2,50,0.04,4.0
+sharp,PBRS,5,Out of Bounds (Normal Flight),17,50,0.34,34.0
+sharp,PBRS,5,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,5,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,PBRS,5,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,5,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,5,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,5,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,5,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,5,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,6,Success (Reached Max Time),21,50,0.42,42.0
+sharp,PBRS,6,Collision (Crash),27,50,0.54,54.0
+sharp,PBRS,6,Collision (Oversteering Spin),1,50,0.02,2.0
+sharp,PBRS,6,Out of Bounds (Normal Flight),1,50,0.02,2.0
+sharp,PBRS,6,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,6,Undershoot Turn (轉向不足),0,50,0.0,0.0
+sharp,PBRS,6,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,6,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,6,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,6,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,6,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,6,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,7,Success (Reached Max Time),0,50,0.0,0.0
+sharp,PBRS,7,Collision (Crash),38,50,0.76,76.0
+sharp,PBRS,7,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,PBRS,7,Out of Bounds (Normal Flight),9,50,0.18,18.0
+sharp,PBRS,7,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,7,Undershoot Turn (轉向不足),3,50,0.06,6.0
+sharp,PBRS,7,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,7,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,7,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,7,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,7,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,7,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,8,Success (Reached Max Time),0,50,0.0,0.0
+sharp,PBRS,8,Collision (Crash),41,50,0.82,82.0
+sharp,PBRS,8,Collision (Oversteering Spin),3,50,0.06,6.0
+sharp,PBRS,8,Out of Bounds (Normal Flight),3,50,0.06,6.0
+sharp,PBRS,8,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,8,Undershoot Turn (轉向不足),3,50,0.06,6.0
+sharp,PBRS,8,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,8,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,8,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,8,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,8,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,8,Unknown / Success,0,50,0.0,0.0
+sharp,PBRS,9,Success (Reached Max Time),1,50,0.02,2.0
+sharp,PBRS,9,Collision (Crash),42,50,0.84,84.0
+sharp,PBRS,9,Collision (Oversteering Spin),0,50,0.0,0.0
+sharp,PBRS,9,Out of Bounds (Normal Flight),3,50,0.06,6.0
+sharp,PBRS,9,Out of Bounds (Deviated),0,50,0.0,0.0
+sharp,PBRS,9,Undershoot Turn (轉向不足),4,50,0.08,8.0
+sharp,PBRS,9,Overshoot Turn (轉向過度),0,50,0.0,0.0
+sharp,PBRS,9,Stall (速度不足),0,50,0.0,0.0
+sharp,PBRS,9,Stuck in Local Minima,0,50,0.0,0.0
+sharp,PBRS,9,Insufficient Speed (Timeout),0,50,0.0,0.0
+sharp,PBRS,9,Missed Gates (Unknown),0,50,0.0,0.0
+sharp,PBRS,9,Unknown / Success,0,50,0.0,0.0
